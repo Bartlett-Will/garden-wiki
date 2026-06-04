@@ -1,0 +1,1036 @@
+This episode wraps up the Foundation Series, a short run of conversations that still shape how I think about plant health, soil management, and cultivation systems today.
+Over the past few episodes, we've looked at plant physiology, cultivation systems, soil biology, and applied horticulture.
+To close out the series, I want to revisit a conversation that really focuses on how experienced agronomists actually diagnose soil problems in the real world.
+My guest is crop consultant, Lee Breeze.
+Lee has a very practical approach to soil health that I think a lot of growers can learn from.
+While biology is an important part of soils, Lee emphasizes that good decisions usually start with understanding the chemical and physical properties of the soil.
+Interpreting soil tests, looking at soil structure and aggregates, and paying attention to what the soil is telling you when you're actually out in the field.
+We also talk about how experienced agronomists approach soil a lot like a doctor approaches the human body, looking at multiple indicators together to diagnose what's really going on and how to correct it.
+This conversation originally aired in 2021, but the principles around observation, soil analysis, and understanding the physical structure of soil are just as relevant today as they were then.
+And with this episode, we'll wrap up the foundation series.
+Up next, I'll be releasing a brand new conversation with plant pathologist, Dr. Zamir Poonja, where we dive into plant diseases, pathogens, and what growers should understand about managing disease pressure in modern cultivation systems.
+But for now, let's get into this conversation with Lee Breeze.
+Welcome to the Cannabis Cultivation and Science Podcast.
+I'm your host, Tad Hussey of KISS Organics.
+This is the podcast where we discuss the cutting edge of growing from a science-based perspective and draw on top experts from around the industry to share their wisdom and knowledge.
+My guest this week is Lee Breeze.
+Lee is an independent crop consultant from central North Dakota.
+He provides agronomic advice to help farmers build customized systems to grow and manage crops profitably.
+He specializes in helping farmers adopt practices to protect and improve their soil and local environment, including reduced till, no-till, cover crops, crop rotation, and increased plant and economic diversity.
+Now on to the show.
+Hey, Lee.
+Thanks for coming on the show today.
+Hello.
+Hey, can we start off talking a little bit about your background and sort of what you do for a living?
+Yeah, sounds good.
+So what I do for a living is I'm an agricultural crop consultant.
+I actually work directly with farmers to provide agricultural advice.
+And I tell everybody I'm a plant doctor.
+And I don't just mean that metaphorically.
+I actually went to school and have that degree.
+I have a doctor of plant health from the University of Nebraska.
+But what I do is I work with farmers and I go out and check their fields and do regular checkups just like you would think of it as a doctor.
+And it's very similar to human beings.
+When they're small, they need more checkups and more close attention.
+And as they get older, they need a little bit of less attention.
+So I do that.
+So I weekly check the farmer's crops and look for pests and diseases and problems and environmental problems and all those types of things.
+And if we do find some things, I write prescriptions, whether they be fertility prescriptions or practice prescriptions or whatever, to help them manage those situations.
+And we maintain it all the way through the season.
+So you've probably seen a lot over the years.
+How do you approach a given situation?
+Are there any critical things that you look for when stepping onto a new plot of land or starting to work with a new farmer?
+Yeah, that's a great question.
+I'm a very visual and tactile oriented person.
+And so I really have to spend some time in that production system and in that field.
+I actually like to spend a little bit of alone time and then meet up with the farmer later and talk about things.
+What I find is that my viewpoint is a little bit different than the producer's.
+And so I probably see things in a different light, in a different way.
+And I may find some things that are challenging for them that they may have just assumed that it just is what it is and they don't necessarily tackle it.
+Or they may value a particular problem more than another where I may value them differently.
+So the combination of the producer and I working together through these situations seems to be very, very beneficial.
+You know, I know there are a fair number of consultants out there that will just look at a soil test or a biological test and make their recommendations or determinations around that.
+You know, what percentage of would you say of your decision making is based off of a test versus what you, you know, what you see in the field and actually spending that time, you know, on site?
+Oh, you ask hard questions.
+Okay.
+So, yeah, so the test is important.
+It's an actual measurement that, you know, we're doing this.
+But for me, a soil test, the ones that I'm doing primarily are straight up chemical analysis.
+So we're looking at fertility levels.
+That's the main thing that the test shows me.
+So that's important.
+But the type of soil and the lay of the land, the topography of it and all of that influences how fertility moves and how it's released, a sandy soil versus a higher clay soil or a steep slope versus a shallow flat field.
+Those all make differences on how that nutrient is going to be utilized and how it's going to be available.
+And so those types of things are critically important.
+I'm going to say about 50-50.
+But there's also a point where I've spent enough time on the farm.
+So in the beginning, it's 50-50.
+But I think once we get into it, I mean, there's this continuous note-taking going on, right?
+Every time I'm out in this field, I'm taking mental notes and I'm taking actual physical notes and writing things out.
+And as I do this over time, my things change a little bit.
+And so then I adapt them to that specific thing.
+So then, yes, the chemical analysis is still important, but it becomes a little bit less important over time as we see how the things fit in that particular field or position.
+So you mentioned that you primarily use a chemical analysis.
+Can we talk a little bit about biological analysis?
+Absolutely.
+What experience do you have with that or what benefit, if any, do you see associated with it?
+Because that's a question we get a lot.
+Yeah, there's a lot of it out there.
+Yeah, I think scientists tend to overdo this.
+Their particular field is the greatest place to discover new things, and I'm no different.
+I'm a soil scientist.
+I think there's a great amount of things for us to discover in soils that we simply don't know yet.
+And I think biology is that big reserve of kind of this cloudy, hazy thing that we kind of know some of the things that are going on, but we certainly don't know everything that's going on.
+And the other thing that's difficult with biology is that when we're talking about things, we're talking about entire kingdoms of differences, right?
+We're talking about bacteria.
+We're talking about archaea.
+And we're talking about fungi.
+And that's the highest level of organismal order.
+And so we're talking about huge differences.
+And when you think about bacteria, you're talking about things on hours, minutes, and days, and versus fungi, we're talking about days, weeks, and months.
+And so those life cycles affect it.
+So my caveat with biological analysis is as much as when you're doing the analysis as what kind of analysis you're doing.
+And I think I don't have a problem with analysis because I think they've been well tested.
+There's established protocols and all that kind of thing.
+But if you take a poor sample or you take a sample at a timing that's different for a specific biological indicator, you're going to get wildly different things.
+So, for example, a cold soil versus a warm soil or a wet soil versus at the end of a drought, you're going to see some very different things because biology responds to all of those things versus a chemical analysis is pretty straightforward.
+And this is, you know, it's going to be a similar thing in both situations.
+So I think there's a lot of things.
+There's CO2 respiration.
+There is PFLA's, which are actual, you know, genetic testing, looking for markers and to see who's all in there.
+And I think these are really interesting things to pursue so we can do this.
+We can find out who's in there at the time that you sampled and under those conditions.
+But I don't know that we clearly understand which ones we want to cultivate or promote at any given point in time.
+We're not really sure what their involvement is or how they work or who's important, who we want.
+You know, if we're going to sort them to the good guys and bad guys, who's on which team, I don't think we're quite there yet.
+Yeah, what I also can hear you saying, too, is it may not give you actionable information in terms of how you're approaching your land.
+I mean, you could say, hey, this soil should be more biologically active, you know, even given the fact that, you know, it hasn't rained recently or we're at this point in the season.
+But do you find that that really changes the way you manage that soil?
+I mean, like for me, my perspective is like I'm going to be doing these things to promote good biological activity anyway.
+You know, and let's talk about organic matter next year because I know that that really can go hand in hand in a lot of cases.
+So so I don't find it gives me a ton of, you know, actionable information.
+And I do also feel like when we talk strictly about sets of organisms like fungal versus bacterial and what those ratios may be, it's it's too macroscopic of a view to really to really know what goes on.
+I think we we need our level of knowledge to increase to where we can really start looking at these species and how they interact with particular crops and how they interact with each other.
+It's just it's it's such a complex system. Right. It almost feels like an over oversimplification to me.
+But, you know, what are your thoughts on that?
+No, I agree. I think it is an oversimplification. And I think it's it is this complex, wild jungle.
+And I think there's a point in time where we're trying to cultivate the antelope and the lions are just gobbling them up. Right.
+And so that's fine if that's what your goals are. But I really don't. I agree.
+These things aren't necessarily actionable yet. I'm not saying it's not worthwhile to try to catalog some of the stuff.
+So doing some type of regular analysis, potentially yearly analysis.
+And again, I would do it under similar conditions and similar timeframes, both spatially, temporally and within your production system.
+So that it's it's it's a repetitive, repetitive thing. So you're trying to measure the same point in time, the same kind of thing going on.
+And then you can maybe track some changes potentially.
+But again, what what are you going to do about that? I don't know.
+I think a lot of the things that you're going to do, you're going to do anyway.
+Like you said, you're trying to you're trying to manage your organic matter.
+You're trying to manage your cover. You're trying to manage your water.
+You're trying to manage your nutrient availability, your pH is and all these kinds of things to make sure that your crop has the best.
+And I think really the best biological indicator for us as people are the ones that are easiest to see.
+And I think your crop is one of those.
+When you have a healthy, well-producing crop, I think it tells you a lot about what's going on in the soil.
+And I'm not sure that we need to know all of those details.
+I think that little black box can stay black if you have a healthy crop.
+I mean, that's our ultimate goal. Why not measure that rather than all of these secondary indicators?
+Yeah, so I've stolen these and I can't even give credit because it's so long ago.
+But so organic matter is composed of three types of basic things.
+And it would be the living, so the live organisms, the stuff that's going on.
+And then it's the recently dead, the things that you can easily identify.
+You can see it's a plant or a piece of a leaf or whatever.
+And then there's the really dead, they call it, which is the dark colors.
+And it's no longer distinguishable, but we know it's not a mineral.
+We know that it came from organic and it's not a mineral.
+So those are the three kind of pools of organic matter.
+And those are all part of the deal.
+And a lot of people will call the long-term stuff the humus.
+What's interesting is that after we talked, I looked into this more.
+And there's been some new science on humus and the idea of long-term stable organic matter.
+And that may not be as long-term as we originally thought.
+They've come up with new tools and tactics to measure it.
+We're measuring it in different ways.
+And prior to this, we've used a very harsh chemical analysis.
+And then what came out of that at the end was these very stable compounds, these organic matter compounds.
+When you want to use a really, really strong acid to dissolve things, you change it significantly.
+And when it recombines, it combines into some very strong structures.
+They've gone to using some microscopic type of things as technologies improve.
+And they see that they fit this longer-term organic matter, the really dead stuff that we can't identify what it is, may actually cycle quite a bit faster than they thought it'd done.
+So that's quite interesting.
+But again, I don't know that it matters a whole lot, right?
+So when I'm assessing soil, I like to take a shovel.
+I like to dig a little hole.
+I look for color.
+I look for structure or the permeability, the ability of water to move through it, the ability of roots to move through it.
+And then I love to smell that, right?
+I like to get that earth and smell and see what that smells like.
+That smells good to us.
+And I wonder if that isn't an evolutionary thing for human beings.
+We're able to smell good earth.
+We understand what that means, that those that maybe didn't do so well.
+And so I think part of that is just this idea of this whole using your senses to understand what's going on.
+And I think that qualitative assessment can sometimes be really, really important and in certain situations as important or more important than a quantitative assessment because quantitative only measures one thing at a time versus when you or I are out there with a shovel and a handful of soil, we're measuring and evaluating several things at once.
+So you're almost like a detective, you know, using those qualitative tools and then the quantitative tools to figure out whatever that limiting factor of growth is in regards to, you know, the plant health or maybe the farmer's priorities, you know, those sorts of things.
+Right.
+Yeah.
+And I don't mean it to be all, you know, fairy tales and rainbows type of thing here.
+But honestly, when I'm talking about, we can measure soil density and that type of thing and bulk density of the soil, it can be measured.
+And that tells us about pore space and water permeability and all those types of things.
+Or you can take a shovel and you can put it into the soil and you can feel the differences between a compacted soil that has very little pore space.
+It's hard, it's been driven on your driveway versus a really well-grown prairie native land or trees or, you know, we have that feeling and we can feel that as much with a shovel and do that qualitatively and understand what's going on.
+So this is something and it's actually much more rapid than trying to take an analytical test.
+Now, I use the analytical test to back up these qualitative measurements, right, because I need to calibrate it some way.
+If I'm in a good mood, I tend to measure things a little more optimistically.
+If I'm having a rough day, it may not be quite so optimistic.
+So I have to make sure that I calibrate it a little bit.
+I think it's really the combination of the factors.
+And then it's fitting these pieces together in a specific set to make it fit that particular piece of land, that particular farm, that particular goal set.
+You know, for people who are unfamiliar with determining soil texture, you know, I went to the ISSA meeting a couple of years back and they had a booth there where people could do essentially the soil ribbon test and to determine, you know, the fractions of sand, silt and clay in a soil.
+And some people are quite accurate at doing this, you know, very close to what a, you know, what a full analysis would tell you.
+It's pretty fascinating.
+So while it is qualitative, I will say, you know, I'm not very good at it myself, but it was fun to see people that were.
+Right.
+And again, this is a practice and time thing and an experience thing.
+Yeah.
+And so I think once you, so you've got to start somewhere.
+You've got to start at the beginning.
+And so going to a booth where they have, okay, this is a high clay soil.
+This is a high silt soil.
+This is a high sand soil gets you started.
+And then as you practice with it, and then you, again, you double check with the laboratory analysis.
+So I do, I do that ribbon analysis everywhere I go.
+I don't necessarily like write the numbers down 30% clay and 20% silt and, you know, that type of thing.
+But I'm always have it in my hand when I've taken the soil up, I dig it up.
+I've got it in my hand.
+I'll perform the ribbon analysis.
+The other thing that I'll look at that is very difficult to measure in the lab, we can do it, is the soil aggregates.
+Those little chunks, those little nubbins.
+And you'll hear people talk about soil should look like chocolate cake or should have little Lego blocks in them rather than just be this massive fluff.
+You'd rather not have it as flour.
+Because all of those little aggregates are, they're individual cities and universes for all of these things.
+When you think about the scale of bacteria, they need small places with microscopic organisms.
+So within one of these little aggregates, there's all kinds of different places for them to live.
+And I really think about it as a city.
+So there's a downtown where things are very dense and congested.
+And then there's kind of that outskirts or the suburban area around the outside.
+And then you get into the more rural area on the outside of this aggregate.
+And to be quite honest with you, there are different biological things that want to live in all of those different spaces.
+And it has to do with, you know, oxygen contents and water contents and nutrient availability and all that kind of stuff.
+So those aggregates provide several little cities with many, many, many environments for different types of biology.
+Versus a fluffy soil that's more like flour is a different type of landscape that's much more uniform.
+It may be easier for us to manage physically with planting equipment or harvesting equipment and that type of thing.
+But it's not near as biologically active as those little aggregates with cities that have all these different environments for those things.
+And when you look at it as a microbe, if you're a bacteria, trying to move a millimeter is an impossibility.
+It's like me trying to walk across the country from California to New York.
+I just simply can't do it, you know, in a reasonable time frame.
+So those are things that are easy to see and assess.
+And then you put them in your fingers and you start to crush them.
+How strong are they? How stable are they?
+Now, we can measure all of this in a lab, but you have to be careful in how you take it.
+You send it to the lab and then they do the water shake test and it takes some time.
+They'll give you the aggregate size fractions, large ones, medium, small, that type of thing.
+But we can do this right in the field with a shovel with a little bit of practice.
+So we've determined texture, then we can determine aggregate stability, and that leads into water.
+And we've also determined both density and all we needed was a shovel.
+So you're looking at, in this case, the physical properties of the soil.
+And then from there, you would turn to the sort of the chemical properties.
+And that's where that lab test comes in handy.
+And then I'm making assumptions for the biology based on the physical, knowing that this aggregates kind of the build it and they will come thing.
+Like if you give them the environment, the biology can prosper in a better way.
+And I'm not necessarily advocating no-till for everything, but, you know, tillage is a necessary tool for us to manage our crops and to do things in the right ways.
+Where it's possible, where you can reduce that and maintain stable aggregates, it helps with your biology.
+It's one of the things that helps with the biology.
+Significant tillage, again and again and again, is challenging for biology.
+And this is where you'll see some of those ratios change.
+I think this is what people try to use them for.
+It's like, well, if your bacterial ratio is getting really high, those are the ones, again, the short life cycle.
+They rebound much faster.
+They can rebound in a few days versus a fungi that you've taken and some of them mycelia are inches long.
+And you grind them up into these little stubs, well, it's going to take them a lot longer to regenerate and regrow and their life cycle is longer.
+So you'll see that if you do a PFLA.
+You'll see your bacterial analysis will be much higher than your fungal analysis.
+And it might be related to just you had to do tillage.
+And so does that mean you did the wrong thing for your soil?
+I don't know that it does.
+You may have needed to do that for your production system.
+But if you measured it at that time, you may see that.
+This is, again, that temporal thing.
+When are you measuring it and what you're doing?
+And so all of these things, mostly I can't see the bacteria, but I can smell them.
+This is that good earth smell.
+This is actinomycetes bacteria.
+Actinomycetes are their own little group.
+And those are breaking down organic compounds and they're releasing specific aromatic compounds that we can smell.
+And we smell it as good earth.
+And that just means that you're biologically functioning.
+I've been in some soils that have a high salt content just naturally.
+And there's very little if no smell to them at all.
+And it's really because the salts are preventing that biology from being highly active.
+Yeah, you mentioned high salt.
+So, I mean, one of the things about dealing with outdoor crops is you kind of are stuck with the conditions that you're stuck with.
+Whether that's, you know, I've seen high calcium.
+I've seen high salt.
+How do you approach these things?
+So, when you're testing, you're testing, you're doing chemical analysis, not just on the soil, but the water as well?
+Typically, no.
+This is on dried soil.
+But we can definitely do a chemical analysis on water.
+It's not something that we do routinely.
+One of the ways that we measure salts or saline soils here is actual electrical conductivity.
+And so, we can do that in situ.
+So, this isn't even sent to the lab.
+So, we have a machine that injects, it puts out an electrical current.
+And so, electrical current, and then it receives how much comes through.
+So, we're actually looking at conductance.
+It's the inverse of resistance, basically.
+So, what's going on is as long as we have a little bit of water for the wire or the conduit, that will conduct electricity.
+And the more solutes you have, the more salts you have, the more electricity gets conducted.
+So, you'll have a higher reading.
+And so, that's how salts are typically measured is through electrical conductivity.
+That can be in and done in the lab or in situ in the field.
+So, we can measure those things.
+And then the salts, what they do is it really is pretty straightforward in most cases is it's just an osmotic thing.
+The high salts in the plants can't get the water.
+It acts like a drought as the salt pulls harder than the plant can.
+So, then it can't get moisture.
+There are a few situations where a specific ion will interfere with other ions and cause some issues.
+Or really high concentrations of chloride, per se, can become plant toxic that way.
+But it's typically a drought-inducing situation for us.
+Yeah, we use soluble salts or EC to measure on the saturated paste to sort of see what level of fertility we're starting at.
+In, you know, indoor with essentially potting soils or soilless media.
+But it's a very different situation because typically we can keep our sodium content, you know, substantially lower.
+So, we're looking at what fraction of that is actually sodium.
+But we're also realizing that, you know, this tells us sort of our fertility in some ways.
+Sure.
+It does because it's related to your cation exchange capacity.
+It really relates directly because those charges help conduct that electricity as well.
+So, you know, what are some examples of when you feel like tillage is important in a production system?
+So, for me, one of the main things tends to be a disease management type of thing.
+So, while I'm a fan of residue cover in, you know, production agricultural fields, I don't like wind erosion.
+I don't like water erosion, right?
+So, the plant material, the biomass from the previous crop is a really good way to protect that soil or armor it from heavy rainfall or high wind events.
+But it's also the perfect place for the fungi and bacteria and those microorganisms to survive and proliferate and be ready for next year's crop and to attack you.
+So, there are times when we need to manage the residue.
+And I think that's part of it.
+And how aggressive you get is there are grades, right?
+It doesn't have to go all the way from complete annihilation of all soil structure and all plant material.
+There are grades across that.
+And, again, this is individual specific situations.
+What are you trying to accomplish?
+Is the following crop going to be as susceptible to the potential diseases?
+Or did you use that as one of your tools?
+Using a crop that's not as susceptible to that disease.
+So, then you don't have to worry so much about that breakdown component.
+That type of thing.
+The other time where, in production in particular, where we're using tillage as a tool is when we've had to do field operations when we shouldn't be there.
+When it's too wet, often we have too much moisture, but the crop is in jeopardy of being lost to the weather.
+And we simply have to physically go out there and get it.
+And we'll leave tracks and ruts in the field and some compaction.
+And if you've moved soil and you've made impressions with heavy equipment out there, it's not going to just magically disappear.
+You have to move the soil to fill that in and to make it another level playing space.
+So, again, we're using it targeted that way when we've made a management decision that we need to go do something and we've caused a problem and we're using it as partial fix.
+So, that's typically what I'm doing.
+Tillage is used much more broadly in my region and it's used to manage water primarily.
+So, fall moisture.
+So, guys are doing tillage this fall here now, getting ready to reduce the moisture so that next year it's drier to plant into and they can plant easier and a good condition.
+There are other ways to do that.
+Increasing your infiltration rate, using some cover crops.
+But, again, they have their own drawbacks too.
+So, essentially what I'm hearing is that none of these things are black and white.
+You know, tillage isn't always bad.
+It isn't always good.
+We need to look at each situation, sort of, each field as its own, you know, in its own light, I guess.
+Yeah, you've led me right into my tagline.
+My details matter.
+I tend to use that.
+I was telling you I have a sticker with my ugly face on it that says details matter.
+And I think that's really the important part of this whole thing is that you can get really good advice from someone who has a little bit different production system.
+They can tell you exactly how everything's working and works for them and it's all wonderful.
+And then you go home and you try to do it and you have a different system or you have a different challenge or your problems are not that type of priority or your logistics don't work out that way.
+And so, really, fitting those things and getting that information is critically valuable.
+It's really valuable to get information from other people, from other sources, from good science-based sources, you know, locally and get great distances so that you can try new ideas and try new things.
+But it's also critically important to apply that directly.
+I use the dieting thing.
+I need to lose some weight.
+I'm overweight.
+I know it.
+But I can't – there's certain foods that I just don't like and I won't eat and that type of thing.
+So, I have to fit this into my system.
+And if we talk about, okay, we'd love to exercise.
+So, exercise is a great part of personal health.
+Okay, well, that's great.
+But are you going to run?
+Are you going to walk?
+Are you going to swim?
+Are you going to bike?
+What are you going to do?
+How does it fit into your life?
+What time frame do you have?
+Can you go for an hour or a half on a long walk?
+Or do you have 20 minutes and you need a treadmill?
+Like, those are the specifics to each individual situation, whether it's the farm, the farmer, or the acre, or that little small plot of land.
+Those are the specifics that everything has to be applied to.
+So, for me, I go for walks because I have the time and I can do that and I tend to do that at work.
+Rather than driving around, I'll just go walk across the field.
+I'm getting more steps in and I'm still doing two things at once.
+If you asked me to swim, I would drown so it's never going to work.
+So, no wonder – swimming is a great way to burn a lot of calories in a short period of time, but I don't swim.
+So, it's a very poor fit for me.
+So, it's along these same lines.
+It's like you can have really, really good ideas from somewhere else.
+Do they fit into your system?
+Do they fit into the hard rules that you have?
+And then the next question is, can you change some of those things?
+Maybe I should learn to swim, right?
+So, that's the next step.
+But that's a bigger step.
+When you're trying to change your whole logistics and your whole production system for a particular practice because it sounds really good, I would caution people about doing a lot of that.
+Be very careful.
+Well, you and I talked about using science too and, you know, we may see research that shows something to be really promising, you know, in a lab or in a trial field.
+But we can't necessarily take that information and apply it across our own farm or our own given situation.
+Basically, what you're saying is there's a little more due diligence we need to do before committing to a new idea.
+Right.
+Right.
+Yeah.
+I mean, science is a system of probability.
+And this was the thing that I mentioned earlier is that I think people have this idea that, well, science says this means exactly that.
+So, when we actually use statistics and it's all about probability.
+So, a lot of times it's like, well, you've got a 95% chance this is the outcome you're going to get if you do these things.
+But it's not only if you just do these things, but if you do these things with these certain situations in a certain area, so science tends to be done in a very specific way.
+Now, that's not wrong.
+What it's doing is taking a lot of variables away so that when they change one thing, they're trying to make sure that's the only thing that changes so that that's the actual change that measure.
+Now, in a production system, we can't manage all of those things to that level where this is the only thing that has actually changed.
+And sometimes when you do add a new practice, you've had to change several other things to do that.
+Like, if you were going to do less tillage, well, you've done less tillage, but that's also changed your water profile.
+It's changed your nutrient profile.
+It's changed the oxygenation.
+It's changed your aggregates.
+It's changed a lot of things that you didn't intend to change.
+So even though a producer did one different practice, it actually could change multiple things that are hard to track.
+So I think people need to understand that science is a very good starting point and it's critically important.
+I would much rather have that than rumors or wivetails or, you know, somebody exaggerating how great their stories are.
+We hear that too.
+And I think those are all dangerous.
+So we need the science to back that up.
+But then the application.
+So this is me.
+I'm an applied scientist.
+So I go and get the science and then I try to fit it to those scenarios.
+And there are times when really promising science doesn't fit in a particular area.
+And I had mentioned earlier, we were talking about cover crops before we started here and we talked about how they can be a really, really good tool.
+But if you live in a very arid place where water is your absolute most limiting factor, a cover crop could be a very poor decision for you because it's going to take your most valuable resource and use it for something other than crop production.
+And that alone might be enough to say this is not a good practice for us.
+It doesn't mean that cover crops are a bad practice.
+It just may not fit in that scenario.
+And how do you go about your cover crop selection or determination?
+Right.
+Excellent.
+So my area makes a difference.
+So I'm in North Dakota.
+We have very cold temperatures.
+The first thing we start off with, though, is what are we trying to fix?
+What are we trying to manage?
+What are we trying to do something with it?
+And I have probably three or four main goals.
+One of those is erosion protection, so to help me for wind and water erosion.
+Another one is to actually manage excess moisture.
+We might have too much moisture for the next spring.
+And then the third one will have poor producing soils or those saline soils we talked about.
+We're trying to do something different with them.
+But basically, once you've figured out what your goal is, what you're going to try to do, it's much easier to help you select a crop because then you can figure out which one's going to do what you want them to do.
+So for the moisture usage, like if we have excess moisture, I try to use a crop that's going to be there more often when I can't grow anything else.
+So we'll use a winter cereal, like cereal rye up here, that we'll plant in the fall of the year.
+It'll grow in the fall, use some moisture in the fall.
+It'll overwinter in our harsh winters.
+And it'll be growing next spring early on when we have snowmelt and heavy rainfall.
+And it'll help us manage that excess moisture.
+Then we can use tillage or herbicides to terminate it and plant our regular crop.
+So that's a really good fit.
+But if we're trying to do something different, it may not be the right fit.
+And there are times when cereal rye is a bad fit simply because the following crop is going to be affected by it.
+So I don't like to see producers plant corn after cereal rye because the cereal rye is very competitive and very aggressive.
+And it can actually hurt their corn yield.
+But if we're going to plant soybean, it's absolutely a great idea.
+So this is those details matter.
+What are you actually going to do with it?
+What are you trying to get out of it?
+And once you've set a goal, like I want to manage moisture, I want to reduce excess moisture,
+then it's much easier for you to measure that, both empirically and observationally.
+It's much easier to see.
+If you just want to plant cover crops for a healthier soil, well, what does that mean?
+It's very hard to measure in any way.
+I really like that explanation.
+This is a little bit outside of your area of work.
+But I get a lot of people running cover crops indoors.
+And when we talk about the reasons why we use cover crops that you listed there, you know, most of those don't really apply.
+Like we don't have the same water challenges.
+We don't have wind erosion.
+You know, we don't have these things.
+And while cover crops are wonderful, this is sort of where you get into that, you know, it's not so black and white.
+Like what is our goal?
+Because when we talk about fertility, well, now we just added a whole other variable that's a lot harder to measure versus being able to add a specific fertilizer to get whatever, you know, macro or micronutrient we're looking for.
+Now we're trying to, you know, gauge the breakdown of this organic matter or this cover crop.
+You know, we have competition for nutrient now with our actual crop because people want to run them not as a separate crop, but as a poly cropping, essentially, companion plant.
+And then we have, you know, disease and habitat concerns for pests.
+It becomes a little bit of a nightmare on scale.
+You know, I think it works fine in a small tent.
+And there are some people that are doing it on scale, but it's rare.
+And I think it's a, you know, I feel like as a gardener or a farmer, what we can do to eliminate, you know, labor, eliminate or reduce labor, sorry, and reduce variability makes it easier for us to make decisions on our crop.
+If we're applying, you know, 50 different things and spraying all these different things like we see some guys do, it's hard to know what's good, what's bad, what's innocuous.
+In this, in the system like that, it's, it's very complex.
+And when I come on onto the scene, you know, and they tell me, well, I did this, this, and this, I haven't done a soil test.
+You know, what's going on with my plant?
+I, I really, I really can't say.
+There's too many, there's too many ifs there.
+I couldn't say.
+There's no way.
+And I think really this is, you know, when you're, when you're talking about this is risk management, right?
+So you're trying to manage your risk because at the end, we want these people to all be effective and economically beneficial businesses.
+We want every business to survive and thrive.
+So really that's about risk management.
+And in the situation you described where you actually have control over erosion, you have control over the water, you have control over the nutrients.
+That's a very different thing.
+So those are the things I don't have control over.
+So I'm using the cover crops to help manage that risk for us, but you're taking those really right off your risk plate.
+And now you add all of those alternatives.
+And honestly, all of these, these additional crops have their own biological benefits, but they also have their own distractions.
+Like it's, it's the idea of when there's a lot of anything, there's going to be whatever eats it is going to be proliferating.
+So disease can be a significant issue.
+And unfortunately, a lot of our fungal disease in particular are very good at adapting to several hosts.
+And I'm very concerned about that too, for us.
+So white mold is one of the problems that we have.
+I would imagine some of your producers have white mold challenges and it's got a very wide host range.
+So a lot of different plants can proliferate that and increase that.
+And that's something that's very, very difficult to manage once you get a high inoculum population.
+Is that essentially the same thing as powdery mildew or are you referring to a different white mold?
+I'm referring to sclerotinia.
+Yeah.
+But well, okay.
+So white mold powdery mildew does also have a fairly wide host range and it likes those high humidity situations that you're having.
+So yeah, you could definitely increase the inoculum in there and make that much worse for the cover crop versus, this is one of the things we do in agriculture is we actually break natural cycles in order to produce a crop specifically for our needs.
+Yeah.
+And that's, I think this is, I want to kind of jump into that, you know, egg is not nature.
+Even gardening is not nature.
+You're trying to produce certain things that you want and to the exclusion of other things you don't want.
+This is the whole idea that we have weeds.
+You can argue that an invasive species is always a weed, but there are a lot of times when native species are considered a weed because they're less desirable or they're hurting your crop or whatever.
+So we're trying, we're not, we're not trying to replicate nature.
+Nature produces whatever it can with the resources it has, and it doesn't produce for any one particular species in general.
+It produces for everybody.
+And actually to any plant, an insect is a predator.
+Typically a caterpillar is always a bad thing to plants because that's who eats you.
+So it's not a beneficial thing.
+So it's about your perspective.
+This again goes to, if you're watching the nature show, are you cheering for the antelope or are you cheering for the lion?
+Because they're both biological organisms and it just depends on your perspective.
+In agriculture, we're trying to produce things for one species, for humans.
+And so that's, it's a very narrow subset.
+So we're trying to stack the deck in our arts to produce as much as we can for us.
+And that's really a sustainability goal because now we need less acreage and less, less resources in order to do that.
+So if we're really efficient at producing what we want for our species, then we're using less in general.
+Versus if we were all trying to forage out of nature, well then we'd have to compete with everything else.
+So I think this goes back into those ideas of like, I think it's wise to control these scenarios and to keep your risk low and not add a bunch of variables.
+And you're producing a bunch of other things.
+You're using fertilizer and water and organic matter resources to breed disease because you grew a cover crop.
+I don't know that that's a wise choice.
+Yeah, you know, I think we have to be, you know, for someone who's passionate about organics and sustainability, I think we have to be cognizant of where we're sourcing our materials.
+So if we are going to use fertilizer, how do we do it in a way that has less of an impact on our, you know, local and world ecology?
+What industries are we supporting with where we're sourcing these, you know, micro and macronutrients?
+But at the same time, adding, you know, a cover crop or adding, you know, a second crop doesn't get us anywhere close to the diversity and complexity that we would have in a natural system.
+And we're still essentially monocropping when we look at, you know, just how vast of a difference in diversity there is.
+Right.
+I think monocropping gets a bad rap and I don't know that it should get as bad a rap as it's getting.
+Again, if it's efficient and it's producing what we need it to at the right timing, then I don't know that it's necessarily a bad thing.
+And I think it's just kind of cast as all evil, like monocropping.
+Now, I'm not a huge fan of growing the same crop forever in the same situation, the same, but it's sometimes it makes sense.
+One of the challenges there is that you're breeding your diseases, your pest problems, you're depleting your resources.
+If you're using the same crop, it wants the same demands again and again and again.
+So I think that can be challenging, but it doesn't necessarily, I'm not convinced monocropping is bad.
+It gets this really bad rap, like it's just a terrible thing.
+But if it's highly efficient and highly effective, then maybe it's the right thing to do.
+There's been a lot of, you know, negative press about livestock production.
+People are saying, well, why don't we just use land that we're using for livestock for crops because there's less footprint there?
+Well, this land is not necessarily suitable for crop production.
+It's one of the reasons it's in livestock production.
+You can't farm it.
+It's either too hilly, too rocky, too sandy, too light, all of those types of things.
+It needs a perennial plant.
+And really, the way that we're gaining human benefit for most perennial plants is through protein, animal protein.
+And livestock has the ability to improve land as much as it has to destroy land, I would say, if it's managed correctly.
+The way it's managed, exactly.
+And so those are some of your organic inputs, right?
+So if you're using livestock manures as part of your fertility, but then again, you've got to be careful because if this is we're talking about lettuce production or we're talking about fresh market types of things, there are little tag-along biologicals that we don't want in there.
+Salmonella and clostridiums and all of that type of stuff.
+So then you use another biological process, composting, to reset that system.
+And so we've changed what type of biology is there.
+So now we have biology that's less threatening to human health.
+And so I think it's really about – it comes back to management.
+And again, your management has to set goals, clear goals that make sense.
+What are you trying to accomplish?
+Where are you trying to go?
+What are you trying to get to?
+And how are you trying to do it?
+And then you can assess your system and see what are your challenges, your problems, your bottlenecks.
+And then you can start to devise some systems that target those and then move forward.
+This is – I don't think – I think that's everything from gardening a plant in your house to thousands of acres of crop production.
+You really have to have – what are you trying to accomplish?
+What are your limitations?
+And what are your plans and strategies to manage those?
+Well, you know, for me, what I hear a lot of is just – it's yield.
+You know, people approach this like a business.
+They say, you know, I don't care about the methodology, the soil.
+In this case, you know, a lot of people are – I'm talking about indoor production.
+They just want to know that they're going to get a yield and then they can get a price per pound for that yield.
+And some of that feels short-sighted to me in some ways because I think we can create systems that are more sustainable and allow for lower cost of production over time with our media choices and our production choices.
+But, you know, at the end of the day, what do you do when a farmer just wants to talk about yield?
+Yeah, well, to me – and I hear you on the yield conversation, but I think we need to talk about economic yield and that's more profitability.
+It's really about profit because if you're producing a huge yield but it's cost you a lot of money to produce it and your profit's small, that's still really difficult to run a business.
+If you can maximize your profit through some simple situations, then that's really where you try to go.
+And my farmers talk exactly the same way as yours do.
+They want to talk yield, yield, yield, yield.
+And the hard part is it's much easier to compare yield between your neighbor and your friend and the next guy and the competitor.
+Like, that's just one number.
+To get their actual economics, some of these productions, whether they're a big egg or a small egg, they don't know their cost of production as well as they maybe should.
+And then they're not going to share that open either.
+And so you can't – it's hard to compare profits.
+I think there are significant gains when you change some systems and you reduce some expenses.
+You can maintain or get very close to the premium yield that you had even though you're doing these really expensive opportunities.
+So we've seen it in production egg really regularly.
+And it's more due to tillage and the cost of big tractors and equipment and tillage and fuel and all that kind of stuff.
+That if we can reduce our tillage, we save all the expenses and we get very similar yields.
+So what you're saying is we have to factor in our expenses and, you know, they may – you may not know their cost of labor.
+You may not know their cost of equipment or infrastructure to get that, you know, larger yield.
+You know, if you can produce a lower amount with less cost of production, you could actually be coming out ahead at the end of the day.
+Yeah, I think that detail in every business matters.
+I think you really need to.
+I really want people to do their profit analysis.
+That's critically important.
+And that is a detail that matters to their business and not necessarily to their neighbor's business.
+But it's probably the most important detail.
+Yeah, that makes a lot of sense.
+I see where people get caught up in that sort of game of who can produce the most.
+But at the end of the day, that's not necessarily the important variable.
+That's the coffee shop bragging, right?
+And if you want to have the best yield, you'd be the last guy to tell them what it is.
+Because who's actually checking those numbers, right?
+And we're all susceptible to try to being better than your neighbor.
+And if you're the last person to announce their yield, you might just edge it up a hair just to make sure you get a little better.
+You know, and in my industry, what's really important, too, is crop quality.
+Depending on the quality of that crop really in terms of value and how you can market and sell it.
+And I think that's something that is important when we talk about a production system.
+Well, let's move on from that topic and talk a little bit more.
+I wanted to just jump back to soil testing a little bit.
+When you look at a chemical analysis of a soil, what are some particular levers or numbers that you look at that really stand out when you start to first begin adjusting the fertility in a soil?
+Right. For my area, pH is a big one.
+I think any area of pH is going to be something you really want to have a handle on because it affects the availability of all your nutrients and it affects your crop growth.
+So I think that's a critical one.
+I look at soluble salts more because we have excess soluble salts and it's indicative of some of the challenges we may have.
+And then I focus on the macronutrients.
+I really do.
+Nitrogen, phosphorus, potassium, sulfur and zinc.
+And I know zinc is considered a micronutrient, but it's on the higher end of those levels.
+And it tends to be one of those that's more challenging for us.
+And again, this is related to our pHs.
+In my neighborhood, a lot of our pHs are on the higher side.
+We're at least 7.2 and sometimes we get into 7.8 and even 8 pHs in some places.
+And that affects our zinc dramatically.
+So I pay attention to those and those interactions.
+I want to pause you for one second.
+I want to talk about zinc, but can we – first of all, I want to ask you a real point blank question regarding pH.
+But then I want to talk a little bit about how you lower pH.
+So first off, I get a lot of guys in organics in the cannabis industry that say pH doesn't matter.
+I can throw out my pH pen.
+And even in organics, do you feel like pH plays a role in, you know, optimizing production?
+Well, pH is the overriding factor of nutrient availability.
+Now, there's a fairly wide set where pH is optimized.
+It would be anywhere from about 5.8 to 6.2, 6.4 is really where your pH is where you'd want it to be.
+If you were going to choose it, that's where you'd want to be.
+And that 6.2 range would be like the perfect pH for nutrient availability.
+Once you start getting down into the low fives, you have aluminum toxicities and you have other issues with unavailability of that.
+High-end pH, you have calcium tying up phosphorus, zinc, and a lot of those macronutrients.
+And if you have high pH and you're tying up all those nutrients, you can apply more, but they get tied up and they're not available readily unless you're using a chelating agent.
+So that's probably the better way to manage it.
+So what I find with organics is pH still matters.
+We just find that a lot of the practices people are using in organics may lead them into a pH that falls within a range.
+I guess essentially there's more buffering capacity with...
+When you have high organic soil, there's a lot more...
+High organic matter, things like that.
+But if you have high organic matter soils, it's going to be in that sweet spot of pH and you're going to have a lot more exchange sites.
+And I can see where that's going to be less of a concern than it would be in a mineral soil.
+When you're in organic soil, it's going to be less of a concern.
+Yeah, I can see that.
+And again, I'm talking about artificial soilless media here, potting soils.
+I find sort of for me, 6.6 to 6.8 is sort of my sweet spot where the soils want to settle because of a lot of the alkaline inputs we're using, specifically adding biochar, the high amounts of calcium in the soil.
+So I have trouble keeping calcium in some of the cations up when we start dropping pH below 6.6.
+Yeah, I can see that.
+Yep, yep.
+Because they're going to get associated with all kinds of other things going on.
+Yeah, and calcium is one of the ways to kind of jack your pH a little bit, right?
+So it'll encarbonate to bring that up, some lining and that type of thing.
+Again, retinocillus media, it's a very different thing.
+So that's a little bit outside of my parameters.
+Sure, sure.
+No, I do realize they're very different creatures, and a lot of people don't realize that.
+And we have to look at the soil test differently.
+There's some numbers we just have to throw out on a soil test because they're just not calibrated for soilless.
+Not meaningful.
+Yeah.
+But how do you deal with lowering pH?
+So I had a greenhouse situation where the gentleman had quite a high pH, close to 8.
+We were looking at ways to rapidly lower it and sort of the things that I saw mixed results with people with adding peat moss in terms of what the research shows, whether or not that works.
+Again, this is not on the scale that you're used to, so I know these aren't things that you would normally deal with.
+Or agricultural sulfur, things like that.
+What approaches do you take to lower pH, adding things to the water?
+Yeah, that might be your best bet in that scenario.
+So you're talking about elemental sulfur as one of those things.
+So anything that's going to be of an acidified nature that's going to grab on and leave hydrogen ions behind is going to do that.
+So nitrogen, you know, ammoniated nitrogen can actually reduce pH.
+But we're talking about, you know, the scale here is ridiculous.
+And before you lower your pH much, you tend to have toxic levels of sulfur or nitrogen or whatever because it takes so much of that to move it.
+But so there is, you know, so the pH is one of those things that you may not be paying a lot of attention to.
+But the buffer pH may be critically important.
+And that's really how much abuse your soil can take before the pH is going to move.
+So if you have a widespread in your buffer pH, you're not going to be able to move it very far with any inputs.
+And a lot of times those inputs are going to get to the point where they're going to be tying up other nutrients or causing plant toxicity or, you know,
+emergence issues or root growth issues because it takes so much of that thing to chemically change the pH of your soil.
+If you have the ability, you might be better off changing your media to something a little bit different or adding some other type of media base.
+Maybe it's more vermiculite or some other type of bentonite or some other type of clay to help trap some of those ions and to change your pH a little bit that way.
+But the solution is probably the easiest way to do that.
+Now, I haven't seen sulfur toxicity with cannabis specifically.
+Are you seeing excessive sulfur really being an issue with other crops?
+I mean, again, I'm not adding, you know, high concentrations every cycle.
+And, you know, a cycle for us would be two to three months, but we're adding a little bit and slowly over time lowering the pH.
+Yeah, well, then you're doing it really well.
+No, what I'm talking about in our agricultural soil, so we have a lot of high pH soils.
+We have some stuff that gets up in an 8.5, 8.8 range.
+And they've done research on it for here, and we're talking about, you know, per acre on the order of elemental sulfur now, five tons per acre, which is just this ridiculous amount of sulfur.
+Yeah, it can move the pH a little bit, but the buffer pH kicks back in and in a few years it kind of bounces back.
+So it's become not only economically unviable, but that level of sulfur is just excessive to the point that it retards plant growth.
+So if you're doing it with your solution over time, with your nutrient balances, and maybe you're giving it just a little extra kick once in a while to try to do that, then I think you're being very successful.
+The other thing is, you know, and I don't know, this is again a little bit aside of my parameters, is that, you know, saturated calcium solutions can help change some things sometimes too, or just a high leaching, like leaching your soils may move something for you, but that's a guess, and so I shouldn't even say that.
+Yeah, we've used leaching for nitrates, potassium, sodium, you know, some of those more mobile nutrients in soils, and had good success with that.
+You know, some of our guys will even just reset their beds by, you know, watering, leaching through them a specific amount of water, and then that allows them to put a, you know, the same nutrient load back into the soil, kind of giving you a reset close to zero.
+And that's worked well for some growers that I work with, but yeah, I see what you're saying.
+So how do you, what do you do if you're, you know, in actual soil, you have a pH of let's say 7.5 or higher, how do you begin to manage a crop on land like that?
+So we actually have gone to the point of, we're using some chelated nutrients.
+So the most problematic situation when we have high pH is we're going to have iron availability issues.
+Now, and our soils are made out of iron, like it's one of the main constituents, but when you have a high pH, it causes that unavailability.
+The iron becomes unavailable.
+And one of the most susceptible crops we'll grow is soybeans.
+You'll see iron chlorotic soybeans.
+It's called iron deficiency chlorosis.
+And it's related to the high pH of that soil and also the water content.
+But really the answer there is if you have significant iron problems in your soybean, you can try a chelated nutrient, which is, you know, instead of that iron being attracted to the soil particles,
+we have a chelate that fills all three sites and it's an organic chelate and basically it makes it more available to the plant.
+But if you have a significant issue, the answer is don't grow soybean.
+That is literally the right answer.
+So it's one of those things where you just have to, you reach a point where, okay, we can change some things,
+but there's a lot of things that simply are not worth the expense to try to do it because these chelated nutrients are extremely expensive.
+And we need them at a really high rate at those high pHs.
+And then they're not long-term stable.
+So it's not like we can build it up over time.
+It's just for that season or even part of that season.
+And it really isn't cost-effective to do it.
+So the answer is to grow a more tolerant crop.
+That's really the answer.
+Yeah.
+So you said you're not really measuring water.
+How often do you find water?
+See, like in our area here, we'll find some cases to be pretty alkaline water or, you know, dealing with farmers in Oklahoma.
+They have some really bad water, you know, sodium or calcium or even iron in some cases.
+Right.
+Do you find that it doesn't really factor in on the scale that we're at?
+I have no control over it.
+Oh, you can't filter it?
+No, I don't use – no, we can't filter it and I don't use irrigation.
+Oh, okay.
+We're all natural rainfall.
+So it's one of those things.
+It's not that it's unimportant.
+I simply have no control over it.
+So I think that might be the same thing as your pH is like it doesn't matter.
+We can't do anything about it or it doesn't matter.
+And for us, I literally can't affect it.
+But I have two fields that have irrigation pivots and we can only manage them a certain way because they're on off-peak electric and either they tell us when we can turn them on and when we can't turn them on.
+And so we run them as much as we can when we need them.
+And that's the only thing we can do.
+And overall, the water quality in North Dakota is decent.
+We tend to have high calcium and high sulfates because, again, we have higher pHs.
+We have fairly young soils that have a lot of those nutrients in them.
+So that would be our water quality.
+But our water quality is pretty good.
+And most of our water is very potable, easily drinkable water.
+And so it's good for plants.
+We're not carrying a bunch of dangerous things like what you're talking about with an Oklahoma.
+I can totally see that, that there could be lots of things in the water that could be problematic for plants.
+Yeah.
+And you also mentioned, you know, aluminum as you get to a lower pH.
+That's the other concern is the testing on heavy metals in some of these states for cannabis is pretty strict.
+And so eliminating, you know, heavy metal availability or filtering it out of any, you know, sources, whether it's water or fertilizer is really critical.
+But, you know, I want to get into zinc because that's something that I haven't done, you know, I know very little about.
+I haven't done much research on.
+And I'd be curious to hear why you mentioned it as a macronutrient and the importance of it.
+So zinc in a lot of plants is related to the reproductive system.
+It's used as a co-enzyme in a lot of scenarios.
+But it's critically important for reproduction, flower set, flower fertility and pollination.
+So it's not necessarily used at a high level, but it's super important for those types of things.
+And we see it in several crops in North Dakota where zinc deficiency is a significant yield problem.
+So corn would be one, dry edible bean or, you know, pintos would be another.
+And then alfalfa is the third one.
+They all respond really well to small levels of zinc.
+And just the way that zinc is, it combines with several things, has several sites.
+And so our typical way of placing zinc is actually with a phosphorus fertilizer.
+And zinc loves to attach to phosphates.
+So again, we use that chelated zinc, which is protecting it from that phosphorus.
+Then we can use a lower rate and we'll put that right in furrow, right next to the corn seed or the dry bean seed within a few inches.
+So that that young seedling gets into this zinc early on.
+And then that zinc will help with, it helps with photosynthesis.
+And this is why you'll see white or yellow coloring if you have a zinc deficiency.
+Is it, it's a co-enzyme for photosynthesis, but it's also a co-enzyme for all that reproduction.
+So when you're growing seed or you're growing flower parts or whatever, zinc can be critically important.
+And high pH will be very, very problematic for zinc availability.
+So can you give me a specific product?
+I mean, when you say zinc, I immediately think of zinc sulfate.
+Are there other ways or other products that are chelated forms?
+Yeah, there's a liquid chelated zinc.
+It's a 9% zinc.
+And I'm trying to think of specifically what it's called.
+I don't have it off the top of my head.
+I've used Biomin zinc that's an organic approved chelate.
+I don't know if you're familiar.
+Biomin, they do a, they make a product like that essentially.
+So I know there's ones out there, but that doesn't get, you know, ineffective price-wise using...
+It would for you, yes, because your zinc sulfate is highly soluble.
+And if you're using in a, in a drench or a liquid irrigation, chemigation or fertigation type of thing,
+you're way better off using zinc sulfate.
+Like, that would be the way to do it.
+But why don't you do that?
+Yeah, sorry.
+We're putting it with the fertilizer.
+So the zinc sulfate's coming as granular form.
+And the fertilizers that we're using are liquid fertilizers.
+And, but they're oil-based liquid fertilizers.
+So the zinc goes in with liquid.
+So we're putting a quart and a zinc per acre.
+It's a very low rate.
+Another reason why we put it with a phosphorus, because the phosphorus is coming out at five gallons.
+And that's, that's actually a consistent stream in the equipment.
+Because if you try to put a quart per acre, like, you have a dot here and a dot there.
+And 20 feet further, you have another dot, right?
+So that's not really good for availability.
+So this is why we're putting it into a starter right near the seed band.
+And we're putting it with a higher volume thing so that we get it spread out so that every seed gets a chance at it.
+And then it doesn't take a whole lot, but it needs to be highly available.
+So this chelation process is expensive, but it helps maintain it.
+Because phosphorus will grab onto zinc in a split second and tie it up and it becomes a rock and it won't dissolve.
+So we're using it that way.
+And it also protects our zinc from our high pH chemistries.
+So we're, we're isolating it in a band and we're keeping it away from a bunch of chemistry.
+We do use zinc sulfate.
+We'll broadcast that on, on land and we'll do that.
+That's a once every three or four years deal because we use a high rate.
+And then it will, it will last for three, four or five years.
+But the, the consistency of the product, it's a granule, right?
+It's not a pelletized.
+Most egg fertilizers that I'm dealing with are pelletized.
+So they're several orders larger than the granular.
+So it just becomes a logistics issue.
+When you're using a very fine granule, it's harder to spread it over wider distances.
+Cause these spreaders are trying to cover 40 feet for the spinner spreader and a small particle just doesn't fly that far.
+So when you're saying granular, you're, you're describing like almost like a powder just for listeners.
+A little bit above a powder.
+Yeah.
+Yeah.
+So this, and then when I'm talking about pelletized, I'm talking about something the size of a BB or bigger.
+Okay.
+You know, so the pellets are larger, have more density and they'll fly farther.
+The granule would be one 10th the size of a BB and then a powder is going to be very fine.
+And so your zinc sulfate you're getting is going to be a powder because it dissolves easily in water.
+Yeah.
+That's what I'm familiar with.
+Yeah.
+That'd be the, that'd be the way to do it.
+We're getting a liquid base of zinc sulfate and it's got a chelation agent in there.
+And so basically the zinc is dissolved in the liquid with a chelating agent.
+Yeah.
+And that's really what it is.
+I mean, it's, it's, so here, I just looked it up.
+It's derived from zinc chloride and zinc sulfate.
+And we were adding a humic component to chelate.
+And so basically we're adding a little bit of CEC.
+So that was actually, when you said chelation, my brain went to humic acids and then I was like, oh, do I have time to ask you one last question about your thoughts about humic acids?
+Because it's kind of a contentious topic, I feel like, in the ag world a little bit.
+Yeah, it is.
+So, see, here's the thing.
+So the humic acids are part of the CEC, right?
+And if you have a really, really low CEC, you could have amazing results.
+If you have a moderate to high CEC, you're going to see nothing because its percentage of change is not enough.
+When we're talking quarts or gallons per acre, even, I mean, one inch of rainfall is 27,000 gallons of water per acre.
+So when you start talking about five gallons an acre, even, you're talking about micro percentages.
+But if you have a highly sandy soil or something with a very low nutrient holding capacity and you add a little bit of a chelating agent, which is a humic component, you're going to see that your nutrient availability jumps drastically in proportion to what you're doing.
+For us, we have very good clay soils, a lot of silt.
+We have a high CEC normally.
+We have decent organic matters.
+Two to four percent for us is pretty decent.
+So we have pretty good CEC.
+So when we add a little bit of humic components, it moved the needle 0.5 percent.
+Well, we're not going to notice that.
+If you go to a sand soil in some of the coastal areas, you go to Florida or California or something like that, there's almost pure sand, and they add a little bit of humic, it has 10 times as much nutrient holding capacity as the soil did.
+So then you see this huge benefit.
+So this is where the details matter.
+What are you trying to do?
+Where are you at?
+What problem are you trying to solve?
+Is it the right solution for your problem?
+That's interesting because a lot of the – with potting soils, we have a fairly high CEC, a very high organic matter percentage off the charts compared to what you're used to.
+Right.
+I haven't gotten the same results from humic acids that I would have expected or would have liked to see in some of those systems.
+So, yeah, that's just interesting.
+And maybe you don't need it.
+Yeah.
+This is like taking aspirin when you don't have a headache.
+I mean, if you have a heart condition, fine.
+But, you know, if you don't need it, you don't need it.
+This is the details part.
+And so the next thing on that, so you can have all of those things.
+You can have very high organic matter.
+You can have very high CEC.
+You can have very high nutrient holding capacity.
+But if you're flushing a lot of water through this, then you might see a difference if you added the humic component to your solution simply because it's going to hold the nutrients in the water better.
+So that could be some of the variable results.
+This, again, goes back to the different places.
+Like somebody's flushing a ton of water through something for some other reason, to try to manage your pH, and they add a little bit of humic component, they see a benefit.
+And the next guy is not flushing near as much water, and he adds the humic component, he sees nothing, or he sees a negative response.
+Well, it's just simply you didn't need aspirin.
+Yeah, I think it is situational.
+Well, and you probably experienced this in the ag industry, but this idea that there's always another product out there or another thing that's going to be that amazing difference in my crop.
+People don't necessarily look at nitrogen as nitrogen.
+They look at this brand or that brand or this potential form of it.
+And I think sometimes we move a little too far away from just looking at the chemistry itself.
+Right.
+And there's just so many marketing claims out there.
+And, frankly, the cannabis industry is even worse than the ag industry in this regard.
+I would believe it.
+Yeah, I would believe it.
+It becomes very hard to evaluate a product and know what's going to work in your system, which gets back to your whole science thing and how it's so important that we, you know, use experimental design in our, you know, in our own field or our own room.
+Make sure you have replication.
+Make sure you have checks and balances on this.
+You know, the non-treated check is critically important.
+But, yeah, so one of the things is just under, you know, think about plants again.
+When you get all of these wonderful plants, these amazing, I call them the snake oils, right?
+There's all these things that are just going to save and fix everything and that do all these wonderful things.
+There's a potential possibly in certain situations.
+But I want people to think about what a plant needs and what a plant does, what a plant uses.
+For me, there was a big push for a while about using sugars in plant production, adding sugar as a nutrient.
+That's just absolutely counterintuitive.
+That's the whole process of photosynthesis is to take carbon dioxide and water and to make sugar.
+This is what a plant does.
+It's its byproduct is sugar.
+So adding sugar to a plant doesn't make any sense because it's what a plant does.
+And when we talk about nutrients in particular, we're talking about nitrogen, we know that plants only assume a couple forms of nitrogen.
+They're basically elemental forms.
+They're nitrate and they're ammonia.
+And that's what plants assume is ammonia and nitrate.
+That's what they bring up.
+So as long as your fertilizer turns into that, it's plant available.
+I don't care if it came out of the back end of a sheep or it came out of the Haber-Bosch process or it came out of nitrogen fixation through bacteria.
+As long as it's in that form, the plant's happy because the plant takes these elemental forms and builds the things that other organisms like us need from eating that plant.
+We need the proteins and we need the sugars and the carbohydrates and all that type of stuff because we can't build them.
+The plants literally build them.
+So all we got to do is give them the Lego blocks.
+So honestly, as long as it's a four by four Lego block, it doesn't matter if it's yellow or blue or green or red.
+The plant doesn't care.
+It'll use it to build what it needs.
+So that's my short answer to all of these wonderful claims about this is, you know, ortho this and poly that and it comes from such and such whatever.
+As long as it turns into the plant ions that they need, it's simple.
+And phosphorus is the same thing.
+It's H2PO4 and it's HPO4.
+That's it.
+Those are the two forms that plants absorb phosphorus through.
+That's it.
+That's the only thing they exorne.
+So that's all it needs to turn into.
+As long as it does that, we're fine.
+Yeah.
+Just real quickly, you mentioned sugar.
+Could the counter argument be that, you know, sugars would raise the, you know, bacterial levels or biological levels in the soil, which may increase nutrient cycling?
+Would that be the theory behind it?
+Well, it'll increase, it'll increase the biology, but it doesn't necessarily increase the nitrogen fixing biology because that's not the food that's sourced that they use.
+The nitrobactors tend to use carbon sources and sulfate sources to get their oxygen.
+And they're getting their nitrogen that way and that's how they're producing it.
+They're using nitrates and then they're, yeah, they don't need sugar.
+Some bacteria do, but not those ones.
+So, yeah, you're feeding some bacteria, but it, and it goes back to the point of, okay, so how are you getting the food where they need?
+Don't forget that the bacteria is microscopic.
+And again, moving a millimeter is a big deal.
+And so if you're, you're broadcasting the sugar solution on top of your soil, is it getting to the bacteria?
+Because it's like applying, you know, dropping a fruit basket in Russia and hoping the guys in Iowa are going to get it.
+It's just not going to happen.
+And they're going to get it before somebody eats it.
+So it's going to be intercepted at the point of contact and it's going to be intercepted within nanometers more so than millimeters or even inches.
+And so I just don't think it's going to get to where it's going to get to.
+Now, some of these bacteria do trade with plants for sugar.
+This is, this goes back to, you know, nitrogen fixing bacteria.
+That's what they do.
+They trade nitrogen for sugar with the plant.
+Now, if you're going to be the guy in the middle and you're going to give it sugar, why would it trade nitrogen?
+Like nature is just as lazy as, as the laziest human being.
+They're going to take free every time they can.
+So we see this with our legume plants that if we give them too much nitrogen at planting early on, they don't build the associations with the bacteria because they get it for free.
+Why would you make an economic trade?
+Because that's plants build sugars and they trade it.
+They buy nitrogen with sugar.
+And when we give them too much nitrogen, they don't buy any nitrogen with sugar.
+So then when they run out of what we supplied, then they're in short supply and they've got to build the factories.
+We see this as a biological fact.
+So I'm just saying have a healthy soil, do a good job of maintaining, managing your plants.
+And the biology below is, for the most part, going to kind of take care of itself.
+One last question.
+I keep saying this, but you mentioned that the nitrobactors don't, they primarily use carbon, but then they also receive sugar from the plant there.
+No, nitrobactors don't.
+There's different ones.
+Oh, other nitrogen, nitrogen producing bacteria.
+Is that what you were, that was a little confusing to me.
+Yeah, there's just so many different bacteria groups.
+I got my words a little jumbled.
+The nitrobactors are looking for the carbon sources.
+That's what they're looking for.
+This is why, you know, and the carbon source is often sugar, right?
+It is, because it's what it is, C6H12O6.
+That's sugar.
+That's really what you're talking about is carbon.
+But they're getting it from so many sources.
+It's just all over the place.
+Sometimes you can even taste soil and it has a sweetness to it.
+There's just so much potential out there that adding a little bit agriculturally is,
+it's like eating a pinch of sugar and calling it your food for the day.
+It's not enough.
+Got it.
+Got it.
+Yeah, I just wanted a little clarification there.
+Yeah, I misspoke.
+It's all good.
+You know, I think it's great that farmers are trying new things and experimenting and learning,
+because I think we have a long way to go in this industry, like more so than even most
+industries out there.
+But we have to do it intelligently and based off of, you know, a strict scientific model
+that gives us good information for making decisions on our farm.
+Right.
+I agree.
+Well, hey, you know, I just want to say thank you so much, Lee, for your time today.
+I had a great time chatting with you.
+I really appreciate you coming on the show.
+Yeah, thank you so much for the opportunity.
+And I hope your contingent gets something out of it.
+And let me know what kind of feedback you get.
+Appreciate it.
+That was Lee Breeze with Control Consulting.
+You can find them online at controltv.com.
+You are listening to the Cannabis Cultivation and Science Podcast.
+I'm your host, Tad Hussey.
+I'll post pertinent links on the podcast page at www.kisorganics.com.
+Just click on the Learn tab and then Podcast.
+And if you're looking for soils or soil amendments or fabric beds or blue mats for your facility
+or garden, please give us a call or hit us up through our website contact page.
+And even with COVID and all the current supply challenges out there, we are currently shipping
+products out the same or next day.
+So please don't hesitate to reach out.
+Thanks for listening.
