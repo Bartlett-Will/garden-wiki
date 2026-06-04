@@ -1,0 +1,734 @@
+Over the years of doing this podcast, and more than 150 episodes now, there are certain
+conversations I keep coming back to, and more importantly, ones I keep sending growers back
+to.
+So instead of letting these get buried in the archive, I'm putting together a short
+series of what I consider the foundations of soil and plant science.
+These are episodes that still shape how I think about fertility, microbiology, plant
+health, and cultivation systems today.
+Some of these were recorded years ago, but the core ideas are just as relevant now.
+Honestly, probably more relevant than when we first recorded them.
+I'll also add a little context at the beginning of each episode, where my thinking has evolved
+or where new research has come out, but otherwise, these conversations really stand on their own.
+There are a few guests who have been on the podcast multiple times over the years.
+People like Suzanne Wainwright-Evans, the bug lady, as well as the soil doctor, Bryant Mason,
+and Dr. Nadia Saba, Dr. Greenhouse.
+Those episodes are absolutely worth going back and listening to if you haven't already.
+The only reason they're not featured in this particular series is simply because there's
+so much good material spread across multiple conversation that it was hard to pull just one.
+I'll also be releasing the full versions of some of my supplementary podcasts I recorded
+for our Patreon back in 2023 around my thoughts regarding the soil food web,
+as well as a deeper dive into mycorrhizal fungi.
+If you're newer to the podcast, this is a great place to start.
+And if you've been listening for years, these are conversations that are worth revisiting.
+Let's get into it.
+I wanted to start this foundation series with a conversation that really sets the tone for
+everything else we're going to cover.
+My interview with Dr. Wendy Zellner is one I still reference all the time because there
+are very few things in plant science that are a silver bullet or too good to be true.
+And silica happens to be just that.
+If you're not using silica in your garden, you're missing out on a ton of well-researched
+and documented benefits like heat resistance, pathogen resistance, drought resistance, thicker
+stalks, and healthier plants.
+Silica also plays a role in heavy metal uptake.
+When we recorded this, a lot of these ideas weren't being widely discussed in commercial
+cannabis production, and honestly, they still aren't understood as well as they should be.
+Alright, now on to the show.
+Welcome to the Cannabis Cultivation and Science Podcast.
+I'm your host, Tad Hussey of Kiss Organics.
+This is the podcast where we discuss the cutting edge of growing from a science-based perspective
+and draw on top experts from around the industry to share their wisdom and knowledge.
+My guest this week is Dr. Wendy Zellner.
+Dr. Zellner received her doctorate from the University of Toledo in 2012, where she trained
+in molecular and cellular biology, focusing on the role of silicon in plant defense responses.
+Upon graduation, she pursued a four-year postdoctoral position with the USDA ARS, where she continued
+studying the role of silicon in alleviating both abiotic and biotic stress in tomato and
+tobacco.
+Her current studies are to design standard methods for quantifying the uptake of silicon
+from fertilizer material, in addition to identifying uptake mechanisms for silicon in model species
+and testing for similar pathways in other crops.
+I learned a ton from Wendy in this podcast, and it got me excited to do more plant trials
+utilizing silicon.
+Now on to the show.
+Hi, Wendy.
+Thanks for coming on the show today.
+Good afternoon.
+How are you doing?
+Thank you for having me.
+Yeah, wonderful.
+I'm so excited.
+This is a topic that I've been wanting to cover for a very long time, but it is shockingly
+difficult to find a true resource and expert on silicon.
+So, tell me a little about yourself, and we'll start there.
+Okay.
+I am from Northwest Ohio, born and raised in the Midwest.
+I didn't come from an agriculture background, but always had a love for nutrition and disease
+and really started to get into plant nutrition in high school and then in college, really got
+into the cellular molecular aspects of things.
+And so, I was fortunate enough after graduation to get a position with USDA ARS where I was
+able to study the role of silicon and disease in a much broader sense where I was exposed to
+the horticulture and floriculture industry.
+And it was really, as we've been exploring this, seeing how important silicon is as a plant nutrient,
+especially with how it pertains to plant health, really pushed me to pursue it even further.
+And so, I've been really active with different regulatory bodies and different groups to really
+get the correct education of silicon out there and what it is and how to use it correctly.
+That's wonderful.
+I know you've done a number of podcasts now.
+There's a lot of resources if people Google your name.
+For this podcast, I want to lay a little bit of a foundation before we dive into the real
+meat of the topic here.
+So, can you start off telling us just a little bit about what is silicon?
+Definitely.
+So, silicon as an element, we refer to it as silicon, it is the second most abundant element
+that's in our soils.
+The problem is the amount that we need for plant uptake is a very, very low fraction of
+that.
+So, with that, as we've been growing plants in soil or as we have them in soilless median
+hydroponic system, the amount of the plant available silicon that's there is actually
+really, really low.
+And just like any other nutrient, it has specific uses by different plants.
+So, with that, we've really been trying to understand why plants take up the amount of
+silicon that they have and what they're actually using the element for.
+And so, there's a couple different terms for silicon that are kind of thrown out there.
+So, when we talk about silicon, we're talking about the element.
+Then we have the silicates, which is usually when it's associated with something like calcium
+or potassium.
+Silicic acid is the plant available form.
+And then you have other forms of silicon, like silicone, which is used in other industries.
+And so, what's really interesting about this element is we use it in our everyday life.
+We use it for things like electronics, for abrasives and toothpaste, for cosmetics, additives,
+even for our own health.
+People take silicon supplements for their hair, the nails, cartilage, reduced wrinkles.
+So, this nutrient, we have been taking advantage of both in our physical life and our health
+life.
+And the plants do the same thing.
+And we've all evolved to use this highly abundant element in different ways.
+And so, really, everything that we're trying to educate on silicon, all of this knowledge
+has been present in the literature.
+And we've known about a lot of this for centuries.
+And we're just trying to put it together in an easier way to explain it.
+And when we start talking about silicon in the terms of nutrients, it really takes kind
+of that weird anomaly that people use to try and describe what silicon is and puts it into
+a much easier, understandable realm of topics.
+So, you mentioned silicate is the form when we talk about something like potassium silicate
+or silicate.
+That breaks down to salicylic acid, and then that's what's actually available to the plant.
+Is that correct?
+Correct.
+So, yes.
+With the silicates, so it's a cation, the calcium, potassium, or sodium, keep the silicon
+and oxygen from interacting with one another because silicon loves to interact with itself.
+And if they didn't have these other elements present, then it would form an amorphous, almost
+like a gel, and not always a gel, but an amorphous group of silicon compounds that the plant
+can't absorb.
+So, it only absorbs those single units of silicic acid.
+And so, by having potassium, calcium, or sodium in that formulation, it helps keep more of
+them in smaller units that the plant can then take up.
+Just like any of our other nutrients, nitrate, phosphate, they all have different forms that
+the plants are able to absorb through different mechanisms.
+Silicon is very similar, and we know silicic acid is that form that's the one that we're
+looking for to be transported by the plants.
+So, you mentioned that amorphous forms are unavailable.
+Can we jump ahead, actually, here?
+And I want to come back to the benefits, but can we talk about some of these forms?
+So, when I think of potassium silicate, starting there, that's probably the most common I'm
+familiar with.
+It's, you know, in Dynagro Protect, EggSyl 16H.
+Can you talk a little about that?
+And then maybe we can go to, like, calcium silicate, silica sand, diatomaceous earth,
+you know, these sources that, like, pop into my head as a grower of silica.
+Yep.
+And so, really, the word amorphous versus crystalline.
+When silicon's in an amorphous form, it's going to be more easily broken down in silicic acid
+than a crystalline form.
+So, we can think of crystal like a diamond, is highly crystallized carbon.
+And, you know, it's very strong.
+And so, when we think of the crystallized form of silicon, that is what quartz is in the sand.
+So, it's a very strong crystalline.
+And it's going to take a long time for us to get those silicic acid units to break apart
+from that structure.
+With the amorphous structure, it's a much more relaxed structure, usually with a larger
+surface area.
+So, we have more of that silicon that can come off as silicic acid.
+So, but at the same time, not all amorphous forms of silicon have the same release rate.
+So, it gets a little bit tricky there when we think of crystalline versus amorphous.
+Now, when we get to the potassium silicates, even though when I think of amorphous silicon,
+I think of a group like what's present in the grasses or the phytoliths or the opals or the
+biogenic silicon that's deposited within a plant where it's a larger amount of silicon deposited.
+And that is not what is present in these potassium silicates, whether they're in solution or in a
+dry powdered form.
+With that, the silicon is in much smaller subunits.
+And a lot of it is kept within that single silicic acid unit.
+So, the release rate from a potassium silicate is going to be a lot higher than, say, a release
+rate from rice hulls, which have a biogenic amorphous form of the silicon that's present
+there.
+And so, we can think of these potassium and calcium and sodium silicates as having a silicic
+acid fraction, which is a certain percent of that.
+And then, small amounts are either one or two silicon grouped together in, like, a dimer
+or small polymers that can be released into that silicic acid for plant uptake.
+So, I actually stated that incorrectly.
+The amorphous is the more available form for those listening.
+And one thing I was worried about when I first started using potassium silicate was, I believe
+the term is silicosis.
+How dangerous is it to breathe these sorts of things as you're utilizing them?
+From a grower perspective, how careful do we need to be with PPE and things like that?
+So, with silicosis, that usually is due to the particle size.
+The particle size is the biggest thing that you need to look into with that.
+For the most part, for something to be small enough to be inhaled deep enough into our lungs,
+we're looking at a particle size less than five, I think it's five, I want to say nanometers or microns.
+It might be five microns, but it, and it is.
+So, when you have a very, very small particle size, and the other thing is it's crystalline silica that does this.
+And it's because within the lungs, the macrophages try to engulf it and get rid of it, and it's not able to.
+And then it causes scarring and release of fibrogen, and there's a whole disease process that's associated with it.
+However, when we look at the silicon materials that are on the market as a fertilizer,
+and specifically looking at the dry material that have a higher incidence of dust and inhalation,
+these particle sizes are much, much higher than the crystalline size that is associated with asbestos
+and other small silicon compounds that would cause silicosis or mesothelioma.
+So, a lot of the products that are out there as a fertilizer, they pass safety tests
+because they are a larger particle size, and they won't be inhaled deep into the lung
+to cause that type of reaction.
+That's good to know.
+That makes me feel a little bit better.
+I still want to be careful when mixing these.
+Yes.
+Well, and that's with anything that's going to form a dust, and it doesn't matter whether it's clay,
+whether, you know, all products that form a dust, they do suggest wearing a mask and reducing that inhalation.
+But in the form of the psiliosis, it's really dependent on the particle size and the crystalline form of the silicon that's in there.
+Now, in terms of the silicates, is one better than the other if we're comparing potassium, calcium, or sodium?
+In terms of salicylic acid?
+Salicylic acid?
+So, in terms of a silicon fertilizer, if you apply any of those at the same salicylic acid concentration,
+you're going to get the same silicon response.
+I have not seen any tests yet that would show that one formulation is going to outperform another based on whether it's a calcium, sodium, or potassium.
+What you need to think about, though, is, for instance, with the calcium silicates, they can release calcium oxide,
+and it might have an effect on pH, which you might need or you might not want.
+With the sodium silicates, if you're worried about raising sodium levels, that's always a concern.
+But with the concentration of the silicic acid that we're putting into these systems,
+the amount of sodium that's coming along with it is very, very small.
+And so, even though there's that potential there, you need to be aware at what concentration the sodium is really going in.
+So, you're not really adding that sodium stress that some people shy away from the sodium silicates from.
+That makes sense.
+Yeah, that reminds me of the idea of with table salt versus Himalayan salt.
+The amount of trace minerals in there is so minimal that people really probably aren't getting as much of a health benefit as people claim versus using straight calcium chloride.
+So, it's all about concentrations, I guess, is the point.
+Correct.
+Yep.
+So, moving on, you know, I went to a trade show quite a few years ago, and there was a company selling silica sand.
+And they claimed this was a great source of silica for your plant.
+And my first question to them, and I'm fairly ignorant on silicon, was, you know, when does this become available to my plant?
+And they didn't really have an answer.
+They said there's a lot of variables associated with that.
+What would you think about a product like that in a cultivation scenario when we would want the, you know, the silicylic acid within, you know, a period of, a cultivation period of, let's say, weeks to months?
+Right.
+So, and that's really what it comes down to is, is it a soil additive or soil amendment, or is it a silicon fertilizer?
+So, when we think of a silicon fertilizer, that means it's going to release enough silicic acid through that single growing season.
+And, you know, if it provides more the next or the third growing season, awesome, you have an added benefit.
+Versus a soil amendment, which is something that you're putting in to help rebuild the silicon pools within the soil,
+which really is not something that you would do if you're in the soilless media or more of a horticulture, floriculture type of production system.
+So, when we look at things like these sand additives, the tests that I've run on the products that we have that are more of the crystalline sand have not shown any release rate of silicic acid that would provide enough silicon for any of the plants that we use during a growing season.
+However, if we were to work that into, say, a soil system where you have microbes that can actually weather crystalline forms of silica that would be present in sand material or more highly structured amorphous material,
+that may work as an additive, and you might see benefits from that over years.
+But from what I've done, we haven't really seen much of a benefit using those types of products.
+So, one thing I would ask those companies is to show information where they grew plants with and without, and they saw an increase in foliar silicon with that treatment.
+That would be an indication that the material would provide silicon to the plants.
+I mean, that seems like a reasonable standard for a company.
+You know, a lot of times you'll just see side-by-side photos, but there can be so many other variables associated with that.
+Correct.
+Yep, and that's the thing.
+It could improve water drainage.
+It could improve so many other physical barriers that the response they're showing you in those photos is not a silicon response.
+But showing that they see a difference in silicon concentration in the foliar tissue, that suggests that it does release silicon,
+and you may have some of the benefits that are mentioned in the literature.
+Wonderful.
+Well, kind of a similar product would be diatomaceous earth.
+Can you talk a little bit about that as well?
+Yes.
+So, I haven't, again, I've just done extraction studies with diatomaceous earth.
+It does come in lower.
+So, when I say extraction studies, similar to how they determine what the water-soluble nutrients are,
+we have right now an extraction that we use to determine if there's plant-available silicon in that.
+And so, we call it just shorthanded the five-day method.
+So, that's what I'll be referring to as.
+So, with this five-day method in diatomaceous earth, we do see that it provides at least 0.2% silicon, which is 2,000 parts per million.
+And what our application that we suggest is anywhere from 30 to 60 parts per million in a soilless system.
+And so, with it coming in at 2,000, it does have a potential to be a silicon source for both the horticulture and soilless-type medias or for soil.
+As a soil amendment, however, it probably has a better advantage, or if you have the correct microbes in your soilless mix,
+that could help release even more of the silicon that's present.
+So, not all the silicon that's present within the diatomaceous earth is going to be released in some situations,
+but you could encourage that release depending on what's present within your growing environment.
+So, DE does have some potential, then, you think, in soilless media.
+I do think it does. It definitely warrants more studies.
+Wonderful. I mean, it's a very affordable source.
+So, do you know what percentage of salicylic acid we could expect, or how would it compare to, like, a silicate application?
+So, it's going to be much lower.
+With some of the calcium silicate products that we use, it releases about a 1% silicon.
+When you get into things like wilastonite, that's up to, with the five-day extraction, anywhere from 4% to 6% silicon.
+So, it's at a much lower range, and you would have to add more of the product into the mix to get to those silicon levels.
+But then, again, depending on what it is you're growing, that's going to dictate how much silicon you actually need additionally in that growing media.
+So, for some fruits or vegetables, the diatomaceous earth might be great,
+whereas for your plants that accumulate silicon to the levels of calcium, potassium, or nitrogen,
+you might need to bump it up with other sources or use a combination of sources for those higher feeders.
+Now, in this case, the podcast is focused more for cannabis or hemp production.
+How would...
+I mean, I know cannabis hyperaccumulates.
+It seems like everything.
+Have you seen any research in relation to silica?
+There have been some, and this actually came out.
+I did get some information from Dave, who is part of the DynaGrow group, and they did tissue analysis for cannabis.
+And so, it comes in about 2% SI.
+So, it's up there above the calcium, potassium, and nitrogen.
+That's how much silicon those plants need.
+And so, when we get into stuff like cannabis, but then even there's floriculture plants, verbena, which takes up 2%, and lantana,
+these plants take up such a high amount that you need to make sure it's present within the media at a high release rate
+because they continually take it up while they're growing and while they're maturing.
+So, unlike other plants that take up certain amounts only during certain times of their maturation,
+these plants that hyperaccumulate silicon tend to take it up continuously throughout their life cycle.
+And so, they need a continuous supply of it in order for them to benefit and have the best health and the best production that's available.
+Yeah, I realize we haven't talked about the benefits yet.
+But I still want to hold on that one because I had a couple more questions now that we dove into this.
+So, in regards to, you mentioned with application rates, how important it is that it's a consistent application.
+Do we need to worry about toxicities or excesses with silicon in relation to plants if it is essentially a nutrient?
+So, with it, it is a nutrient, and hopefully we'll get it to that status here soon in the U.S.
+But, all that aside, one of the most amazing things about silicon compared to all the other elements
+is I believe it is one of the most regulated and the most well-regulated nutrients that are present.
+Plants only take up and absorb the amount of silicon that they can deal with at that time.
+So, what that means is unlike nitrogen and phosphate, copper, and all of our other nutrients,
+we do not see phytotoxicity symptoms from over-fertilizing with silicon.
+So, even if you're growing plants, a wide variety of plants, some that are hyperaccumulators,
+some that accumulate at the micronutrient level, you can apply the same concentration to all those plants
+and you're not going to see negative effects.
+The only instance in the literature where they do show abnormal floral development
+is when they were applying a really high concentration of a liquid silicon as a drench.
+And what I think was happening is it was tying up low levels of either nickel or zinc in the growth media.
+And so, they were having a metal-induced deficiency.
+But at those levels, they are well above the recommended level of any fertilizer that's here.
+So, as long as you're following the label rates and the fertilizer recommendations that are on the packages,
+that type of a metal deficiency should not occur with application.
+Wonderful. Well, finishing up the sources conversation, you mentioned biogenic sources,
+one of those being rice hulls.
+I know you've mentioned off-air to me that there are other potential sources that you can derive silicon from.
+Can you talk a little bit about these as a category and then more specifically rice hulls?
+Sure. So, there are lots of plants, especially within the grass and grains,
+that take up high amounts of silicon.
+And they do so because they're actually depositing it into epidermal cells
+or cells that are on the outside of the leaf tissue.
+And so, with these deposits, as the leaves go back into the soil,
+this helps regenerate that silicon cycle and helps break down and provide silicon.
+And so, a lot of different plants have different mechanisms to get silicon up into foliar tissue,
+whether it's the epidermal cells, trichomes.
+And then, as those fall back down to the ground, it can be released.
+So, we can take advantage of the plants that take high concentrations of that, like rice.
+So, when it goes into the rice hulls, and I, sorry, I don't have the number in front of me,
+but it's, I think, between 40% and 50% of the nutrients that are present is silicon.
+And so, it's a great source, but only if those rice plants are grown and fertilized with silicon.
+And so, when we think of other things, wheat straw, another great source,
+but the problem with wheat is you can also get some pathogen carryover.
+Miscanthus has been tested bamboo.
+People are looking into horsetail and some other of these really high-accumulating species
+to see how they can incorporate either that vegetation as a compost with the rice hulls.
+I know we were doing some work with the USDA where we were making the rice hulls into a biochar
+and seeing really great responses and using it that way.
+And with the rice hulls, too, they are starting to look at extracting the silicon
+and making almost a nano-silicon material from the rice hulls.
+And so, getting rid of everything else and strictly using it for a silicon source.
+There are other biogenic forms, though, such as in pine needles.
+Surprisingly enough, pine needles have a really, really high concentration of silicon,
+but due to the chemical composition, it doesn't break down and release over time.
+So, even though there's a lot there, the phenolics and everything do not make it a viable source
+to incorporate or get any of the silicon benefits out of those pine needles.
+So, there are options out there that can help as a more natural source,
+but the main thing to be aware of is how was that source material grown?
+Was silicon used in the production?
+Because if it wasn't and it's on land that had been cultivated for a long time,
+the silicon values are not going to be as high as they should be from the trials that were published in the literature.
+So, you're actually seeing pretty big variants there.
+So, we can't just assume that because they're rice hulls, they're going to be high in silicon, for example.
+Correct. And with rice hulls being a waste or a byproduct, well, a byproduct waste, in essence,
+they are not currently, to my knowledge, I don't think anyone goes through,
+there's no guaranteed analysis on what the silicon composition are of the rice hulls.
+And so, it's really, unless you're doing that on your own to ensure that you are getting that silicon out of the rice hulls,
+it's kind of one of those things that it could be hit or miss.
+And that could be why some people who have tried using rice hulls to incorporate and have not been seeing the responses
+are not seeing the responses because that silicon isn't there like it is in some of the earlier trials
+where we were making sure that the starting material were fed silicon.
+I think that's a really important point because I see these charts floating around the internet
+of a variety of different nutrient values for everything from various manures, fish, fish meal, alfalfa, whatever.
+But people don't take into account what that animal ate, what it actually accumulated.
+And so, it's important, I think, for folks to consider testing their sources
+or this is where guaranteed analysis comes into play and labeling, which we will talk about as well.
+Wonderful.
+Now, I think we should probably get into why the heck people would want to use silica in their garden in the first place.
+I kind of jumped ahead of you there.
+Let's talk about all the benefits.
+Okay.
+Well, there are quite a few benefits, especially if you are growing under silicon-deficient type situations.
+So, really, what silicon is best known for is to mitigate stress or to reduce stress in a plant's life.
+And plants are constantly under changing environmental condition, microbial attack, pest attack, insect herbivory.
+Lots of things are going on that they're trying to compensate with changes in water from, you know, over-watering to under-watering.
+So, with all of this, when we start putting silicon back into the system, what happens is the plant is now able to better manage the stress.
+It has a more balanced environment.
+And it's doing this, number one, what we're starting to see is when we start feeding silicon, it can set up the barriers that are present within the roots that can help hold the water in.
+And it can help reduce the transpiration or the water loss through the leaves.
+And so, by maintaining that water constantly within the plant, what that does is it helps maintain a more balanced concentration of all the other nutrients that are there.
+It helps dilute out waste products.
+So, just having that water response helps the plants just better deal with everything.
+This also helps them cool faster, less susceptibility to heat stress, less susceptibility to drought stress.
+But then on top of that, we also know that silicon is involved in a lot of the enzymatic reactions.
+So, when we get a pathogen attack or a heavy metal toxicity, silicon can help offset what's going on within the cell and help the immune system respond more rapidly when it comes to, say, a pathogen disease.
+Or it can also not just help with reducing the enzymatic stress from having too many or heavy metals in there.
+It can also keep the metals from actually making it into the cytoplasm where it's having its effect.
+So, I apologize.
+I got a little bit deep there.
+But really, the responses of silicon is the plants can deal with changes to the environment.
+So, whether it's hot or cold, wet or dry, too much salt, too much sun.
+It can also help when we have toxicities, which you might not see too much in your garden.
+But, you know, if you're using some of the copper pesticides, you might see responses.
+It can help mitigate against that.
+But the main thing that a lot of people see, though, is disease reduction, especially when we talk about our mildews or our bacterial diseases.
+And that is the one coolest thing that you can see that we don't talk a lot about when we talk about fertilizers because then they want to label silicon as a pesticide.
+But it's not.
+It's a nutrient because it's not acting directly on the pathogen, but it's reducing that infection process.
+And so, if you're dealing with a lot of mildews or bacteria, botrytis, root rot, silicon can help the plant have a better response, a better immune system.
+And so, those are where you're going to see more of a visual response when it comes to silicon.
+So, essentially, you're saying there's research related to fungal pathogens, bacterial, as well as insects?
+Yes.
+Yep.
+And viruses.
+And viruses.
+So, and that's, you know, people think that it's too good to be true.
+So, one thing I really want to point out, silicon is involved in all of these, but all of these responses are not directly due to silicon.
+It's due to how silicon is bringing the internal environment within the plant into a balance.
+And so, it's allowing the genetics that are already there to perform to the best ability that they can.
+And so, that's where silicon looks like it's affecting all of these, but really what silicon is doing is it's balancing the plant out so the plant's own responses can perform to the best potential that's there.
+So, using silicon in your garden doesn't necessarily mean you're not going to see botrytis and spider mites and a variety of other issues, but you may see less pronounced damage or?
+It greatly reduces these responses.
+And so, that's where we start talking about you can, if you go in and you're using any type of, if you're using a pesticide or a chemical to help control, what we see is you can use less of that chemical.
+You can use less of these synthetic responses because now you have a more robust biological response by the plant.
+The same, like if you're using beneficial insects or another means to deal with this, if you don't have silicon, you're missing out on a huge part of disease resistance or health for those plants.
+And so, by bringing silicon in, it's going to help your IPM strategies be a lot stronger, and you can start reducing costs on some of those components, depending on what it is that you're using to combat some of these issues.
+So, kind of, you know, going off of that, how do we best apply these silicon products?
+You know, some are going to be applied directly to our soil.
+Some are used as a foliar application.
+Does it make a difference in terms of how we apply it?
+Like, let's say I know I'm starting to see, but try this.
+Should I be doing foliar applications of a silicon product versus counting on there being sufficiency in my soil mix?
+So, the great thing is what I tell growers and farmers, apply it the best way that you can work it into your system.
+Whether you're applying it, so obviously, if you have a solid product, you're going to want to incorporate it into the media or the soil.
+With the liquid products, you can apply either as a drench or foliar application, and we're still seeing benefits from both.
+How the mechanisms are likely going to be different between a foliar application and a root application,
+but however you can get that silicon into your system is going to help the plants respond to that.
+What's nice about applying it as a drench when we're talking about liquids is it can be taken up through the root system and transported all throughout the plant.
+So, we know with silicon, similar to calcium and copper and some of our other nutrients, it doesn't load into the phloem,
+so it moves through the xylem tissue, which means once you apply it to a leaf, it's not going to move out of that leaf into other areas of the plant.
+And so, that's why with the foliar applications, you have to do a continual foliar application so that the new growing tissue has silicon present for its developmental and health needs.
+And so, even with that though, there are benefits that are shown in the literature with foliar application and definitely with using these materials as a drench.
+So, depending on the product itself, they may suggest one application versus the other, but it really comes down to what's going to be best to get it into your system to help combat that.
+So, even if it is a foliar pathogen, moving up through the root system, it's going to get into the internal portion of the leaf and help have that response because it's coming from an internal response.
+It's not coming from a physical barrier that's just being formed on that leaf surface.
+It's happening inside that leaf.
+That was a great answer.
+That was exactly what I wanted to hear.
+Thank you so much for sharing that.
+So, we can do soil drenches essentially and still effectively treat disease in a reasonable time frame for plant response.
+That's great.
+All of my studies that I have done as a graduate student and with USDA, we're using silicon as a drench.
+I'm just now, this year, starting to get into looking at what effect foliar application has on some of these responses.
+Well, that leads me to a conundrum here.
+I want to talk about, you know, you mentioned foliar versus soil drench and that makes me think of potassium silicate.
+And the labeling laws around it.
+But then I also want to talk about heavy metals.
+Which would you like to cover first?
+Let's talk about heavy metals and then we'll get into the legalities of everything.
+Okay, perfect.
+All right.
+Well, talk to me about heavy metals and, you know, some of these sources and how that might be something that growers should be thinking about.
+Yep.
+Yep.
+So, going back to the rice hall talk and how we want to make sure that these materials, silicon's present in that.
+The same with our plants.
+If we have these hyper accumulators and we aren't providing silicon, they're craving the silicon.
+And it's kind of like you going into your kitchen late at night craving chocolate and there's no chocolate in the house.
+So, what happens, well, and I shouldn't say you, I'm going to, it's me.
+It's really me that does this.
+I eat everything that's present, whether it's sweet, whether it's salty, trying to get that chocolate fixed.
+So, when we think about plants that are hyper accumulators, they are trying to get that silicon.
+So, they're turning on different transport mechanisms, trying to scavenge any part of silicon out of that system.
+And with that, what we do is we get an imbalance of nutrients in the plants.
+Phosphate's one of them.
+But the sad part about it is arsenic, cadmium, some of these other heavy metals can also be taken up.
+And with arsenic, arsenic and silicon have very similar chemical features.
+They're very close, they're right next door to each other on the periodic table.
+And so, one of the downsides that we know with rice, if silicon's not present, it will pull arsenic out of the soil profile.
+And people might not be aware of it, but we have quite a bit of, there's arsenic, there's heavy metals, there's all sorts of what we call contaminants that are naturally occurring in the soil.
+And for the most part, the plants don't take them up because they have plenty of the nutrients that they need.
+But when we get into these hyper accumulators, the arsenic will move up to where the silicon's supposed to.
+So, when we have something like rice hulls and we're starting to use that as our silicon fertilizer, we can start in unintentionally be putting arsenic, again, likely at low levels, into our profile.
+But if we're growing plants in a silicon-limited environment, they are going to pull that arsenic out and bioaccumulate.
+And specifically for the cannabis industry, this is a big concern because of the high amount of silicon that they take up, they are desperately trying to get that silicon in any way that they can.
+And I think this is where a lot of the issues with the higher arsenic levels that we're seeing or the higher heavy metals that are being taken up into the plant,
+because they don't have those mechanisms in place that the silicon would have used to reduce the movement of those metals into the cell and into other parts of the plant.
+And that's the same that we see not just for cannabis, but for a lot of the other plants as well.
+So, as soon as we start putting silicon into the system, we see a reduction in the phytotoxicity of these metals if we are on a contaminated soil.
+And so, they can kind of outgrow those negative responses and still provide a quality plant or quality fruit.
+Well, that's a real gem of information that we may be able to increase silicon in our plant tissue as a way of reducing heavy metal uptake.
+Great.
+That's fascinating.
+It's something that I'm going to have to do some more testing and research on myself, because it's a real challenge in cannabis, like you mentioned.
+And, you know, I do see a lot of growers and soil suppliers using rice holes in their mix.
+And, you know, many of them are testing their soil mixes, which is great.
+And if you use, I assume if you use like an acid extraction for heavy metals, you would be able to, a strong acid, you'd be able to see what is potentially in there.
+But one thing I want to go back to is you mentioned that because rice holes are a waste product, there's no guaranteed analysis.
+So, we can get quite a bit of variability batch to batch.
+So, unless you're testing every batch, I don't see how you could really determine your levels of arsenic that you're bringing in every time you mix it into your soil.
+Well, and the other thing, so I don't want to scare people away from rice holes saying that it has arsenic, but the potential is there.
+And even what you have to, it could even be a trace level that's not even detectable.
+But when you have a hyperaccumulator, it's going to bioaccumulate very, very small amounts that might be there just as a very, you know, background, no chemical is 100%.
+So, even if it's at that 0.001%, it's going to be able to find it and pull it in trying to satisfy that silicon need within the plant.
+And so, that's where the issue comes from.
+It's not that there's high contamination of arsenic coming in.
+It's that background amount that's there that's no different than what's out in our natural soil system that we naturally have, you know, around us every single day.
+It just gets accumulated in these species because it's trying to find the silicon.
+And that's why it's, you know, we consider these hyperaccumulators that can be used for bioremediation.
+Silicon is one of those elements that it's going to hyperaccumulate, but if that's not there, it's going to find something else to take its place.
+Yeah, I think it's more we're always just looking for what potential vectors are, because I find water to be one of the biggest vectors.
+Soil, dust that's kicked into facilities can oftentimes bring it in.
+Water in contact with metals, especially RO water.
+So, there's a variety of other things, not to single out RISOLs, but it is something that I think people should be thinking about with all of their inputs, but especially these ones, like you said, that could hyperaccumulate.
+Right.
+Yeah, and, you know, that brings you back to the adage that, you know, as you're trying to do something that's a more natural source, you still have to be careful because natural doesn't always mean the safest source or the best source.
+And so, it's just understanding where that natural source is coming from and what's present in there and what's lacking in there.
+Yeah, now, that made me think of something else.
+Does the pH of your media affect your silica uptake, like with other nutrients?
+That is an awesome question.
+I would say that's kind of a loaded question.
+And in that, main thing I don't know, I'm not sure of studies that have looked specifically at pH and uptake because, and I'm thinking in more of a soilless media where you don't have that buffer capacity, really within that, the plant is the major driver of what that pH of the media is.
+And I know, you know, in growing systems really work hard to maintain it within a certain pH range.
+So, within those heavily regulated pH ranges, you're going to get the same probably, I don't think it'll have as large of an effect because the solubility of silicon between, I think it's like four and nine, is going to be the same throughout.
+So, you're not going to get into a situation where it's below four, at least in soilless, you know, you might in acidic soils or above nine.
+And so, within that range, there's really very little difference, if any, in the availability of maintaining silicon in that 60 ppm or two millimolar concentration.
+I mean, if you're outside that pH range, you have other problems at that point trying to grow plants.
+Right, yeah, you're going to be, yeah.
+This really does sound like a miracle element in a lot of ways, the way you're describing it.
+So, I think this is a good transition into sort of the labels and products on the market because there's challenges around labeling.
+And I think it's really hard as a grower to know how to compare.
+Can we start off just talking a little bit about potassium silicate because it's the one I'm most familiar with.
+Now, it's approved in organic production as certain applications.
+Can you kind of explain the regulation around it?
+Sure.
+So, all silicon products here in the U.S., including the potassium silicates, are regulated through the fertilizer, bio-stimulants, soil amendments portion of the state regulation.
+So, it's regulated at the state level.
+So, the American Association of Plant Food Control Officials, or APCO, is the governing body that gives recommendations to the states, but then it's up to each individual state to determine how, if they accept those recommendations or if they have their own slight changes to that.
+And so, that's where some of these labels that we see in some states, such as, say, California, Washington, and Oregon, might look a little different than some of the other Midwest states.
+And that can add to some of the confusion, especially when it comes to silicon, as it has just recently, within the past 15, 20 years, been a regulated fertilizer within this group.
+So, currently, the AVCO recommendations are that when a silicon fertilizer is labeled, it's labeled with the percent silicon, so just percent SI, and that's based off of that five-day extraction method I mentioned earlier.
+So, what that tells us is the amount of silicic acid that we can expect to be released from that material.
+The problem with this is it was developed for our solid materials and not our liquid materials.
+So, from a solid material basis, what we tend to see is that the percent silicon that they put on the label for the solid tends to overestimate the amount that we see in plant grow-out trials.
+So, it tells us there's a higher number than what's actually released within that growing cycle for grass, whereas with the liquid products, the percent that we see is lower than what we actually see from the uptake within the plants.
+So, it tends to underestimate liquids and overestimate solids.
+Can you explain what an example of a liquid and a solid is in this case?
+So, for instance, and correct me if I'm wrong here, is it the agro-kay, is that a solid or a liquid?
+Agro-kay.
+So, with the potassium, okay.
+The egg-sil?
+With the solid egg-sil, sorry, yes.
+Oh, okay.
+So, egg-sil is a powder that's 100% soluble that, like, for example, we mix with water as a way of creating a liquid solution.
+So, that's where I was kind of confused in terms of how you're defining these things.
+Yep.
+So, with that, since it's applied as a liquid, that would be, it would fall likely under the liquid.
+So, most of the potassium silicates we work with are already in the liquid form that we purchase from a distributor.
+When we talk about solids, these are things like the diatomaceous earth will last the night.
+There's ignimbrite, the sand material, all of these that are more solid components that would be a soil or a media incorporation are what we refer to as solid.
+And then we have a number of different silicon, liquid silicon products.
+We have potassium silicates.
+We have some that we really don't even know the source of that refer back to the monosilicic acid.
+There's calcium silicates that are in a liquid form.
+And so, with that, again, all of these are recommended to provide the percent SI so that when we go in to purchase, we are looking at how much silicic acid is released.
+The problem is, since every state has the ability to allow the labeling, there are still products out there that will give the percent SiO2 or even the percent silicic acid, which is SiOH4.
+And so, what that means is they can put a higher number in that percent label, and it's still the same.
+So, if we have a 1% Si, which is a silicon, they can say that it's 2% SiO2.
+And as a consumer, you're just looking at 1 versus 2%.
+And then even with the SiO4, a 1% Si would be a 3.4% SiOH4.
+And so, making sure that as we're reading on these labels and we're understanding what that percent Si is, that's where we need to make sure that we're looking at these accurately.
+The other thing, though, all of these liquid fertilizers are usually in concentrations at or above 3% Si, which is concentrated compared to what I would suggest is an application rate of 30 to 60 parts per million, which is 0.003.
+I might have missed the zero in there.
+So, whether it's 1% or 3% Si, all that means is you're going to either dilute it out more or less to get that same response from the silicon.
+So, if I'm understanding you correctly, you're suggesting that we should convert all of these products to Si percentage, just silicon, so we can compare them apples to apples?
+Is that right?
+Correct.
+That is correct.
+And that is what AFCO suggests for their labeling recommendations when it comes to silicon products.
+So, there's no magic bullet proprietary silicon chelated, I don't even know what other buzzwords to hit here, that justifies a significantly higher price point than really just looking at Si percent when we talk about these liquid products.
+So, there are some products, when we talk about performance, there are some instances where the formulation, some of the formulations allow the products to have a much longer shelf life.
+So, some products only stay in solution for maybe six months to two years and then form a really thick silica gel that isn't going to provide anything to your plant.
+I have other products that I've had for over 15 years and are still in solution.
+So, there are differences in formulation that might give an advantage of one product over another.
+But again, those aren't affecting the silicon response that you're seeing if you apply that product at the same silicic acid concentration.
+The other thing, a lot of these products are not a standalone silicon product like the potassium silicates.
+And so, they incorporate other biostimulants or other nutrients.
+And so, it's more of a blended fertilizer.
+And so, you're not just getting that silicon, but you're getting other nutrients or biostimulants that are coming along with that silicon component.
+And so, these are the products that tend to show differences in plant size and plant yield because usually those plant size and plant yield, those are not coming from the silicon response unless you're under extreme stress.
+And so, those positive responses in plant growth are coming from something else in that formulation aside from the silicon component.
+Okay. But if I'm just comparing the silica portion of a product, because what you said makes perfect sense.
+For example, I'm looking at a potassium silicate product right now or a SI product that contains urea, phosphoric acid, calcium nitrate, you know, these other ingredients along with potassium silicate.
+But if we want to talk about just the silica portion, that potassium silicate is going to be essentially the same potassium silicate that I'm getting from AgSIL.
+As far as I understand, it's all coming from the PQ Corporation.
+This idea, though, that we're getting a different silica response may or may not actually be accurate.
+The SI is SI is SI is SI is SI, I guess, is what I'm getting at.
+Is that?
+You are 100% correct.
+Is that safe to say?
+Silicone is silicon.
+That is very safe to say.
+Okay.
+Silicic acid is silicic acid.
+No matter where it's coming from, what it's weathered from, when it's in that form, that's what's taken up by the plant.
+And so when you put everything on that same plane as looking at comparing silicic acid to silicic acid, that's why that percent SI from the five-day method, even though it's not the best method that could be out there, it's an extraction method that at least gives us a starting point to start looking at where they fall within that release rate of the silicic acid.
+But yes, you are correct, whether it's coming from a potassium silicate source, a calcium silicate source, whether it's at 6% or 3%, silicon, silicon, it's going to take up as much as it wants of the silicic acid, and you're going to get similar responses independent of what that starting material is.
+I only say this because in the cannabis industry, we have so many products and so many companies promoting products, and it's very confusing, and there's a lot of marketing hype.
+And some of these products are just exorbitantly expensive because with cannabis, you have a crop that's high value.
+People can spend the money, but we don't necessarily want or need to.
+So I just, it's good to hear that, you know, maybe we can look for a source that's more affordable, knowing that at least the silicon that we're getting is going to be essentially taken up the same by the plant.
+The plant doesn't care if it had a fancy label or not, I guess, is what I'm saying.
+Correct, correct, yep.
+Wonderful.
+Okay, on that topic, you brought up monosilicic, I can't even say it, monosilicic acid.
+Is that a different form of silicic acid as well?
+No, and I apologize.
+Nope.
+No, it's good.
+I try not, yep, nope.
+So orthosilicic acid, monosilicic acid, and silicic acid, they all refer to the compound SiOH4, which means there's four hydroxyl groups surrounding the silicon.
+And that is the natural form, that is a single subunit.
+Silicon is never by itself in nature.
+It's always interacting with oxygen.
+And so when we say orthosilicic acid, that means it forms, and I'm not a chemist, so please don't quote me on all this, but it's just the form, the chemical form of the formula and how the hydroxyls come off.
+And monosilicic acid refers that there's just one silicon subunit of the silicic acid.
+And then I just, silicic acid is the easiest way to say it without adding the mono or the ortho to try and not scare so many people away.
+But it's still kind of a mouthful if you're talking about the single silicon compound that is absorbed by plants.
+Personally, I'm really glad you brought it up because I'll have someone say, hey, you're, you know, you don't want to use wollastonite or calcium silicate because I have a highly concentrated monosilicic acid product.
+You know, and making it sound like it's something, you know, inherently very different.
+So I'm glad that you touched on that.
+Did you want to add anything before I move on to the last topic?
+No, no.
+Just with that, really, it all comes down to that percent SI.
+So whether it's on its own as a, there are some products that do have a really high concentration of silicic acid that don't have a calcium or a calcium or sodium that's in combination, but they have other components in that mix that's allowing it to stay in that high concentration.
+So again, looking at percent SI, that's where you're going to start putting everything on an equal playing field.
+And that's where that five-day extraction comes in.
+It really doesn't care if it's a straight silicic acid, if it's combined with calcium, potassium, or any of the polymers that are out there.
+It's strictly looking for how much of that is going to be in the silicic acid form for the plant uptake.
+You know, there is one thing I forgot to touch on with you was one form of silicon, which is silicon dioxide and availability.
+Can you touch on that before we move on?
+So again, that's a silica.
+The availability is really going to depend on how it was formed.
+So when we're talking about the silica from a volcanic eruption, you know, and more of a glassy type thing, it's still amorphous, but it doesn't have the same surface features of a biogenic silica, which is the opal that we were talking about in like the rice halls and the grass grains.
+So really how that silica was formed is going to play a role in the release rate because there's some recycled glass that they heat up really, really high and it becomes really porous.
+And we found that even that recycled glass, which is a silica releases a significant amount of silicon where we can actually see increases in silicon and plant treatment when we put a certain amount into the growing media.
+So it does release, we know it can release silicic acid, but the amount of release is really going to depend on how it was formed.
+And then you're seeing good results.
+You mentioned briefly biochar.
+So if a high silicon material is pyrolyzed, you're getting a good silicon product.
+Yes.
+And with that, we were comparing, we had rice hulls that we knew were coming from a source that had high silicon.
+We were using the rice hulls and then they were also pyrolyzed at the 700 degrees Celsius in the muffle furnace.
+So the oxygen was deprived and we were seeing similar amounts of silicic acid or silicon accumulation in a grass study between those two types of treatments.
+Yes.
+That's wonderful.
+Big fan of biochar in general.
+So that's good to hear.
+But biochar, just like everything else, you need to know the source because not all biochar is going to release or have a high concentration of silicon.
+Absolutely.
+It really depends on what the starting source is.
+Yeah.
+Biochar has a lot of the labeling challenges and issues.
+Yes.
+There's many other things in this industry.
+So, okay.
+Last question.
+Thank you so much for this.
+What are the differences across various media sources in regards to silicon uptake and plants?
+Is that too big of a question to end the podcast?
+Are you asked like media components?
+Like hydroponics versus soilless versus actual soil?
+Okay.
+Are there, are you seeing?
+It's a huge, it's a huge question.
+Yep.
+So with soils, especially when we're in our heavier with our clay, obviously we're going to have a high potential for silicic acid release.
+When we get into things like our sandier soils, that reduces, but they're still seeing great responses when we are fertilizing with silicon fertilizers on the heavy clays and on the sand.
+So there's still a lot more to the story that we're learning.
+When we get into these hydroponic systems though and soilless media, we're really, really lacking that parent material and minerals that are going to give us that baseline amount of silicon that's needed, especially with these hyper accumulators or macro accumulators of silicon.
+Things like perlite and vermiculite can add a small amount of silicon to that.
+And then if we're using certain water sources, we found well water is going to give us a little bit more boost, at least here in Ohio, where it's percolating through clay parent material than our surface water is giving us.
+But you're still getting a small amount if that water is coming from a non-distilled source, which I don't know many people that use distilled water or purified water in those studies.
+But still, it's greatly lacking for the responses that we need.
+And then when you get into these hydroponic systems, if you're doing a Beto bucket system with 100% perlite, we're actually finding that there is quite a bit of silicon that's being taken up by the plants.
+And when we ran analysis of the silicon concentration in the reservoir of our perlite buckets, they were very similar to that that was present in our 2-millimilar silicon treatment.
+So there is a potential that in those type of systems, you might not need as much of the silicon fertilizer as you would in others.
+But then when we get into NFT systems, your fertilizer source for those systems and your water source are going to dictate how much silicon might be there as a background, but it's still likely going to be well below that 60 ppm concentration that you would need to add continually or weekly to that solution to maintain enough silicon for the plant needs.
+That's really interesting.
+Am I missing any of the media?
+No, the only other thing that you and I had talked about that I thought was sort of counterintuitive for me is I mentioned this, these, you know, what people call living soils, these highly enriched soilless media.
+It's what our, you know, my company produces for the industry.
+And we add rock dusts and we have a compost fraction.
+And so there are some, you know, you know, silicon sources in our media already.
+But you had mentioned that you saw better results related to soil applications with some of these, you know, sands and things because of the biology, I believe.
+So the microbiome, we don't, we're not even scratching the surface with our understanding of silicon weathering and movement between all the different aspects within the rhizosphere, within the bacteria and within the plant.
+So we may see some sort of SI solubilizing bacteria or archaea commercially produced down the road.
+Correct.
+Well, what's interesting, they're, they're likely already there.
+So the bacillus species that everybody has come to know and love, a lot of these rhizosphere species that we're already using as inoculum are the ones that have been identified as being important in the silicon mineralization within soil.
+So, so it is likely that we're already putting the potential in there as silicate mineralizers.
+Now we just have to give them the food to help them break that down even further.
+So you can actually, you can have that continual release and that beneficial response from the nutrient.
+See, we use a very fine rock dust and a couple different sources of rock dust that are pretty high in silicon as well, as well as a couple other things with the idea being because folks are reusing their media, which is not as common in, you know, horticulture and floriculture industry.
+These things will become available, the SI will become available down the road, even if it's not there that first cycle.
+That's correct.
+And the others, oh, go ahead.
+Oh, no, go ahead.
+Well, just thinking about it, the rock dust being there present and with reusing the media, what you're doing is you are supporting a microbial community that I don't think a lot of people think about that are colonizing.
+Colonizing these nutrient rich areas.
+So you're actually selecting for the bacteria that are able to live and survive and weather that material.
+And so, yes, as you're using it year after year, the efficiency of that mineralization will likely increase as that source, you know,
+as they're continuing to benefit from the plants that are growing in there and the nutrients that are available and haven't been used up.
+Yeah, we also use a larger volume of soil relative to what are soilless media relative to what most growers traditionally would use.
+So we're in beds or, you know, 15, 20, 30 gallon pots in a lot of cases.
+And I think that plays a role in the microbiome.
+And we tend to see our better yields in plant health on the second or third cycle, which puts us, you know, six months, four to six months down the road versus that first, you know, 60 days, 55 days that that initial crop is in.
+So, you know, that would I think it's an interesting hypothesis.
+The other thing I wonder about in terms of the research you've seen is these types, this type of media I found, you know, qualitatively looking under the microscope tends to be more biologically active than traditional soils or agricultural soils.
+Now, I'm not, you know, doing DNA analysis on what the, you know, particular microbes are to a species, but I wonder if research would show different results versus, you know, a more common soilless media like ProMix or something, for example.
+Well, like from what it sounds, so ProMix and the soilless media that we use, obviously it isn't microbial inert, but it's nowhere near what soils are.
+But when you're talking about a highly intense or, you know, a well-blended living soil where you are providing the nutrients, you're providing the environment.
+And, you know, one that is a well-adapted for enhancing the growth of these microbes, the growth of the plant, that's a lot different than a soil system where we're just applying fertilizer to and we're putting plants in the ground.
+Even though we're working, you know, we can be putting in compost that, to me, it sounds like these types of living soils are a little bit more calculated and more balanced than what you would see out in a typical agriculture soil.
+So the fact that you're seeing more microbial growth or more microbial action, that, excuse me, that makes sense.
+Obviously, you know, having some type of data to look at those two would be really, really interesting.
+But in essence, that's, you know, you're just, you're really working on creating the perfect environment to culture both the microbes and the plants.
+And so you would expect to see, I think, a more dense population or a more efficient response within those types of situations.
+Yeah, I mean, I hope we see more research down the road, but it's such a complex topic.
+Yeah.
+And it would be so challenging to research anyway, just because there's going to be so much variability at the microbial level.
+Right.
+I don't know if we'll ever get there, but.
+Yeah, no, no, I'm sure people will try and come up with really great inferences from that.
+But you're absolutely correct when you try to control the variables or, you know, to be able to even start to compare studies to one another.
+It's going to be a huge challenge.
+Yeah, well, I'm, I'm super excited.
+You've really inspired me to revisit silicon and how I might be able to better utilize it in my garden.
+And I really just thank you for your time today.
+You are absolutely welcome.
+And if there's anything that I can help yourself or your viewers, please just reach out.
+I'm always open to sharing any and all information that I've got through these past 17 years with whoever is interested in learning about it.
+Great, well, I'll put some, you know, some links and information.
+I think what would be really useful is a conversion chart if those are available.
+So folks could easily compare products.
+And yeah, hopefully as more research comes out, you and I can chat again down the road.
+That would be fantastic.
+That was Dr. Wendy Zellner and you are listening to the Cannabis Cultivation and Science Podcast.
+I'm your host, Tad Hussey.
+If you like the podcast, please leave us a rating and review and give us a follow on Instagram.
+You can also sign up for our newsletter on our website homepage to stay up to date on the latest research and information.
+Don't forget that we are running a limited time sale on our Silicon products in honor of this podcast.
+Thanks for listening.

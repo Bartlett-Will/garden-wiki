@@ -1,0 +1,620 @@
+As part of the Foundations and Soil Plant series, I wanted to revisit this conversation with Ben
+Hartman around lean farming because it continues to influence how I think about cultivation
+and really all systems, not just soil and fertility, but workflow, efficiency, and decision
+making in a production environment. Even though this episode was recorded years ago, the ideas
+around lean farming and Kaizen, which stands for continuous improvement, Muda, which means waste,
+and right tool in the right place at the right time are just as relevant today, especially as
+cultivation gets more competitive and margins get tighter. I now incorporate this philosophy into
+many aspects of my life. It can be as complicated as how we run KISS Organics or as simple as where
+do we store the toilet paper in the house to reduce distance from where we store it to where we need
+it. Freeing up time by having leaner practices means more time focused on other aspects of
+cultivation like scouting or IPM, or for a home grower, more time with friends and family or
+other hobbies. Since the original release of this podcast, Ben has written additional books on the
+subject, launched a masterclass, and has continued to refine these ideas and processes. If you're
+running a commercial facility or even just trying to make your own cultivation more efficient and
+repeatable, there's a lot here that still holds up. Let's get into it.
+Welcome to the Cannabis Cultivation and Science Podcast. I'm your host, Tad Hussey of KISS Organics.
+This is the podcast where we discuss the cutting edge of organic growing from a science-based
+perspective and draw on top experts from around the industry to share their wisdom and knowledge.
+Don't forget to subscribe to the podcast and leave us a rating and review. You can also sign up for
+our newsletters on our website as it's the best way to find out when new episodes and blog posts come
+out, as well as any discounts or coupon codes. This week's podcast is especially important to anyone
+making a living off of farming or cannabis cultivation. To many people today, using the words
+factory and farm in the same sentence is nothing short of sacrilege. In many cases, though, the same sound
+business practices apply whether you're producing cars or cannabis. Ben Hartman has found that
+incorporating the best new ideas from business into his farming can drastically cut out waste and
+increase profits, making the farms more environmentally and economically sustainable.
+Working smarter, not harder, also prevents the kind of burnout that startup farmers or growers
+often encounter in the face of long, hard, back-breaking labor. Ben and his wife Rachel own and
+operate Clay Bottom Farm in Goshen, Indiana, where they make their living growing and selling specialty
+crops on less than one acre. Their food is sold locally to restaurants and cafeterias, at a farmer's
+market, and through a CSA program. In 2017, Ben was named one of the 50 emerging green leaders in the
+United States by Grist. I took a long shot reaching out to Ben. I know that cannabis cultivation can be
+off-putting to many traditional farmers. I was honored that he was willing to come on the show to talk about
+his book and the concept of lean farming. I cannot stress enough how important this book can be in
+changing your business for the better. I've been telling all my friends and growers about it and
+made some massive changes on our farm based on the principles outlined in his books. Without further
+ado, though, here's this week's interview. Well, thanks, Ben. I really appreciate you taking the
+time to come on the show today. Hey, you're welcome. Thanks for having me. Yeah, so for my listeners,
+I heard Ben at the Focus on Farming conference that was local to me this winter and heard about
+his book and the concepts have already had a huge impact on my farm. And I don't want to get into
+all the details of the changes we've made because of your book, but we made some pretty major financial
+and philosophical commitments to these concepts. Okay. And I think every farmer needs to read your
+book. So I want to start off by giving listeners, though, a little bit of information about your own
+personal history. Yeah, sure. I grew up on a northern Indiana 500 acre corn and soybean farm.
+And our farm was just down the road from Earl Butts, who is Richard M. Nixon's secretary of
+agriculture. And he was made famous for saying, get big or get it out. And that's how you're going to
+make it in agriculture. And so that is the mindset with which I entered farming. And so we, my wife and I
+got married and we purchased a five acre property. And it was my thinking that is a stepping stone
+property. And we'd eventually, you know, expand to 10 acres and 20 acres and then, and then work
+our way up from there. Because when I was growing up, the metrics for success, you're a successful
+farmer in northern Indiana. If every year you got a bigger tractor, every year you rented or grew on
+more land. Every year you put up another grain bin. And if you didn't, then something was wrong with
+your farm. And so that's the mindset with which I entered farming. And to my detriment, because we
+had, we, what the type of farming I want to do is small scale and local vegetables. We were selling
+direct to customers. And it was labor intense. And it didn't take us long before I realized I just
+constantly expanding, just wasn't going to work on a number of, number of levels. First, it meant that
+we were having to find more accounts further away from home and drive to Chicago, drive to Detroit or
+Indianapolis to find accounts for food. And so it was stretching the definition of being a local farm.
+And then also, uh, just from a psychological standpoint, it was just constant stress and it
+kind of hit home. I hit home one afternoon. And actually, let me, I tell you a story here of how
+I tell you how a greenhouse ended up on the roof of our barn is every year we used to have what we
+call pizza and weed party. And it was a name that we cleverly chose to lure college students out to
+our farm and weed or weed a greenhouse or two. And then we'd feed them pizza afterwards. And so one,
+so this one, about 10 years ago, we're getting ready for our pizza and weed party and we'd set
+out all the tools and Rachel and I wanted a house for a break. And then it was a light breeze in the
+morning. However, by mid afternoon, the winds were starting to pick up and eventually this slow wind
+turned into a gale force wind. And we heard Rachel heard a thunk and she ran to the window and she said,
+Ben, you better come see what's going on here. And so I ran into the window and saw the green,
+our greenhouse had landed on our roof and had the, had the bar not blocked the greenhouse,
+it would have ended up in Northern Michigan or Canada. I don't know. But, um, and it was because
+we had, and so part of the lean system, you're supposed to ask the question why five times whenever
+something goes wrong to get at the, you know, you want to get at the root of every problem.
+And so what is the reason that greenhouse ended up on the roof? Uh, the first, when you, when we,
+the first time we asked that question, why we say, well, it was because there's a high power wind.
+However, he asked that question enough times. So you ask it again. The second reason is that it was
+under engineered and he asked, well, what's the reason it wasn't under engineered because I was in
+a hurry building the greenhouse. Anyhow, by the time he asked why five times the root cause of the
+greenhouse being on the roof of our barn, uh, was, uh, was simply that I was overworked and working
+too fast, trying to expand the farm too quickly. And after that happened, we realized, Hey, we need
+to maybe think about our business model and maybe there's a different way of running and growing a
+business. And, and that's where the lean system entered our thinking. Can you talk a little bit
+about what it lean manufacturing is? So people kind of have a foundation of what, where you started
+this idea of lean farming. Uh-huh. And just, I want to back up just a minute, just to clarify kind
+of who we are at this point. We, uh, we raise organic vegetables, uh, and we do it on less than
+an acre of land and all of our accounts are within a mile and a half of our farm. So we're kind of an
+uber local micro farm and we're making a comfortable living over a hundred thousand dollars a year doing
+that. Um, so lean, what lean manufacturing essentially amounts to is putting on a set of
+eyeglasses and notice, and you read a lot about seeing and vision in the lean literature, but
+essentially you're noticing when am I adding value for the customer? In other words, when am I touching
+my product and causing the value of my product to go up? And then when am I contributing to Muda,
+Muda, which is a term we roughly translate as waste. Uh, however, it's essentially any activity
+that's, that is happening on your farm. That's not directly adding value for your customer.
+And, uh, the Japanese very precise culture, and they identified seven specific types of Muda's
+and now they've added three or four new types of Muda's. Um, and we just have one word for Muda
+in English. We just call it waste. Uh, however, uh, it's like, uh, how some cultures they have
+600 or more words for reindeer or whatever. The Japanese have thought more carefully, uh, about
+non-value adding process than we have. And so essentially what you want to do is maximize
+the amount of time and effort going into the value of adding activities and minimize or better yet
+eliminate all the waste activities. Yeah. So before hearing you speak and reading, um,
+reading your book, I had, I had heard of lean manufacturing. In fact, one of our, um,
+main people at our farm was telling me about how we should incorporate this into the farm.
+And I was familiar with Toyota and all, you know, some of what they had done. And to me,
+there was a huge disconnect. I wasn't able to, in my brain, go from what Toyota does in a
+manufacturing facility to all the different aspects and things going on in my farm. It felt
+like there were too many variables. Uh-huh. So what your book really does is connects the dot between
+that lean manufacturing and then this thing, this concept of lean farming, which is that something
+that you coined? Is this your term? Oh, and actually no, because, uh, farms in Asia, Asia and in
+Scandinavia have been using lean systems thinking for several decades. It's just new to North America
+here. Um, and I, to clarify too, they say lean came from manufacturing. However, the first workers,
+uh, at Toyota in the 1930s were rice farmers and these, these rice farmers who brought this lean
+way of thinking to the factory floor. And I think that's part of the reason that the seven types of
+waste that they originally identified at Toyota, these are ways that are ubiquitous on farms. And
+one has to wonder, uh, if agricultural thinking didn't influence Toyota and, and wasn't one of the
+reasons why Toyota eventually became eight point times, eight times more profitable, you know,
+than G than GM and Ford. And, uh, and I think farmers, especially in 17th and 18th century,
+Japanese farmers, they just had to be shrewd and they had to, they had to farm, farm, you know,
+or else they weren't going to make it. And there are a lot of historical sociological reasons for
+that, but anyhow, so that's, it's actually originally at as much an agricultural system as it is a
+manufacturing system. I didn't know that. That's really interesting. Can we dive in a little bit to
+the, the five basic principles of lean before we talk too much about Muda and, uh, you have some
+great examples here in your book, starting with, uh, is it Siri? Uh-huh. Yeah. You mean for the 5S
+process? Yes. Yes. Okay. And so lean is, can roughly be thought of as a series of, there are four basic
+lean concepts that fit most appropriately in agriculture. And the first is to apply this 5S
+organization system. And the second is value is, is identifying value from your customer and then
+getting rid of the Muda's. And the fourth step would be continuous improvement. And so we can
+begin by talking about that first step, which is, which I think is the place to begin for most farms
+is to use this 5S process. And essentially there's five steps to getting a workplace, uh, organized
+according to the lean system. And it all goes back to when am I adding value? When am I contributing
+to a waste? And so the first step of that 5S process is called Siri or sort. And essentially
+what that means is you go around your property and every object on that, on, in your work environment,
+you ask a simple question, which is, did you add value for a customer in the past? And for cannabis
+say in the past growing season, did you add value for a customer? Whether it's a fork or a hoe or,
+uh, you know, planter container or whatever. And if you, if you struggle to come up with an answer,
+if you have to think it over, then it's probably time to get rid of that item. Okay. And so at
+Toyota, they're very ruthless about the only items in the workplace where those that are being used on
+a daily basis for adding value. And we do this twice a year on our farm. We go around to every
+object and some say you should actually physically touch the object. We don't physically touch every
+odd, but we, we at least come close to it, physically close to it. And we ask that question,
+dude, did this row cover, did this hoe, did this traction implement add value in the past six months?
+And if the answer is no, then we get it off the property. And we've been pretty ruthless about this.
+I don't like to have stuff on our property. And, uh, we farm with enough tools that would fit in a
+small size pickup. And so as you're doing this, you want to choose tools that you want to farm with a
+few tools, uh, that add, that add a lot of value that perform many functions. And so we love, for
+instance, uh, a hoe that can be a grubbing hoe. That's, that's a strong hoe for, you know, flipping
+soil if you need to. And yet it has a fine point. So we can use it for finer cultivating, uh, or the beast BCS
+where you can swap out multiple implements and, and can perform a lot of functions. We're, we're
+always on the lookout for how can we farm with fewer tools and get more work accomplished.
+Now that kind of leads us into the next, um, the next one, which is set in order, because when you
+say fewer tools, you are removing tools, but you're also putting the tools where they're most useful
+and even duplicating tools. Can you touch on that a little bit?
+Uh-huh. Uh, yeah. So we used to, for instance, we used to have a centralized tool storage areas, tool shed,
+like a lot of farms would have. And the first thing we did, a lean consultant came out and said,
+you really need to take a stick of dynamite to that tool shed because it's adding a lot of
+muda to your process. And the reason is for every process we had to do, say prune tomatoes,
+we'd have to walk 200, 300 paces to the tool shed, grab the pruners, then walk back to the greenhouse
+and prune the tomatoes and then return the pruners. We'd put in as much work, uh, going to get the
+pruners and returning them as we did actually pruning the tomatoes. And so what we started to do,
+when the lean system says to do this, you want to hang your tools at eye level locations as close
+as possible to their points of use. And so now we have magnets, uh, spread out across the property
+that hold knives and pruners that we use on a regular basis. And every greenhouse, we have four
+greenhouses, every one has a tool set up and the tools we need in that greenhouse are attached to
+the greenhouse somewhere. I gotta say, that's a huge one for me. A little light bulb went off because
+I know for a fact, like some projects I would, I would spend 15, 20 minutes just looking for a tool
+because it wasn't replaced. It would be on the entire other side of the property from where it
+needs to be. And the idea of having an extra set of pruners or extra sets of shovels or whatever
+implement tool I'm implementing in the location where I'm going to use it can save not just my time,
+but my employees time, which I'm paying labor on. And, um, that was a big one. So we're working on,
+on getting all of the right tools in the right places. And I know that's going to save us a ton
+of time. Awesome. And I think it's okay to duplicate tools. Uh, we say if a tool costs $50 or less,
+we're going to probably duplicate that tool. And so for instance, every greenhouse, uh, we own, uh,
+probably 15 or so knives that we'd harvest with, even though we only going to use three or four
+knives at a time, but every greenhouse has a couple of them attached to the greenhouse. Uh, so that
+for the reason that they're physically closer to where we're using them and that small investment
+has paid off. Now we don't buy a tractor or separate tractor for every greenhouse. You know,
+there's a limit to tool duplicating, but the point is to keep your tools close to their workstations.
+Yeah. I'll put up some pictures. You also have some mobile workstation examples in your book that
+are really interesting too, um, that show that you can, you can move the tools around with the worker
+so that they're easily accessible and, um, easy to see when you're getting low on supplies as well.
+Uh huh. Yeah. And Darren, uh, Darren Volmer, an excellent farmer up in Wisconsin, uh, he would
+have more workers than we have several dozen workers during a peak harvest season. And what
+he does is he would have a five gallon bucket, uh, with an organizing basket attached to it. And
+so every worker gets a bucket with precisely the tools they need and they carry that bucket around
+with them and they're responsible for those tools in the bucket. But the, the point is that to not,
+to, to make sure tools are where they belong or in your hands, they're either in their place or in
+your hands and there's no third option. That's great. And that leads us to our next concept,
+which is shine. Uh huh. Yeah. So like I said, uh, there's a lot of language about, you read a lot
+about vision and seeing in the lean literature. And the idea behind the shine concept is you want to
+clean your tool, your, your workspaces with a tooth toothbrush and make sure they're well lit.
+Your most used tools, workspaces should be very clean. And the reason, uh, behind that is you want
+to see when waste is creeping in. And so with, with, uh, cannabis production, you want to think about
+when are the steps in my process when, uh, there's the most defect happening, you know, when you're
+cleaning or maybe it's in packaging or whatever, you want to make sure those spaces are very clean
+and very well lit too. So you can, so you can see your work and the, I, uh, a principle here too,
+is you want to perform size. Oh, in short, high frequencies spurts. And instead of long, low
+frequency, let me explain the difference. Uh, short, high frequency means that every time we're done,
+you know, watching a hundred pounds of lettuce in the processing area or hosing a hundred pounds
+or a hundred bunches of carrots, we're going to restore that processing, processing area to zero.
+Well, that means we're going to take it all the way back to clean. Uh, so that's clean condition.
+And we hang pictures up in our processing area so that there's no ambiguity about what zero looks like
+in that processing area. And so every time we're done working in there, you know, every, every hour,
+90 minute chunk of time that we're done working, we're going to take it back to zero is the language
+we use. And what we used to do, the long, low frequency method would be to, we just junk up
+the farm from say March until Thanksgiving. And then we thought, Hey, we'll have the time and energy
+all winter to clean it, but we never did. It always just, every year just got more cluttered.
+And what you, which, which happens. So when it comes to these first three steps, sorting,
+setting in order and cleaning, the thing I tell people is that you don't have to do it all in one
+week. And we did actually about a week. We just, we got several wagon loads off of our property,
+several tons of junk, literally off our property. And we just, we didn't one big push. Uh, however,
+you don't have to, what you can do is just make sure that you're headed in the right direction
+because the trajectory that you're, you're, you're on is ultimately the most important thing
+because trajectory is a very powerful psychological force. It's the most powerful force in the world.
+I think, because if you think about it, your, your form is headed in one of two directions.
+You're either getting more cluttered every growing season, or you're getting more decluttered. You're
+only headed in one of two directions and you just want to know you're headed the right direction.
+Yeah. I think this is a really important step and it's one that we are taking baby steps on
+ourselves. You know, I, I mentioned to you before we started the podcast, I've actually
+brought in, uh, some really large dumpsters that we filled. We got rid of a whole bunch of plastic
+pots that we were, we'd been storing a whole bunch of other, um, other just literally just junk that
+we needed to remove off the property or things we weren't using. And the, the psychological effects
+of this has been really big. The staff is, uh, has a cleaner space to work in. They have take more
+pride in their work. It's not, there's a, there's a psychological impact. And that was something
+that, uh, I learned from you was the, I didn't realize the psychological impact of having a pile
+of junk, the amount of, uh, stress it created and the fact that I had to keep thinking about
+it over and over again. But once it's off the property, I can let it go, um, emotionally.
+And that was a big deal.
+Uh, absolutely. I'm reading a book right now called deep work and I'd highly recommend it for
+everyone wants to delve deeper in these concepts. But, uh, the idea is that we're actually happiest
+and we're the most productive when we have just what we need in front of us and no more.
+And especially in the cell phone and, uh, in the smartphone, right? They say the average office
+worker, uh, experiences some sort of disruption every 15 minutes. It's in on the farm that was,
+that happens too. And whether it be you're disrupted because you can't find the tool you're looking
+for or disrupt because your cell phone goes off or just constant interruption, constant disruption.
+And we need to get into what lean language lean would use is we call a flow. We need to get,
+enter into a workflow in order to achieve maximum productivity. This means we're working for about
+an hour to 90 minutes without interruption. Uh, and once you get to that point, you can repeat
+that process of getting into a deep flow. Uh, it's a, it's fun. It's been phenomenal in our farm,
+how much more productive, uh, we are. Yeah, that's a great point. You know,
+I'm always being interrupted and it is hard to maintain your train of thought. And there's good
+studies out there that show that we're, we're not able to multitask as effectively as we actually
+think we are. Um, uh, no, we're not. So that's, that is a big deal. And as we continue to disrupt
+our work, it actually changes, uh, the neural pathways in our brain. We actually change how we
+think it becomes, uh, we can do long-term damage to our brain and make it long-term more difficult
+to enter that state of deep flow. So I think it's very important and something that's overlooked
+often. We think that, uh, multitasking is often, as often heralded as a, uh, something you want to
+work towards like the open office concept that, uh, uh, Google's new offices are just totally open
+and, uh, Facebook too would have open offices. And, uh, but the reality is that you, you open
+yourself up to a lot of distract the distraction and which is detrimental ultimately to the bottom
+line. Yeah, I think that's a really good point. And the other thing you mentioned that I wanted to
+touch on was the idea of how using photos. And this is a brilliant idea because the amount of time it
+takes to explain and train an employee on what a space should look like, or the amount of time for
+them to read all the, every step, if you want to write things out is, is pretty detrimental compared
+to them being able to just look at a photo and say, this is what it looks like now. This is what
+it needs to look like and make those changes. Uh-huh. And that's a good segue in, uh, segue into the
+fourth step of the five S process, which is standardization. And so when you perform those
+first three steps, sorting, setting and order and shining, you want to do it the same. You want to
+repeat the same steps, especially with shining. Uh, and so photos really do communicate a thousand
+words much and it's much more efficient. So, uh, like I said, we hang photos of what our clean
+hosing station should look like. And then I don't have to tell workers every time,
+Hey, set these crates over here and, uh, set these boxes over here and mop the floor. We just say,
+Hey, make it look like what the picture is. Yeah, that's great. And then let's touch on the last
+one there, sustain. Uh, yeah. So essentially what Toyota used, sustain means you want to make sure
+that these, this five S process is part of deep, is deeply ingrained into your workplace culture.
+And there are a couple of ways of doing this. What Toyota used to do is literally send someone
+around to each workstation and give a numerical rating, uh, based on how closely the workers were
+using the five S system and then give them bonuses. Um, I think one of the best ways is to sustain
+the practice on a small farm is through, uh, hanging lots of pictures up around the farm
+and asking people to keep the farm looking like what those pictures, uh, look like. And it's also
+sometimes helpful to have a third person say, not you as the farm manager or owner, but have a worker
+give an audit, give an occasional audit, maybe once a month or, uh, something you could do once a week,
+even, uh, just do a quick walk around and give a numerical rating, uh, to how closely you're using
+the five S system. So you discipline yourself to make it happen. That's great. Let's jump into the
+next section, which talks a little bit about what value means and how you identify that for your,
+for your customers. And I love that story that you, you told at the conference regarding, uh,
+the Toyota employee. Uh-huh. So we have this thinking, uh, in the U S anyhow, that we know more
+than our customers. And Steve, Steve jobs used to say, it was famous for not listening to customers.
+And he used to say, I know what my customers want more than they know what they want.
+And that might be true. And, and especially tech industry, there might be some exceptions. However,
+for most businesses, especially in agriculture, uh, the, but the best phrasing I've heard is from
+Jim Womack. He wrote the book lean thing. It says, you want to start with a customer customer
+and work backwards from the air. So, so begin with a customer and work backwards from there.
+And so the customer is the only force that is allowed to identify value in the lean system.
+And so you want to be very precise about identifying value, which means you want to listen very,
+very closely to your customers. And the Japanese have this tradition called Genshi
+Genbutsu, which means up close and personal observation to thoroughly understand the situation.
+Genshi Genbutsu. And so it was one of my favorite stories of Genshi Genbutsu in practice is, uh,
+in 2004, it was, uh, they were, and Toyota said, it's time to redesign the Sienna. And Toyota was not,
+they were not the first into the minivan market. They were kind of trailing behind. Uh, however,
+they quickly took over the end of minivan market because of what this one engineer did.
+And so they sent him over to North America, their primary market. And he told him to drive a van in
+all parts of Mexico, Canada, and the U S. And he spent a better part of a year doing this closely
+observing how we're using the vans over our vans over here. And so he noticed that in Santa Fe,
+New Mexico, for instance, he had trouble turning. It needed a tighter turning radius than the current
+Sienna had. And so he called home and said, we need to tighten the turning radius by 15 degrees to get up
+and down the alleyways in Santa Fe, New Mexico. And so they did it. They tighten up that turning
+radius. And then he noticed in Western part of the U S that we drove long distances and we were,
+we were eating like four course meals in our vans. And this wasn't a cultural tradition in Japan.
+And so he invented this beautiful flip-up console that this current Sienna has. And he put something
+like 500 cup holders in there. So there's no excuse not to have, uh, not to be drinking while you're
+driving. And then my favorite example is he went to Ann Arbor, Michigan, a couple hours North of our
+farm. And he went to the parking lot of a home Depot and he didn't go in. He just stood in the
+parking lot and observed. And what he noticed was that people were trying to stuff four bait sheets
+of drywall or plywood or whatever into the van and they just couldn't quite get it in. And so they'd
+bungee the back hatch or try to strap it to the roof and they became very frustrated. And so he called
+home at that point and said, Hey, from that parking lot, he said, we need to get a four bait sheet of
+whatever in the van and the next van that we produce. And sure enough, if you own a mini van
+produced after that point in his history, then the odds are very high that you can get a four bait sheet
+of plywood in it. And then by the way it's Toyota or Honda or GM or Ford, everyone followed. But my point
+is, uh, that notice how closely they're observing their customers. This is close personal observation
+and then acting on those observations and their level of observation, very minute, very precise.
+And, and Rachel and I had to admit, we heard stories like this when we started looking into the
+lean system, we had to admit, we'd never come close to taking our customers that seriously.
+And so one of the first things we did after we'd clean up the farm, using that five S system,
+uh, was to perform this Genshin can boot due process with our customers and really get to know what they
+wanted. So here's the three questions. This I'll, uh, summarize the whole process with three
+questions. Essentially you ask number one, what do they want? What specific products are they
+asking for? Number two is when do they want it? And the third is how much and what amounts do they
+want it? So very simple questions. What do they want? When do they want? And how much? And yet most
+people in, uh, in most cannabis producers, uh, most vegetable growers, uh, corn and soybean farmers
+certainly are not taking the baby step it would take to get, get, get precise answers to those
+questions. And it really hinders your business. Yeah. So basically what you're looking at there
+is what, how do you, how do you identify value and then what adds value and then what does not add
+value? And then you're essentially trying to focus on, uh, ways to raise, raise the value or do,
+do more activities that add value and less activities that don't add value. Um, can you
+give a concrete example of something you did on your farm that was a change based on customer
+response or customer feedback? Uh, we, for a number of years ran a CSA, uh, which means community
+supported agriculture. And what this means is customers paid us at the beginning of the growing season
+and then we gave him a box of food every week. And at first we said, you had to come out to the
+farm, pick it up. And we gave him a couple hours on Friday afternoons. And we, we began this process
+and we asked those three questions to our customers. And, and those questions obviously helped us
+determine what to put in the CSA boxes, how big to make those CSA boxes. And we altered the,
+you know, amounts and, and, and the items that went into those boxes. Uh, however, we heard most
+feedback was that we love actually what you're giving us. However, it's inconvenient to come
+pick up Friday afternoons at your farm. And so we started using pickup locations around town.
+And so they wouldn't have to make that 10 mile trip. And so at the end of the next growing season,
+we asked those questions again, and they said, we'd love the pickup locations. Uh, however,
+it's hard to get there just on Friday afternoons. And so the following growing season,
+the third growing season, we installed coolers at those pickup locations. And so they could pick
+up whenever during the week, we told them we're going to deliver Friday afternoon. You come get
+it when there's going to be. And then at the end of that season, we asked the same questions
+and they said, we love the coolers that makes pickup much easier. However, it's just actually still kind
+of hard to go to the grocery store, groceries, or, and then go to your pickup locations. Like we're
+doing our groceries in two places. And so what we did is we asked our customers, where do you
+most, where do most of you do your grocery shopping? And then we partnered with that
+grocery store to use them as a CSA pickup location. It was our local food co-op.
+And so that our customers could do their grocery shopping, get their CSA boxes in one trip,
+save a trip. And then we asked those questions again. And we, and, and now what we're hearing
+is we love that being able to pick up at the, at the, at the supermarket saves our trip.
+You're giving us the right amount. Uh, we love the ingredients that are in.
+In there. However, we want more, uh, we need some help with cooking in the home. We just
+don't have time to cook everything. And so now we're partnering with the deli department
+of our co of our co co co to create a sort of local blue apron option in which we're going
+to put a whole meal package together. It'll be mostly our vegetables. However, the deli would
+maybe bake a loaf of bread, uh, or add some condiments and, and, and put a whole recipe,
+uh, several recipes to put a whole meal together and it'll be a blue apron model for them.
+Anyhow. So the point is that's how we retain CSA customers. Most CSAs lose more than half
+their customers on an annual basis. And there are a lot of external reasons for this. Uh,
+it was a lot more competition and a lot of more places to get organic food than there
+was 20 years ago when CSAs were beginning. Uh, however, there's a lot of, there are internal
+practices a farm can do to keep your customers. Not that's, that's one of them.
+You know, I learned this lesson the hard way, literally tens of thousands of dollars I've
+wasted in, I started off with an edible nursery with all these permaculture plants that are
+really, really awesome plants. Unfortunately, no one in my community really cared. Uh, they
+didn't care that I had all these really cool plants that I thought was really fascinating
+or some of my friends thought were fascinating. So they sat on the farm. I had to water them.
+I had to care for them. Uh, people came in and bought the same things, blueberries, apples,
+you know, stuff they knew. And occasionally I would sell some of these other plants, but I had
+to lean down at my nursery to what was actually selling. And I didn't even really know this concept
+at the time. It was just something I discovered. In addition, we were growing a lot of these really
+cool, rare vegetables and heirloom plants. But again, no one was buying them. They were,
+they were going to waste because I wasn't looking at what the customer was valuing. I was taking my
+values and trying to impose them on the community. And so, uh, you know, having pounds and pounds of
+organic habanero peppers doesn't do you any good if there's no one in the area that wants to eat
+habanero peppers. So, uh, absolutely. I, I made this mistake year after year. And so I'm really
+excited that we've kind of been forced into this process as we've learned the hard way, uh, what not
+to do. Um, and I'm hoping other people can avoid making these mistakes. So don't, don't necessarily
+grow the plant that you want to grow, grow the plant that your customers are going to value and
+want, want you to grow. So now we're growing, um, some Tulsi basils that are holy basils for
+the local Indian community, as well as some, some certain eggplants that they've requested. So we're
+going out and asking them what we can do to support them rather than what we, what they can do to
+support us. There you have it. Uh, yeah. Another way to say that is to that the customer is the only
+one who defines value and, uh, they call that owner distortion, owner value distortion via the
+technical term for what happens in a lot of businesses where your own fascination is getting
+the way of profits because the customer should be out ahead, pulling you along. One thing that we try
+to do is get all our orders before we even purchase our seeds at the beginning of the year, sit down with
+all our chefs and, and, uh, map out who's going to purchase, who's going to eat every single,
+you know, crop that we produce. And then we'll get our seeds ordered and go from there.
+That's great. And I'd like to use that as a transition into our next, uh, our next topic,
+which would be Muda, which I think is the most fascinating aspect of, of lean. And you list 10
+tools for minimizing waste, which is essentially what, what Muda means. Uh, can we talk about each of
+those just touch on them briefly, starting with the idea of minimizing your movement?
+Uh, yeah. So one of, so like I said, the Japanese identified these types of waste in a, in a production
+environment and motion waste is the sixth type. It's not first on the list. Uh, however, it's
+prevalent on every farm. And the idea behind motion waste is you want to actually count the number of
+times you touch your product. And like I said, you want to achieve what they call smooth flow.
+And so you want to touch your product as few times as possible in the grocery industry. They say you're
+allowed three touches, for instance, uh, selling a box of kicks. Uh, you unload the kicks from the
+wholesale distributor, put it on the shelf, customer picks it up, you check, check it out. So in the
+customer checks, so they say as a grocer, you're allowed three touches. And if you touch it, if you
+can get by with just one touch, then you're making money. If you touch it two times, then you're
+probably breaking even. And if you get to three touches, you're probably losing money. And I think
+on farms, we're allowed probably five or six touches, a few more, uh, however, not many more
+touches than that. So the first tip I would have is to just count and, you know, uh, map out your
+process, you know, what steps are involved in production and then how many times did you touch
+your product before it got into the hand of the customer and try to get it down to four or five
+touches. Yeah. Can you take me through that process? Like with a carrots or, or a tomato or maybe
+lettuce to kind of describe what that looks like? Uh-huh. And so it, uh, I'll use an example of head
+lettuce. Uh, what we used to do was say we'd have 200 heads of lettuce that need to be picked and
+processed and sent off to our customer. I'll tell you our old process is we would harvest those 200
+heads of lettuce. Someone would harvest and then take them up to the processing area. So there's a
+touch. Someone else would pick up the each head of lettuce and clean each head of lettuce, strip off
+the bad leaves. There's a touch. And someone else would pick it up again and dunk each head of lettuce
+and wash it. So we're up to three touches. And then someone would pick it up again and, and wrap
+plastic around it or tie a band around it. Uh, and then someone would package it, put it in the final
+packaging for the customer and then put it into the walk-in cooler. So up to five touches. And then
+someone would take it out of the walk-in cooler and put it in our delivery vehicle, uh, and drive to
+town six touches and then unload it from the vehicle, deliver to the customer seven touches. Okay. I'm being
+ultra being very specific here because it's really incredible how much more profitable we are after we
+wrap your mind around this concept. And so lean would suggest using what they call a single piece
+flow process. In other words, could we, so we had seven touches that added value to the lettuce.
+Every time we touch that lettuce, it gained, uh, in value. And what lean says to do is add as much
+value as possible to the product in your hand before you set it down. And one way I like to word it is to
+harvest as market ready as possible. And so on the example of our lettuce, uh, our current process is
+someone cuts the head and, and as the, and while the lettuce is in their hands, they strip the bad
+leaves off the lettuce. And then they dunk it in a bucket of water that they've taken out into the
+field with them. It's still in their hand. And then they give it a little shake and they'll tie a
+twisty or wrap it in plastic out in the field. And then they put it in the final container going to
+the customer out in the field. We have, uh, we have what I can set up so that final containers
+aren't touching the ground and they're harvesting and placing it in the container. And so we've got,
+we're just down to, we're just still on our first touch. We haven't set down the head of the lettuce
+and yet we've added value in four different process fees. And then the person, uh, we've stopped
+actually using a walk-in cooler. Instead, we back up a refrigerated delivery vehicle to the location.
+The item is harvested and we're going to load it directly into that refrigerated delivery vehicle.
+And within an hour, it's off to our customers. Okay. And so one of the reasons we wanted to get
+rid of the walk-in cooler was motion waste. Cause there's a, there's the extra motion of putting
+it in the cooler and taking it out of the cooler. It's two touches. So for most of our crops, we're
+getting away with three or four touches instead of seven or eight touches. And it actually has
+increased our profits by almost twice as much because we're spending half the amount of effort.
+It doesn't sound like a big change when you, when you list it out.
+It sounds so stupidly simple, stupidly simple. And yet it does, uh, small changes like that make
+such a big difference. Yeah. And over the course of the year, we're talking hours and hours of savings
+in time. You use the example, I believe in your talk of putting a letter together, you know,
+folding, sealing an envelope. And in my mind, when you mentioned it, my first thought was,
+well, you'd have three people and the first person would put the letter in and hand it to
+the next, put it down. The next person would pick it up and seal the envelope with, with water or
+lick the, lick the adhesive and then put it down. The last person would put the stamp on and that
+would be the fastest way, but it's actually way more efficient for one person to do all three of
+those steps without setting the letter down. Uh-huh. Absolutely. And I've done that when I
+have, when I have enough time with groups, I'll have a, I have one person come up front and do the
+single piece flow process with the letter. And then I'll have someone come up and do a batch and
+cue system, which would be the, where you, you know, fold a hundred letters and then you stuff a hundred
+letters and then you stamp a hundred letter. And it's amazing how I have never, the single piece flow
+people are consistently at least twice as quick as the batch and cue people. And yet it's
+counterintuitive. Uh, we think that it's more efficient to work in large batches, but it's
+actually, it actually isn't. Yeah. And I think it's better for the employee because it's more
+interesting to do multiple steps. And I think it also reduces the amount of fatigue or risk of injury
+because you are moving around more and you're not doing just the same repetitive motion, or at least
+as repetitive. So there's a ton of benefits to it. And I love that idea. You also under minimize
+moves, you talk about spaghetti diagrams and drawing up a picture of everywhere that you walk in a given
+space, doing a task. Uh, can you touch on that real quick? Uh, yeah. So this is another very simple
+technique that a farm can use to quickly shave a bunch of mood off your process. And, and so what you do
+is pick the, uh, one or two hours when you're the busiest, when there's the most motion happening
+and then have someone stand in a corner of the room or, you know, on a balcony where they can
+oversee the whole farm and just have a blank sheet of paper and just trace motion. When did people
+move? And when did a product move? When was their motion on the farm? And after about 45 minutes or
+an hour, it's going to look like a plate of spaghetti noodles. And then what you can do is, is have
+everyone huddle around and ask, uh, three questions of that plate of spaghetti noodles. Uh, number one
+is how could we have shortened some noodles? Number two, how could we have straightened some
+noodles? If you see curves. And the third is how could we have eliminated some noodles? And ideally
+you eliminate a bunch of noodles. And we use this process. We're actually setting up a new farm right
+now. And we use spaghetti diagrams to help define where building should be and help set up our process
+scenario. So we did, uh, several rounds of pretend to harvesting, uh, head lettuce, for instance,
+and determine the shortest routes for the head lettuce, the straightest lines. And what it actually
+ultimately led us to is to build one large building, a hoaf, uh, in which we have our house or processing
+area, a garage and storing area, storage area, um, a potting shed. We've got a bunch of functions,
+uh, that are in one building to eliminate a bunch of noodles. Um,
+and then we kept our growing areas very close to the processing area. So there's, there's,
+there's, we've eliminated as many lines of work as possible.
+Now there's more types of Muda and tools for reducing them. I don't want to give away everything
+in the book because I think it's important to visualize it and read it. Uh, so I want to,
+I want to keep this moving along since I know we have a limited amount of time. Can we talk a little
+bit about, uh, the idea of continuous improvement, how this process never really ends for you and what
+that looks like? Uh, yeah. And especially when it comes, this is a little bit heretical with
+farming. Nearly every farm book you read or video course or whatever, everyone thinks they figured
+it out. They figured out the best way to make compost or the best way to grow tomatoes or whatever.
+And they, they're going to sell you all their secrets. And I actually don't, I, and my second
+book, uh, gives you all of our production secrets. It tells you that the, where we're at in the lean
+process with, with producing tomatoes and peppers and everything else. Uh, however, uh, the point
+is just to give you inspiration for your own lean thinking, cause there never is a perfect,
+perfect way to do something. It's always about continuously improving your process.
+There's always a better way to do something. The phrase they use in lean is no problem is a problem.
+If you think you have no problems, then that's, that's your problem. Um, anyhow, so essentially what
+you, uh, the, essentially what continuous improvement or Kaizen means is you perform the
+first three steps of the lean system with more precision every year. And so you get more decluttered
+every year. So the first step was at five S and organized. So you get more organized every year,
+get more junk off the property. And then number two, you get more precisely identified value from
+your customers every year. You get to know them deeper and you, you deliver more value to them every
+year. And then, uh, third is you with mudas, you'd get rid of even more of the mudas every year.
+Uh, there's overproduction waste, waiting waste, transportation waste, over processing, inventory
+waste. There's always going to be muda in your operation. And every year you just chink a little
+bit more off of your farm. So I like this sculpture analogy. It's my favorite analogy for lean is that
+you're, uh, it's like your farm is a big log and every year you chisel a little more waste off the
+farm until you have a very beautiful sculpture. Uh, that's pure value. You've chiseled all the
+waste off of it and you just keep, keep honing it and polishing it. Yeah. And I remember you
+mentioning that even at Toyota, they had, uh, they had managers that got in trouble because they
+weren't changing and updating the standards consistently, constantly. They weren't continually
+looking with a really fine eye to be improving the process. So this is a never ending process of
+improvement. Like you mentioned, I think that's an important factor there. Yeah. Well, they used to
+mandate that once a month, the processes had to change at some, in some way. So they mandated change,
+mandated a continuous improvement. Yeah, I think that's great. And can we talk a little bit about
+how this lean process affects your staff and the morale around the farm? Uh-huh. Uh, sure. I, uh,
+what the thing with a Kaizen or continuous improvement is it's often, you want it to be an all staff
+project. And the reason is your workers are as close to the waste or sometimes closer to the
+waste as you are. And so there's no reason to let them, to not let them help you root out the waste.
+And what Tichi Ono at Toyota, he helped design lean system, Yoda uses, he used to say that workers
+come to Toyota to think, not to build cars. Okay. Just think about that. They're in a manufacturing plant.
+Uh, you're often repeating tasks over and over again, but he said, ultimately people come here to think
+not to build cars. And so what it means is that you have engaged staff people who are not just picking
+tomatoes or stuffing on boat lobes. What they are doing is thinking as they're working. And what we
+do is we keep a list of the waste, a list of the mood is in the center of our processing area.
+And we instruct our workers. We say, Hey, we want you, if you see one of these types of waste,
+we want to be the first ones to hear it. And we encourage them to kind of ruffle our feathers and
+to think up a better, better ways of doing things, which is countercultural. In our culture,
+workers are trained, especially in agriculture to just go out and pick. And they're, they're not
+thought of as, uh, as managers and everyone should take some management responsibility to make the
+process more efficient. Yeah, I think that's great. And it gives people more ownership, a feeling of
+ownership of their space and their job and what they're doing and the importance of it. I think it,
+for us, I'm finding it's improving morale because people are excited to see these changes as
+we're making them around our property. And one thing I wanted to touch on, uh, because most of
+the people that are listening to this, that are cultivating, uh, that are doing it commercially.
+So this is their business. It's much easier to cut costs than to grow your profit margin. So
+like you mentioned, it's a lot easier to reduce a thousand dollars worth of expenses than it is to
+sell $2,000 worth of new product. So you can maintain your sales, which I think is something you
+said you've done over the years is maintain your sales level, but reduced your expenses. And then
+that's all money in your pocket. Sure. So to grow more, to produce more product involves Muda.
+We're going to have the Muda of construction of another greenhouse or, you know, increasing that
+your infrastructure for growing system, you're going to have, uh, the Muda of training new workers.
+It's just a lot of effort that goes into producing more and you can grow your business also by trimming
+out costs and waste. And then you don't have to deal with all those Muda's. You can just save money
+and, and, and, and add your bottom line. So the very simple secret of our farm is that we've been
+making, we've been a grossing six figures for a while. Uh, however, we haven't always, uh, netted a
+whole lot. So we had started to do is every year, uh, we print out an expense lecture and we say,
+we asked the question, Hey, where's the 5%. In other words, how can we trim 5% off of our expense
+ledger and still produce this same or more next year? And who couldn't, you know, scour the expense
+ledger and come up with 5%. And so if you do this over the course of 10 years, which we have, then
+you grow your business by 50%, which is a very respectable rate of growth. You grow your net profit
+by that much. And you didn't have to produce more in the process. And so it's pure, it's pure profit.
+And I think that at some point all businesses need new customers, need more customers and need to
+expand. It just is become, it becomes a, it becomes an addiction in our culture. And there's another way
+to grow a business, which is to cut out the Muda's and get more precise on adding value to it. So every
+year we try to replace low profit items with higher profit items and, and give our customers more
+value so that, uh, so that our, we charge more for our products and we're getting more from our
+customers for the same amount of effort. Yeah, that's a great point. One concrete example for
+me was also working with the people that we buy things from or that we work with. So for me changing
+or renegotiating my merchant service rate on credit cards made a difference of almost $15,000 in a year.
+And, you know, that's money that I get to put back towards the farm, towards my employees,
+not into the pocket of a merchant service provider. So, uh, expenses are huge. And I think that's one
+place that, uh, we need to look at it. And I love how thoughtful you are before you make a change on
+your farm, because a lot of times we're running around so crazy. Um, we don't, we don't take the
+time to really give thought to the process or even to buying a new tool or a new piece of equipment.
+We just are constantly trying to move forward without evaluating, do we need this? Is this
+the best tool for the job? Is this adding value? All the questions that you're asking, uh, in your
+book are just so important. Um, now one thing you mentioned at the end of the book that I think is
+interesting is that lean is a style of, uh, a style of cultivation or an attitude towards farming,
+but it can be taken too far. Can you, can you talk a little bit about what that looks like and what
+you meant in that section? Well, I think in particular, like, let's say you're dealing with
+you're, you're an animal, you're a, you're a protein producer, uh, you raise animals. And,
+uh, so what, one of the core tenants of lean is you want to maximize your fixed cost.
+And so fixed costs for me would be a greenhouse or processing, you know, fixed costs for a hog
+producer would be, be a hog house. And, and so what lean would suggest is that you want to stuff
+as many hogs as possible and into the hog house. And I've seen lean use this way in agriculture,
+uh, with milk production. Uh, and you want to get as many gallons of milk out of that animal as
+possible. And as you're going to maximize the investment you have in the animal. And I think
+there are just some ethical considerations you need to use in, in farming, if you're going to use the
+lean system. And I would also suggest that farmers who try to stuff as many hogs as possible in their
+hog house, uh, are not probably applying a value analysis, uh, as lean would suggest they should.
+In other words, are they, are their customers actually wanting them to do that? Is that the
+process their customers want? And lean says, like I said, start with a customer work backwards from
+the customer. And so that'd be one, one example. And on, uh, with food, uh, with, uh, vegetable or grain
+crop producers, I think there are all kinds of ways to, uh, use more fossil fuels on our farms
+to increase production. And again, I think we have to ask, is this what our customers are wanting?
+Is this what our, the process our community wants? Anyhow, you can't take lean too far on it in an
+agricultural context. I totally agree. In fact, uh, an example of this on our end would be,
+you know, choosing where we source the ingredients that we put into our soils, for example,
+because we manufacture soils and knowing to me, I know our customers value using high quality
+ingredients. So if I were to go out and source a cheaper ingredient in that mix, uh, it wouldn't
+be providing value, even though it would be lowering my expenses because it might lower the
+quality of my actual product. So it's really important to look at that. And like you mentioned,
+ethics is so important here. We're, you know, we're trying to protect the environment. We're trying
+to come up with sustainable methods and conventional agriculture isn't necessarily all that
+sustainable. And I think that's where it falls down in relation to lean manufacturing concepts.
+Uh, yeah. Cost cutting is not necessarily lean. Cost cutting can be very unlean. Uh, if it's not
+the type of, if it's not, if it doesn't steer your business in the direction of what your customers
+are wanting. Yeah. So the last question I had for you was, uh, as I mentioned to you, this is a
+cannabis cultivation show and I know you're not able to cultivate cannabis, but is there anything you'd
+like to add or touch on, on the topic before we sign off for the day? I would say that it'd be
+great if Indiana would, and actually we've been working on it and Indiana is, they're talking about
+some legislation now that would make medical marijuana available. But, um, I think that the
+process, uh, that lean system is a universe. I want to close with saying lean system is a universal
+system in that the types of waste are, uh, prevalent in any type of business. And so there's no reason
+you can't use lean with, and even if you grow one marijuana plant, uh, or if you have tens of
+thousands of, of plants, uh, the lean system is applicable no matter what size business you have,
+how many workers you have or who your customer is. Uh, there's something you can gain from it and
+you can become more profitable and you can create a more pleasant work environment for yourself.
+Yeah. I think it's so important because we want to spend our time doing other things like this
+allows you more free time to spend with your family and more time to spend doing things that
+you want to be doing. Uh, not that you don't love your work, but finding ways to reduce your expenses,
+increase your bottom line and make yourself, make your life more efficient, I think is a win all
+around. So, uh, I just wanted to say again, uh, Ben has two books out. I'll put links to both of
+them on the podcast page and, uh, as well as some photos and other things, but I, I highly recommend
+people check out your books. And I really appreciate you taking the time today to come
+on the podcast and chat with me about lean farming. Hey, thanks. Thanks for having me.
+That was Ben Hartman, author of the lean farm and the lean farm guide to growing vegetables.
+I can't recommend his books enough. And I hope listeners will incorporate at least one aspect
+of lean farming into your growing practices as a way of becoming more efficient and reducing waste.
+You're listening to the cannabis cultivation and science podcast. I'm your host, Tad Hussey.
+Don't forget that there's more information and articles available on our website and blog
+at www.kisorganics.com as well as links to the data and information we discussed in this episode
+on the podcast page. And if you enjoy these podcasts, please take a moment to leave me a rating
+and review on iTunes and send me your feedback and suggestions through our website contact page
+or Tad at K I S organics.com. Thanks for listening.

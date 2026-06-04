@@ -1,0 +1,96 @@
+---
+title: Cover Crops and Crop Rotation
+aliases: [cover cropping, green manure, crop rotation, living mulch]
+tags: [practice, soil-health, cover-crops, crop-rotation]
+sources: [ep-158]
+created: 2026-06-04
+updated: 2026-06-04
+---
+
+# Cover Crops and Crop Rotation
+
+> **Quick take:** Cover crops are powerful tools, but only when matched to a specific goal — planting them without a clear purpose can waste water, introduce pests, or compete with your cash crop.
+
+Cover cropping is one of those practices that gets recommended universally, as if planting something green between cash crops is always beneficial. [[lee-breeze|Lee Breeze]] pushes back on this: cover crops are goal-specific tools, not a blanket prescription. The first question is always "What problem am I trying to solve?" and only then "Which cover crop solves it?"
+
+## Define the Goal First
+
+Before selecting a cover crop species, identify the specific outcome you need:
+
+- **Erosion control** — Holding soil in place during wind or rain events, especially on slopes or bare fields over winter
+- **Moisture management** — Either retaining moisture (mulch effect) or drawing down excess moisture in waterlogged areas
+- **Salinity management** — Certain deep-rooted species can move salts down through the profile
+- **Nitrogen fixation** — Legume cover crops (clover, vetch, peas) host nitrogen-fixing bacteria that add N to the system
+- **Compaction relief** — Deep-rooted species like daikon radish or cereal rye physically break up compacted layers
+- **Weed suppression** — Dense, fast-growing covers outcompete weeds for light and space
+- **Biological diversity** — Adding plant diversity supports a broader [[soil-food-web|soil microbial community]]
+
+Each goal points to different species, planting times, and termination strategies. A cover crop chosen for the wrong goal can actively harm your system.
+
+## Species Matching: Timing and Interaction
+
+The interaction between your cover crop and your following cash crop matters enormously. [[lee-breeze|Lee Breeze]] gives a specific example:
+
+- **Cereal rye before soybeans** — Excellent combination. Rye provides erosion control, weed suppression, and organic matter. Soybeans fix their own nitrogen and tolerate rye residue well.
+- **Cereal rye before corn** — Problematic. Rye residue immobilizes nitrogen during decomposition (high C:N ratio), and corn is a heavy nitrogen feeder that needs available N right at emergence. The timing conflict can cause significant yield loss.
+
+This illustrates the broader principle: cover crop selection must account for what comes next, not just what the cover crop does in isolation.
+
+### Considerations for Species Selection
+
+- **C:N ratio of residue** — High-carbon residues (grasses, cereals) immobilize nitrogen as they decompose. Low C:N residues (legumes) release nitrogen. Match to your following crop's needs.
+- **Termination timing** — When and how you kill the cover crop affects nutrient release, moisture, and seedbed preparation. Earlier termination = more decomposition time before planting.
+- **Water use** — In arid regions, a vigorous cover crop can consume the limited soil moisture your cash crop needs. Lee notes that in dry regions, cover crops can be counterproductive because they consume the limiting resource.
+- **Root architecture** — Fibrous roots (grasses) build [[soil-structure-and-aggregates|soil structure]] in the topsoil. Taproots (radishes, some legumes) break compaction at depth.
+- **Allelopathy** — Some cover crops release compounds that inhibit germination of other plants. This is useful for weed suppression but can harm your following crop if not managed.
+
+## Crop Rotation Principles
+
+Rotation — alternating different crop families through the same ground — breaks pest and disease cycles, balances nutrient demands, and supports diverse soil biology.
+
+Basic rotation principles:
+
+- **Alternate plant families** — Pathogens and pests that specialize on one family (e.g., brassicas) build up in soil if that family is planted continuously
+- **Follow heavy feeders with light feeders or nitrogen fixers** — Corn (heavy N demand) followed by soybeans (fixes N) is the classic example
+- **Alternate root types** — Deep-rooted crops after shallow-rooted crops access different soil layers
+- **Observe and adapt** — [[field-observation|Field observation]] reveals which rotations work in your specific conditions
+
+Lee Breeze also challenges the blanket claim that monocropping is always bad. In some contexts — particularly where economics, climate, or soil type constrain options — well-managed continuous cropping can work. The key is monitoring soil health indicators and adjusting management rather than following ideology.
+
+## Indoor Cover Cropping: Proceed with Caution
+
+Cover cropping indoors or in containers is increasingly promoted, but [[lee-breeze|Lee Breeze]] and [[tad-hussey|Tad Hussey]] both caution against it. Most of the outdoor benefits don't translate to controlled environments:
+
+- **Disease risk** — A living plant canopy in an enclosed space increases humidity and provides habitat for fungal pathogens
+- **Pest introduction** — Cover crops can harbor or attract pests (especially fungus gnats and thrips) that then transfer to your cash crop
+- **Nutrient competition** — In a finite container volume, the cover crop competes directly with your cash crop for water, nutrients, and root space
+- **Erosion is not a factor** — There's no wind or rain erosion in a grow room
+- **Moisture management differs** — You control watering directly; you don't need plants to manage water
+
+If you want the biological diversity benefits of living roots between cycles, consider the trade-offs carefully. A cover crop that introduces spider mites or powdery mildew to your indoor garden has cost more than it contributed.
+
+> [!cannabis] Cannabis Application
+> Most outdoor cover crop benefits do not apply to indoor cannabis cultivation. Erosion control, moisture management, and field-scale weed suppression are irrelevant in containers and controlled environments. The disease and pest risks of indoor cover cropping are magnified in cannabis because the dense canopy and high humidity already create favorable conditions for pathogens like powdery mildew and botrytis. If you're growing outdoor cannabis, cover crops between rows or between seasons can provide real erosion control, weed suppression, and [[nitrogen-and-phosphorus|nitrogen fixation]] benefits — but choose species and timing as carefully as any field crop rotation.
+
+## Key Takeaways
+
+- Always define the specific goal before choosing a cover crop — "cover crops are good" is not a plan
+- Species selection must account for the interaction with your following crop (cereal rye before soybeans = good; before corn = bad)
+- In arid regions, cover crops can consume limiting water and hurt the cash crop
+- Indoor cover cropping mostly introduces disease and pest risk without providing the benefits that matter outdoors
+- Crop rotation breaks pest and disease cycles — alternate plant families, root types, and nutrient demands
+- Monocropping is not universally bad; well-managed continuous cropping can work when conditions constrain options
+- Observation and adaptation beat ideology — monitor what actually happens in your system
+
+## Sources
+
+- [[ep-158-reading-the-soil]] — [[lee-breeze|Lee Breeze]] on goal-based cover crop selection, rotation principles, and the risks of indoor cover cropping
+
+## Related
+
+- [[soil-food-web]] — biological diversity supported by diverse plant roots
+- [[soil-structure-and-aggregates]] — how cover crop roots build soil structure
+- [[nitrogen-and-phosphorus]] — nitrogen fixation by legume cover crops
+- [[soil-testing-and-diagnosis]] — testing to guide rotation and amendment decisions
+- [[field-observation]] — monitoring cover crop effects in your system
+- [[composting-and-organic-inputs]] — organic matter alternatives to cover crops

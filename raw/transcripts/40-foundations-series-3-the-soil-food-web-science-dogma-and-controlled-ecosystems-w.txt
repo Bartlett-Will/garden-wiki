@@ -1,0 +1,180 @@
+welcome to the cannabis cultivation and science podcast i'm your host tad hussey of kiss organics
+this is the podcast where we discuss the cutting edge of growing from a science-based perspective
+and drawn top experts from around the industry to share their wisdom and knowledge
+before we get into today's topic i want to take a moment to acknowledge some very sad news in our
+community dr elaine ingham passed away this past week it's hard to overstate the impact she had on
+agriculture and horticulture she was the one who really brought the term the soil food web into the
+mainstream she challenged the old school view of soil as just a physical medium for holding up plants
+and showed us that it's a living breathing ecosystem without her work we wouldn't be having
+the conversations that we're having today about living soil microbial diversity or organic cultivation
+she was a giant in this field and her legacy lives on in every gardener who has ever put down the
+synthetic salts to make compost now in the spirit of the scientific curiosity that dr ingham encouraged
+today we are revisiting the soil food web i originally recorded this as a supplementary podcast
+for our patreon but because this topic continues to come up so often i wanted to revisit it update it
+with the latest research and release the full conversation here as part of our foundation series
+the soul food web is a useful conceptual model but it's often presented in ways that are overly simplistic
+or disconnected from how we actually grow in controlled environments today i want to bridge
+the gap between the ideology and the hard science looking at what we've learned since those early days
+and how we can apply those ideas in a way that's actually practical for the modern grower in my opinion
+the soil food web may be one of the more misunderstood aspects of organic cultivation today now before we get
+into the weeds i have to talk about why this is even a controversial topic i mean we're talking
+about soil biology here it shouldn't be high drama but i see this with so many methods in the organic
+world whether it's biodynamics korean natural farming permaculture or the soil food web specifically
+folks get so dogmatic about it that it becomes part of their identity it starts to feel more like a
+religion than a cultivation method i've had growers tell me they don't need to test their soil because
+microbes will handle it that ph doesn't matter because microbes can buffer it that all soils contain
+sufficient minerals to grow healthy plants and that any plant deficiency or pest issue is due to not
+using a microbial complete compost or that your fungal to bacterial ratios might be off my goal in this
+podcast is to dispel some of these grower myths and bro science and look i love microbes i've spent my
+entire career advocating for them and i actually got started selling compost tea brewers my father was one of
+the very first soul food web advisors with dr ingham but microbes are not magic they are part of a system
+not a magic wand so to understand the value we have to look at how the system works on a mechanical level
+we call it a soul food web because it's non-linear in a simple food chain a eats b b eats c and so on and so on in the soil
+though it's this constant chaotic multi-directional exchange of energy to understand why microbes are
+so obsessed with plants we have to look at photosynthesis for what it actually is it's a
+factory that turns light into biological gold plants take sunlight water and carbon dioxide from the air
+and they rearrange those molecules in the carbon chains let's get a little vocabulary out of the way
+when we talk about carbon in the soil we aren't talking about a piece of charcoal we're talking
+about stored solar energy in a liquid form and what do we mean by sugars when i say the plant is
+pumping sugars into the soil i'm not just talking about the stuff you put in your coffee i'm talking
+about a massive variety of carbohydrates in fact up to 40 percent of the carbohydrates produced by
+photosynthesis gets released by the roots back into the rhizosphere the area around the roots
+that's how important this process is to plants so at the simplest level you have monosaccharides
+simple sugars like glucose and fructose which are like fast cash they are easy for microbes to grab
+and burn for a quick energy spike but the plant also mints more complex compounds there are polysaccharides
+which are longer chains of sugars that take more work to break down and they act more like a savings
+account for the microbial community and then there's amino acids these are the building blocks of
+protein by trading these the plant gives the microbes the raw materials they need to build their
+own bodies and enzymes and then there's organic acids these are the specialized tools they are highly
+acidic and can actually dissolve the chemical bonds that hold minerals like calcium or phosphorus to the
+soil particles so think of the rhizosphere as a trading post the soil is essentially a microbial trading
+post and the plant is the only mint in town it's the only one that can create this carbon currency from
+the sun the mac the microbes the bacteria fungi and archaea can't do that they are starving for carbon
+they're desperate for that energy to survive and reproduce but the microbes have something that the plant
+needs too which are minerals they have the enzymes and the sheer numbers to mine the phosphorus zinc
+potassium and other minerals out of the sand out of the silt and out of the clay so when they meet at
+the root tip they're able to trade but the plant is a savvy trader if it's low on phosphorus for example
+it changes its minting process and might pump out more malic acid or citric acid that this signals to the
+microbes i have this high quality energy available but i'm only trading it today with workers who can
+unlock phosphorus it's a sophisticated solar powered barter system the plant pays the microbes in energy
+and the microbes pay the plant in raw materials which are minerals that is the true engine of the soil
+food web other names for this process are nutrient cycling or the microbial loop this is where the spoon
+feeding happens bacteria archaea and fungi are like tiny highly concentrated bags of fertilizer but that
+nitrogen and phosphorus is locked up inside their bodies to get it out you need you need predators
+so when a protozoa or a nematode eats a bacterium it's like a person eating way too much protein
+they excrete the excess as waste in an ionic form like nitrate or ammonium and that's the exact same form
+of nutrients you'd find in a bottle of its synthetic salts the difference though is the biology is
+delivering it just in time directly to the root tip in the concentrations that the plant needs
+now i want to take the opportunity to really lean into the rhizophagy cycle because this is where the
+traditional soil food web model has seen its most significant update if you've been following this
+space for a long time you probably learned that microbes stay outside the plant they just live in
+the rhizosphere and just hand nutrients off right at the root tip but our understanding has evolved
+massively in recent years i've had jeff lowenfels on the show to talk about this and the research
+coming out of dr james white's lab at rutgers is an absolute game changer rhizophagy literally
+translate translates to root eating but it's a lot more sophisticated than just a plant snacking on a
+bacteria it's a literal farming operation it starts at the growing root tip the plant lures specific
+bacteria often bacillus or pseudomonas species into the tip of the root using those carbon exudates we
+talked about once those bacteria are inside the root cells the plant hits them with superoxide now
+superoxide is a form of reactive oxygen to the bacteria this is incredibly stressful it actually
+strips the cell walls right off of them turning them into what we call protoplasts in this naked
+state the bacteria become leaky the nutrients they've gathered from the soil that nitrogen and potassium
+those micronutrients they all leak out into the plant cells and the plant absorbs them but it's not
+a one-way street inside the root these bacteria produce nitric oxide this is a critical part of the
+science that often gets overlooked this nitric oxide actually helps protect the plant from the
+oxidative stress it's putting on the bacteria while simultaneously providing a direct internal
+source of nitrogen the plant isn't trying to kill the bacteria it's trying to milk them
+so the surviving bacteria the ones that didn't get completely dissolved are then moved through the
+root and as they move they actually trigger the plant to grow new root hairs this is the exit of
+the car wash the plant squirts those naked bacteria back out through the tips of the newly formed
+root hairs and into the soil once they are back out in the wild they regrow their cell walls and start
+scavenging for minerals again and the cycle repeats and repeats think about the implications here your
+plant isn't just an active bystander it is actively farming microbes that are moving in and out of the
+root tips this is why when people ask me about using certain inputs like mustard meal i get a little
+nervous because it's a biofumigant and its properties damage this process with its non-target organism
+effects killing all microbes indiscriminately so if you apply something that is designed to sterilize
+or reset the biology in your media you aren't just cleaning your soil you're destroying your plant's
+internal workforce and this nutrient cycling process you're essentially firing your delivery drivers while
+they're in mid-route and in a high performance cannabis system damaging the rhizophagy cycle or the
+microbial loop means the plant has to spend significantly more energy on root growth and mineral mining
+itself rather than focusing that energy on flower production and terpene synthesis and other secondary
+metabolite production so so far everything i've shared about the soil food web and rhizophagy sound pretty
+incredible and they are but we have to look at this through a lens of reality not just ideology this leads us to a
+concept that sounds beautiful in a marketing brochure or on social media but often falls apart in the
+grow room and that's biomimicry you hear it all the time just copy mother nature well biomimicry sounds
+great until you actually think about it in the context of agriculture in nature plants deal with floods
+droughts fires and pathogens it is constant brutal chaos nature doesn't optimize for your plant to be the
+biggest the frostiest or the most terpene rich it can be nature doesn't optimize for anything what
+biologists have shown us though is as we create or as nature creates a more stable environment we see
+greater diversity because the cost of survival isn't so steep so if you talk to an actual agronomist or a
+soil scientist they don't look at a field or a grow room as a natural environment they look at it as a
+managed system and when we shift from a wilderness mindset to a data-driven lens we start talking
+about things like nutrient use efficiency and mass balance in nature nitrogen or phosphorus might be
+locked up in organic forms for years only becoming available in small slow tiny drips and that's fine
+for a slow growing perennial in a forest but for a cannabis plant that needs to pack on massive biomass
+in a short flowering cycle that natural pace is a bottleneck an agronomist looks at this and sees a limiting
+factor the nature knows best ideology assumes that the soil food web will always provide exactly what the
+plant needs in the right ratio at the right time but soil science shows us that soil biology is often selfish
+microbes aren't working for the plant they're working for themselves
+so when i say microbes are selfish i'm talking about stoichiometry the math of life every organism
+has a specific ratio of carbon and nitrogen that c to n it needs to build its body bacteria for instance
+are very nitrogen rich usually around five to one or eight to one ratio so if you add a high carbon
+amendment like a heavy wood-based mulch or straw to your bed you're giving the microbes a massive energy
+source but no bricks aka nitrogen to build with the microbes will actually immobilize or lock up any available
+nitrogen in the soil to process that carbon and focus on their own reproduction this is where the nature knows best
+ideology fails the grower in nature that nitrogen will eventually be released when those microbes die but that
+might take days to weeks your cannabis plant needs that nitrogen right now to drive leaf canopy if you aren't using a
+data-driven lens to understand your c to n ratios you might think you have a deficiency when you actually just have a
+microbial workforce that is out competing your plant for resources and then on the flip side you might have sufficient
+fertility or mineral content but poor irrigation practices can limit microbial activity to where nutrient cycling slows and the
+plant shows visible deficiencies
+so when we move into controlled environment agriculture or cea indoors or in greenhouses the copy nature argument breaks down
+completely we remove the floods we remove the pests we eliminate the weeds and we grow one crop on purpose
+cea optimizes for yield quality and consistency those are fundamentally different goals in nature's
+if you blindly copy a forest floor and a four by four tent you aren't being more natural at all
+you're likely just creating an environment with poor drainage anaerobic pockets and unpredictable nutrient spikes
+so from a science-based lens the goal isn't to mimic nature it's to harness biology to meet the specific
+physiological demands of the plant we use the soil food web as a tool to drive efficiency but we use data
+that's soil tests sap or tissue analysis and environmental monitoring to make sure the plant
+isn't being limited by any of these natural inefficiencies so use biology respect ecology but don't confuse
+farming with wilderness management and if we aren't copying nature how do we actually apply this
+in the old school model the answer was simple add more compost but compost is is quite literally
+your highest risk factor for contamination we're talking heavy metals fungus gnats and pathogens like
+pythium but it's deeper than that we're seeing research on microplastics on pfas or pfas those forever
+chemicals antibiotic residues and certain herbicide residues that can survive the composting process
+so if you're a commercial grower you're trying to pass a strict coa dumping untested organic matter into
+your beds every cycle is basically playing russian roulette this is why i advocate for precision
+biology here's a list of some short microbial inputs that i believe to be worth your time
+so first there's mycorrhizal fungi think of these as the specialists you want arbuscular mycorrhizal fungi or
+endomycorrhizal fungi specifically rhizophagus irregularis or glomus interradices is the most studied
+anything in the glomus family works though and don't get distracted by these 20 species cocktails
+cannabis only has a relationship with endomycorrhizal fungi not ectomycorrhizal fungi which
+primarily has a relationship with conifers this fungi is an extension cord for your roots it helps
+with mining phosphorus and and water where roots can't reach it actually cycles a lot of nutrients
+and has a lot of plant benefits it's a one-time application directly to the roots at time of
+transplant all right next we have targeted biostimulants think of these as the nutrient
+unlockers and these would be commercially lab grown strains like microbial mass or mammoth p these are
+high cfu strains designed to produce the enzymes that break the chemical bonds holding nutrients to
+soil particles no heavy metals no pfas just the data-backed workers and then there's aerated
+compost tea where i started in the industry in a precision system this is an inoculant not a
+fertilizer you get to the benefits of multiplying by beneficial biology while keeping the volume of
+compost or that raw material to a minimum and then there's biocontrols think of these as the security
+guards things like trichoderma which is a predatory fungus that eats pathogens like fusarium it also
+secretes siderophose which are chemical magnets that grab insoluble iron and make it plant available
+so it can help with iron uptake other options would be entomopathic fungi like bavaria bassiana or
+aceria and these are precision hunters that kill soft-bodied pests like aphids and thrips and by using these
+you're maintaining the high functioning soil food web with a level of control that allows you to scale
+and stay clean
+so to wrap this up i want to leave you with a few red flags or bro science myths
+you never need to soil test again that's a massive red flag microbes aren't alchemists if you take
+flour out that means you're removing biomass and you have to put that biomass or those minerals back
+into the soil fungal to bacteria ratios are the only metric that matters well fungal to bacteria
+ratios are changing the second you water or the temperature drops don't let a snapshot dictate your
+how you approach your garden or how you dictate your season and then there's the mother nature argument
+the forest is a closed loop your growth room is an extraction site biomimicry is not a good lens for
+cultivation the soil food web is a tool not magic it's science and my knowledge has evolved over the
+past 20 years in this industry and i hope that yours continues to do so too so this was a part of
+the foundations of soil plant and science series you're listening to the cannabis cultivation and
+science podcast i'm your host tad hussey of kiss organics if you want to go deeper on these topics and more
+come hang out with the experts you hear on the show at the cannabis cultivation and science
+conference in bozeman montana august 28th through the 30th of this year 2026 and tickets are on sale
+now at the kiss organics website thanks for listening
