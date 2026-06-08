@@ -2,7 +2,7 @@
 title: Garden Wiki Index
 tags: [meta]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-07
 ---
 
 # Garden Wiki
@@ -34,6 +34,7 @@ Understanding the mechanisms behind what makes plants grow, get sick, and respon
 
 ### Mineral Nutrition
 - [[silicon-in-plants]] — Silicon as a plant nutrient: forms, uptake, stress mitigation, and the heavy metal connection
+- [[mycorrhizal-fungi]] — Endo vs. ecto types, plant signaling, inoculation, glomalin, and the 96% partnership
 
 ---
 
@@ -47,6 +48,11 @@ Techniques, methods, and actionable guidance for growing better plants.
 - [[composting-and-organic-inputs]] — Contamination risks, compost tea as inoculant, and safe input selection
 - [[biocontrols-and-ipm]] — Trichoderma, Beauveria, mycorrhizal fungi, and why targeted beats broad-spectrum
 - [[cover-crops-and-crop-rotation]] — Goal-based selection, species matching, and indoor cautions
+
+### Compost & Biology
+- [[compost-tea]] — Aerated compost tea: theory, brewing methodology, timing, recipes, and common myths
+- [[vermicomposting]] — Producing superior worm castings through the "neglect" method
+- [[reusing-soil]] — The law of return: why used soil is better than fresh, and how to reamend
 
 ### Cultivation Techniques
 - [[watering-and-the-air-water-relationship]] — Why overwatering causes drought stress, wet-dry cycles, and pot sizing
@@ -72,15 +78,19 @@ Expert guests and researchers whose knowledge informs this wiki.
 - [[lee-breeze]] — Crop consultant, "plant doctor," soil testing and field observation specialist
 - [[dr-elaine-ingham]] — Soil food web pioneer who brought microbial ecology into mainstream agriculture
 - [[dr-james-white]] — Rutgers researcher who discovered the rhizophagy cycle
+- [[jeff-lowenfels]] — Author of the Teaming trilogy, mycorrhizal fungi advocate
+- [[tim-wilson]] — Microbe Organics founder, compost tea microscopy researcher
 
 ---
 
 ## Episodes
 
-Source episode summaries from the Cannabis Cultivation and Science Podcast — Foundations Series.
+Source episode summaries from the Cannabis Cultivation and Science Podcast.
 
 | # | Title | Guest | Series |
 |---|---|---|---|
+| [[ep-002-mycorrhizal-fungi-and-compost-tea\|2]] | Mycorrhizal Fungi, Compost Tea, and the Soil Food Web | [[jeff-lowenfels\|Jeff Lowenfels]] | Early Episodes |
+| [[ep-005-compost-tea-and-living-soil\|5]] | Compost Tea, Microscopy, and Living Soil | [[tim-wilson\|Tim Wilson]] | Early Episodes |
 | [[ep-040-soil-food-web\|40]] | The Soil Food Web: Science, Dogma, and Controlled Ecosystems | [[tad-hussey\|Tad Hussey]] (solo) | Foundations #3 |
 | [[ep-041-applied-horticulture\|41]] | What's Your Garden Missing: Applied Horticulture | [[dawn-marshall\|Dawn Marshall]] | Foundations #4 |
 | [[ep-156-silicon-in-plant-health\|156]] | Silicon in Plant Health and Stress Resistance | [[dr-wendy-zellner\|Dr. Wendy Zellner]] | Foundations #1 |

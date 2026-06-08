@@ -2,7 +2,7 @@
 title: Wiki Log
 tags: [meta]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-07
 ---
 
 # Log
@@ -11,6 +11,14 @@ Chronological record of wiki operations — ingests, queries, and lint passes.
 
 <!-- Each entry uses the format: ## [YYYY-MM-DD] operation | Title -->
 <!-- Parseable with: grep "^## \[" log.md | tail -10 -->
+
+## [2026-06-07] ingest | Episode 2 — Mycorrhizal Fungi, Compost Tea, and the Soil Food Web
+
+Ingested transcript of Jeff Lowenfels on mycorrhizal fungi biology, compost tea theory, soil reuse, and nutrient uptake. Created: [[mycorrhizal-fungi]], [[compost-tea]], [[reusing-soil]], [[jeff-lowenfels]], [[ep-002-mycorrhizal-fungi-and-compost-tea]]. Updated: [[soil-food-web]], [[composting-and-organic-inputs]], [[biocontrols-and-ipm]], [[index]].
+
+## [2026-06-07] ingest | Episode 5 — Compost Tea, Microscopy, and Living Soil
+
+Ingested transcript of Tim Wilson on compost tea brewing methodology, vermicomposting, living soil systems, and the microbial nutrient loop. Created: [[vermicomposting]], [[tim-wilson]], [[ep-005-compost-tea-and-living-soil]]. Updated: [[compost-tea]], [[reusing-soil]], [[soil-food-web]], [[composting-and-organic-inputs]], [[biocontrols-and-ipm]], [[index]].
 
 ## [2026-06-04] ingest | Episode 156 — Silicon in Plant Health (Foundations #1)
 

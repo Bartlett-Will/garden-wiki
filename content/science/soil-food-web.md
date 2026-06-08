@@ -2,9 +2,9 @@
 title: The Soil Food Web
 aliases: [soil food web, food web, soil ecosystem, microbial food web]
 tags: [science, soil-biology, nutrient-cycling, microbiology]
-sources: [ep-040]
+sources: [ep-040, ep-002, ep-005]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-07
 ---
 
 # The Soil Food Web
@@ -75,11 +75,15 @@ The soil food web is a useful framework, but some common claims go beyond what t
 ## Sources
 
 - [[ep-040-soil-food-web]] — [[tad-hussey]] on the soil food web, rhizophagy, and common myths in biological growing
+- [[ep-002-mycorrhizal-fungi-and-compost-tea]] — [[jeff-lowenfels]] on the Teaming trilogy and soil food web paradigm shift
+- [[ep-005-compost-tea-and-living-soil]] — [[tim-wilson]] on the microbial nutrient loop and organic acid nutrient release
 
 ## Related
 
 - [[photosynthesis-and-root-exudates]] — how plants create the carbon currency that drives the web
 - [[rhizophagy-cycle]] — the remarkable process of plants internalizing and "milking" bacteria
+- [[mycorrhizal-fungi]] — the fungal partnerships that extend root reach and store soil carbon
+- [[compost-tea]] — extracting and multiplying food web organisms for targeted application
 - [[soil-ph-and-nutrient-availability]] — why chemistry still matters alongside biology
 - [[soil-structure-and-aggregates]] — the physical architecture that houses the food web
 - [[nitrogen-and-phosphorus]] — the key nutrients cycled through the microbial loop

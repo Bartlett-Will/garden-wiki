@@ -2,9 +2,9 @@
 title: Composting and Organic Inputs
 aliases: [compost, organic amendments, compost tea, manure composting]
 tags: [practice, soil-amendments, composting, food-safety]
-sources: [ep-040, ep-158]
+sources: [ep-040, ep-158, ep-002, ep-005]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-07
 ---
 
 # Composting and Organic Inputs
@@ -95,10 +95,14 @@ The pattern: use compost strategically for what it does best (introducing divers
 
 - [[ep-040-soil-food-web]] — [[tad-hussey|Tad Hussey]] on compost risks, aerated compost tea as inoculant, and the contamination hierarchy
 - [[ep-158-reading-the-soil]] — [[lee-breeze|Lee Breeze]] on composting manure as biological reset
+- [[ep-002-mycorrhizal-fungi-and-compost-tea]] — [[jeff-lowenfels]] on compost quality, indigenous microbes, and compost tea theory
+- [[ep-005-compost-tea-and-living-soil]] — [[tim-wilson]] on vermicompost quality and compost tea brewing
 
 ## Related
 
 - [[soil-food-web]] — the biological systems that compost feeds and supports
+- [[compost-tea]] — detailed brewing methodology, timing, and myth-busting
+- [[vermicomposting]] — producing the highest-quality biological compost input
 - [[biocontrols-and-ipm]] — targeted biological inputs as alternatives to broad compost application
 - [[soil-testing-and-diagnosis]] — testing your soil and inputs for safety
 - [[soil-structure-and-aggregates]] — how organic matter builds soil structure

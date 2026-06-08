@@ -2,9 +2,9 @@
 title: Biocontrols and IPM
 aliases: [biological pest control, integrated pest management, biocontrol, beneficial organisms]
 tags: [practice, pest-management, biocontrol, ipm]
-sources: [ep-040]
+sources: [ep-040, ep-002, ep-005]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-07
 ---
 
 # Biocontrols and IPM
@@ -39,7 +39,7 @@ Both Beauveria and Metarhizium are targeted — they infect insects through dire
 
 ## Mycorrhizal Fungi: The Root Partnership
 
-[[root-hairs-and-nutrient-uptake|Mycorrhizal fungi]] form symbiotic associations with plant roots, extending the root system's effective reach by orders of magnitude. The fungal hyphae access water and nutrients (especially phosphorus) from soil volumes the roots alone cannot reach, trading these resources for plant-produced carbon.
+[[mycorrhizal-fungi|Mycorrhizal fungi]] form symbiotic associations with plant roots, extending the root system's effective reach by orders of magnitude. The fungal hyphae access water and nutrients (especially phosphorus) from soil volumes the roots alone cannot reach, trading these resources for plant-produced carbon.
 
 For practical application:
 
@@ -93,6 +93,7 @@ A practical biocontrol-based IPM program layers multiple targeted approaches:
 - [[rhizophagy-cycle]] — the bacterial nutrient cycling that biofumigants can disrupt
 - [[silicon-in-plants]] — how silicon strengthens the plant's own defenses
 - [[silicon-supplementation]] — practical application of silicon for pest resistance
-- [[root-hairs-and-nutrient-uptake]] — mycorrhizal associations and root biology
+- [[mycorrhizal-fungi]] — detailed biology of the root-fungus partnership
+- [[root-hairs-and-nutrient-uptake]] — root biology and nutrient absorption
 - [[plant-stress-responses]] — the immune responses that healthy biology enables
 - [[composting-and-organic-inputs]] — compost tea as a biological inoculant delivery method
