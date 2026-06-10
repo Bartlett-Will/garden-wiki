@@ -11,6 +11,9 @@ updated: 2026-06-09
 
 > **Quick take:** Plants do not just trade with soil microbes at arm's length — they actually pull bacteria inside their root cells, strip them of nutrients, and then eject the survivors to go scavenge again.
 
+> [!info] Conflicting views: how plants take up nutrients
+> **Dr. James White and Jeff Lowenfels** (ep-040/050/104) describe rhizophagy — roots internalize whole bacteria and absorb their contents intracellularly, with root hairs serving as the ejection/re-entry point. **Don Marshall** (ep-041/071), on [[root-hairs-and-nutrient-uptake]], instead holds that *essentially all* uptake occurs at the root hairs via ion exchange from the soil solution. How much each route contributes is still unsettled.
+
 For most of the history of soil science, the relationship between plants and soil microbes was understood as external: microbes live in the soil around roots, they solubilize nutrients, and plants absorb those nutrients from the soil solution. The discovery of the rhizophagy cycle — primarily by [[dr-james-white]] at Rutgers University — overturned that picture. Plants actively internalize bacteria, extract nutrients from them intracellularly, and then release the bacteria back into the soil to repeat the process. It is one of the most surprising findings in modern plant biology.
 
 ## Dr. James White's Research

@@ -11,6 +11,9 @@ updated: 2026-06-09
 
 > **Quick take:** Soil pH is the master switch that determines which nutrients your plants can actually access — get it wrong and no amount of fertilizer or biology will compensate.
 
+> [!info] Conflicting views: should you correct high-pH irrigation water?
+> **Tad Hussey / Jeff Lowenfels** (ep-050) give a flat rule: source water at pH 7.5+ should be acidified (Tad uses citric acid). **Bryant Mason** (ep-072), on [[water-chemistry-and-alkalinity]], counters that water pH itself is nearly irrelevant — what matters is *alkalinity*; low-alkalinity water at pH 8.0 reverts to the soil's pH at the root zone and needs no correction. Alkalinity, not the pH reading, is the real trigger.
+
 Of all the numbers on a soil test, pH is the one that [[lee-breeze]] calls "the overriding factor of nutrient availability." You can have abundant phosphorus, zinc, iron, and manganese in your soil, but if the pH is outside the right range, those nutrients become chemically locked up — present but unavailable. Understanding pH is not optional for serious growers. It is the foundation that everything else builds on.
 
 ## What pH Actually Measures

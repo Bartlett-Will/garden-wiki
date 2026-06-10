@@ -11,6 +11,9 @@ updated: 2026-06-09
 
 > **Quick take:** Transplanting is about managing the [[watering-and-the-air-water-relationship|air-water relationship]] at each stage of root development — move plants up in progressive steps, score the roots aggressively, and never skip straight from a small container to a large one.
 
+> [!info] Conflicting views: start in the final container, or pot up progressively?
+> **Don Marshall** (ep-041/071) warns to *never* jump a small plant into a large container — it can't dry the soil volume, inviting overwatering/anaerobic stress. **Jeff Lowenfels** (ep-050), on [[autoflowering-cannabis]], advises starting autoflowers in their *final* container because the short cycle leaves no room for transplant recovery. The exception hinges on right-sized pots and careful watering.
+
 Moving a plant from one container to another sounds simple, but it's one of the most consequential things you do as a grower. Done well, it sets the plant up for rapid root colonization and healthy growth. Done poorly, it creates waterlogged zones, root circling, and months of stalled progress.
 
 ## Why Progressive Potting

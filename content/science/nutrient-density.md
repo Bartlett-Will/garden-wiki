@@ -11,6 +11,9 @@ updated: 2026-06-09
 
 > **Quick take:** Two tomatoes can look identical and contain very different amounts of minerals — and the difference shows up in flavor, shelf life, disease resistance, and the health of whoever eats them.
 
+> [!info] Conflicting views: do biological inputs supply complete mineral nutrition?
+> **Steve Solomon** (ep-006) argues that growing "by the organic book" with compost left his food progressively *less* mineral-dense, and only soil-test-driven additions of specific minerals corrected it. **Clackamas Coot** (ep-003), on [[dynamic-accumulators]] and [[the-coot-mix]], holds the opposite — that kelp, alfalfa, neem, and basalt inherently supply balanced trace minerals without bottled products.
+
 Nutrient density is the idea that the *quality* of food — its mineral and phytonutrient content — depends on the soil it grew in, and that most modern food is grown on mineral-depleted soil. A vegetable can be fully organic, freshly picked, and still nutritionally thin. The claim sounds like marketing until you look at the evidence that convinced [[steve-solomon]]: his own body, a Fijian river valley, and the dental records of Weston Price.
 
 ## The Fiji Natural Experiment

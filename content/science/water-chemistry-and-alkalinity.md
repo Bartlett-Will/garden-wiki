@@ -11,6 +11,9 @@ updated: 2026-06-09
 
 > **Quick take:** The pH number on your water test matters far less than its alkalinity — a low-alkalinity water at pH 8 is harmless, while a high-alkalinity water at pH 6.9 will slowly push your soil pH up.
 
+> [!info] Conflicting views: should you correct high-pH irrigation water?
+> **Bryant Mason** (ep-072) holds that water pH itself barely matters — *alkalinity* is the real trigger, and low-alkalinity water at pH 8.0 reverts to soil pH at the root zone. **Tad Hussey / Jeff Lowenfels** (ep-050), on [[soil-ph-and-nutrient-availability]], give a flat rule to acidify any source water at pH 7.5+. Alkalinity, not the pH reading, is the true criterion.
+
 Most growers know to check the pH of their irrigation water. Far fewer understand **alkalinity**, which is the number that actually predicts what the water will do to your soil. As [[bryant-mason|Bryant Mason]] explains, three related metrics on a water test — pH, alkalinity, and bicarbonates — tell a story together, and reading them correctly takes the mystery (and snake oil) out of water management.
 
 ## The Three Metrics

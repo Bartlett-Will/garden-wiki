@@ -11,6 +11,9 @@ updated: 2026-06-09
 
 > **Quick take:** Root hairs are single-cell extensions where all water and nutrient absorption happens — and they are killed by overwatering, underwatering, and over-fertilization alike, producing identical above-ground symptoms every time.
 
+> [!info] Conflicting views: how plants take up nutrients
+> **Don Marshall** (ep-041/071) holds that *essentially all* water and nutrient absorption happens at the root hairs, via active ion exchange from the soil solution. **Dr. James White and Jeff Lowenfels** (ep-040/050/104) describe the [[rhizophagy-cycle]], in which roots pull whole bacteria inside, strip their contents intracellularly, then eject them — making root hairs an ejection/re-entry point rather than the sole absorptive surface. How much each route contributes is still unsettled.
+
 If you have ever tried to diagnose a sick plant by looking at its leaves, you have probably been frustrated. Yellow leaves, brown leaf edges (marginal necrosis), gray-green foliage — these symptoms show up whether the plant is too wet, too dry, or getting too much fertilizer. The reason is that the damage is not happening in the leaves. It is happening underground, at the root hairs, and the result is always the same: the plant cannot absorb water or nutrients.
 
 Understanding root hairs is one of the most practically useful pieces of plant science a gardener can learn. [[dawn-marshall]], who spent 40 years teaching applied horticulture, considers this foundational knowledge that most growers never receive.

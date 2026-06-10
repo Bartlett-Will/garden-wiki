@@ -11,6 +11,9 @@ updated: 2026-06-09
 
 > **Quick take:** Autoflowering cannabis flowers on a timer instead of a light schedule — seed to harvest in 7–9 weeks, any time of year — which is why [[jeff-lowenfels]] predicts it will become "the next tomato" of home gardening.
 
+> [!info] Conflicting views: start in the final container, or pot up progressively?
+> **Jeff Lowenfels** (ep-050) advises autoflower growers to *start in the final container when possible*, since the short life cycle leaves no room for transplant recovery. **Don Marshall** (ep-041/071), on [[transplanting]], warns to *never* jump a small plant into a large container — an under-rooted plant can't dry out the soil volume, inviting the anaerobic/overwatering failure mode. The autoflower exception hinges on careful watering and right-sized pots.
+
 Most cannabis varieties (the indica- and sativa-derived lines behind nearly all modern strains) are **photoperiod plants**: they begin flowering only when nights grow long enough. Autoflowering varieties don't care. They flower based on age, not light cycle, which collapses the growing calendar and removes the single biggest scheduling constraint in cannabis cultivation. [[jeff-lowenfels]] considers them significant enough that he wrote his fourth book about them — *DIY Autoflowering Cannabis: A New Way to Grow* — aimed not at professional growers but at ordinary gardeners.
 
 ## Where They Come From

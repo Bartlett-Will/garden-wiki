@@ -11,6 +11,9 @@ updated: 2026-06-09
 
 > **Quick take:** Most soil science was developed in mineral topsoil with clay — and a peat-or-coir container mix has no clay, so the familiar numbers (CEC, organic matter) mean something different and the rules must be reinterpreted.
 
+> [!info] Conflicting views: do base-cation saturation ratios (BCSR) matter?
+> **Bryant Mason** (ep-072/108) argues standard-test BCSR ratios are meaningless in clay-free peat media — no colloid docking sites — so chasing them over-amends; he balances off saturated-paste percentages. **Steve Solomon** (ep-006), on [[soil-remineralization]], builds his amendment program on Albrecht-style base-cation ratios from a standard soil test. They largely reconcile by substrate: field soil vs low-CEC containers.
+
 A surprising amount of grower confusion traces back to one fact: classical agronomy was built on **topsoil** — real mineral soil composed of sand, silt, and clay, homogenized over eons — while most container growing happens in **soilless media** built from peat, coir, bark, compost, and aeration amendments. As [[bryant-mason|Bryant Mason]] emphasizes, the science still applies, but the interpretation changes.
 
 ## The Structural Differences

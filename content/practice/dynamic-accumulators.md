@@ -11,6 +11,9 @@ updated: 2026-06-09
 
 > **Quick take:** Kelp, comfrey, and alfalfa mine nutrients no ordinary garden plant can reach — deep subsoil minerals or the open ocean — and concentrate them into biomass you can use as nearly free fertility.
 
+> [!info] Conflicting views: do biological inputs supply complete mineral nutrition?
+> **Clackamas Coot** (ep-003) holds that a small set of biological/ocean inputs — kelp, alfalfa, neem, plus basalt — inherently delivers balanced trace-mineral nutrition without bottled mineral products. **Steve Solomon** (ep-006) argues the opposite from experience: growing "by the organic book" with compost left his food progressively *less* mineral-dense, and only soil-test-driven additions of specific minerals (zinc, copper, manganese sulfates) corrected it. See [[nutrient-density]] and [[soil-remineralization]].
+
 [[clackamas-coot|Clackamas Coot]] calls kelp, comfrey, and alfalfa the top "bio-nutrient accumulators." Each accesses a nutrient pool unavailable to your crops, used alone or in combination they "do nothing but good things" for soil. They anchor the amendment list in [[the-coot-mix]].
 
 ## Kelp

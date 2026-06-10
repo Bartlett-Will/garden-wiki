@@ -11,6 +11,9 @@ updated: 2026-06-09
 
 > **Quick take:** Test your soil, compare the numbers to research-based targets, and add the specific minerals that are missing — instead of hoping compost alone covers it.
 
+> [!info] Conflicting views: do base-cation saturation ratios (BCSR) matter?
+> **Steve Solomon** (ep-006) builds his amendment program on Albrecht-style base-cation *ratios* read from a standard soil test. **Bryant Mason** (ep-072/108), on [[soilless-media-vs-topsoil]], argues those standard-test ratios are misleading in clay-free peat media — there are no colloid "docking sites," so chasing BCSR over-amends; he balances off saturated-paste percentages instead. The two largely reconcile by substrate: Solomon's targets suit mineral field soil, Bryant's critique targets low-CEC containers.
+
 Soil remineralization is the practice of restoring a full spectrum of minerals — not just N-P-K, but calcium, magnesium, potassium, and trace elements like zinc, copper, manganese, and boron — to levels that produce healthy plants *and* nutrient-dense food (see [[nutrient-density]] for why this matters). The approach popularized by [[steve-solomon]] in *The Intelligent Gardener* is built on a simple loop: soil test → compare to targets → amend → retest.
 
 ## Start with Targets, Not Tests
