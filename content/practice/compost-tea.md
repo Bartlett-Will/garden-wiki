@@ -2,9 +2,9 @@
 title: Compost Tea
 aliases: [aerated compost tea, ACT, compost tea brewing, microbial tea]
 tags: [practice, soil-biology, compost, microbiology]
-sources: [ep-002, ep-005]
+sources: [ep-002, ep-005, ep-050, ep-117]
 created: 2026-06-07
-updated: 2026-06-07
+updated: 2026-06-09
 ---
 
 # Compost Tea
@@ -59,6 +59,23 @@ That's it. Adding rock phosphate, kelp meal, fish hydrolysate, and other amendme
 > [!cannabis] Cannabis Application
 > For cannabis, use soil from a previous cannabis grow as your compost tea base when possible. In theory, that soil contains exudates that attracted the specific microbes the cannabis plant wanted — so you're giving the new plant back the very microorganisms it would have recruited on its own. Apply as a soil drench throughout the growing cycle.
 
+## Bacterial vs. Fungal Dominance: Chasing the Wrong Target
+
+Growers often ask for a "bacterial tea" or a "fungal tea" based on the plant-succession chart (annuals → bacterial soil, perennials/forests → fungal soil). In [[ep-050-jeff-lowenfels-returns|episode 50]], [[jeff-lowenfels]] and [[tad-hussey]] both push back on taking this too literally:
+
+- **The plant is in control.** A plant adjusts its [[photosynthesis-and-root-exudates|root exudates]] to recruit the community it needs. Apply a bacterial tea to a plant that wants fungi and the bacteria simply become food for the rest of the [[soil-food-web]] — nothing is wasted, but you weren't steering.
+- **Dominance is relative, not exclusive.** "Bacterially dominated" means more bacteria than fungi, never zero fungi. Every functional soil needs fungal activity for decomposition, structure, and as the "subway system" bacteria move along.
+- **Duration is the useful heuristic.** Jeff's rule of thumb: in the ground more than a year → wants more fungal; less than a year → more bacterial. Fast crops like [[autoflowering-cannabis]] sit at the bacterial extreme; long-season varieties want more fungi.
+- **Diversity beats engineering.** With tens of thousands of soil bacterial species and the mechanism-of-action organism usually unknown, tea brewing is a shotgun approach. Aim for microbial diversity and active nutrient cycling, and let the rhizosphere sort out the ratios.
+
+## Designer and Specialized Teas
+
+The frontier beyond basic ACT is deliberately enriching the *compost* so its organisms — and their metabolites — end up in the tea. James Sotillo (rendered "Cotillo" in the episode 50 transcript), the New York compost tea pioneer who maintained the High Line and Battery Park plantings, built specialized teas this way:
+
+- **Chitin-enriched compost** — composting coastal soils formed from decaying kelp and seaweed (or kelp/seaweed directly) cultivates chitin-bodied organisms and the bacteria that produce **chitinase**, the enzyme that breaks chitin down. Chitin and chitinase deter root-feeding nematodes and soft-bodied pests; insect frass works on the same principle.
+- **Beneficial-insect metabolites** — rearing predatory mites and other beneficials in compost in large numbers so their metabolites carry into the tea.
+- **Indigenous microbe teas** — Korean Natural Farming's practice of culturing local soils into teas to multiply microbes already adapted to your site. This rhymes with the cannabis advice below: the best inoculum is often the one your system already selected.
+
 ## Common Myths
 
 ### "Molasses grows E. coli"
@@ -72,6 +89,20 @@ Beyond 48 hours, ciliates (large protozoa associated with anaerobic conditions) 
 
 ### "You can store compost tea in the fridge"
 Microbes go dormant or die under refrigeration and don't come back when warmed. Even with continuous aeration, stored tea degrades within 3 days. **Brew fresh, use immediately.**
+
+## The Regulatory Reality (Commercial Growers)
+
+Aerated compost tea sits in a regulatory gray zone that can blindside commercial operations. [[steve-cantwell|Steve Cantwell]] learned this when Nevada regulators tried to shut Green Life Productions down and cited federal water-quality rules to do it:
+
+- **Validated compost first.** To brew a legal compost tea you must start with a **validated composting method** — i.e. **thermophilic compost** that hits documented temperatures. Korean Natural Farming IMOs and similar uncomposted indigenous-microbe inputs are not USDA/NOP-validated and may not survive regulatory scrutiny, however well they work agronomically.
+- **Two brews, third-party tested.** Once you have validated compost, you must brew **two separate batches** of the same recipe and have **both lab-tested by a third party** to confirm they fall below set thresholds for *E. coli* and other indicator bacteria — before the tea may be legally applied. This is a recurring (yearly) burden.
+- **Extracts are exempt.** Unbrewed compost **extracts** made from thermophilic compost can be used without this testing limitation — only the act of brewing (multiplying microbes with a food source) triggers the requirement. This is a practical reason commercial growers move from brewed teas to extracts.
+- **The 60-day rule.** A long-standing NOP guideline prohibits applying compost tea within **60 days of harvest**, aimed at preventing *E. coli*/salmonella contamination — and it bites hardest when manure or animal byproducts are in the compost.
+
+Both [[tad-hussey|Tad Hussey]] and Cantwell stress that the *actual* contamination risk of a well-made aerated tea is lower than the rules imply — Tad's father ran tests with [[dr-elaine-ingham|Elaine Ingham]] decades ago that intentionally introduced *E. coli* and found it could not survive the highly aerobic conditions of a good brew (echoing the molasses myth above). Real-world *E. coli* failures in agriculture more often trace to contaminated irrigation water (e.g. livestock upstream) than to the tea itself. The risk is overstated but real — and the regulatory exposure is real regardless of the biology.
+
+> [!cannabis] Cannabis Application
+> In regulated cannabis markets, a state inspector unfamiliar with living soil may treat an untested compost tea as a contamination hazard and a reason to halt production. Document a validated (thermophilic) compost source, keep third-party tea test results on file, observe the 60-day pre-harvest window, and write [[the-5s-system|SOPs]] around the whole process. Where testing overhead is impractical, switching to compost **extracts** from validated compost sidesteps the brewing-specific testing rule while still delivering biology to the rhizosphere.
 
 ## Compost Extract — The Low-Effort Alternative
 
@@ -100,6 +131,8 @@ Sending samples to a lab is problematic — the microbial community changes duri
 ## Sources
 - [[ep-002-mycorrhizal-fungi-and-compost-tea]] — Jeff Lowenfels on compost tea theory, compost quality, and brewing rationale
 - [[ep-005-compost-tea-and-living-soil]] — Tim Wilson on brewing methodology, timing windows, myths, and microscope verification
+- [[ep-050-jeff-lowenfels-returns]] — designer/chitin teas, and why diversity matters more than bacterial-vs-fungal dominance
+- [[ep-117-cover-crops-and-bottomless-pots]] — [[steve-cantwell|Steve Cantwell]] and [[tad-hussey|Tad Hussey]] on NOP/USDA compost-tea testing rules and the extract workaround
 
 ## Related
 - [[soil-food-web]] — the microbial ecosystem compost tea supports

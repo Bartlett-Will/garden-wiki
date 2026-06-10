@@ -2,9 +2,9 @@
 title: Cover Crops and Crop Rotation
 aliases: [cover cropping, green manure, crop rotation, living mulch]
 tags: [practice, soil-health, cover-crops, crop-rotation]
-sources: [ep-158]
+sources: [ep-158, ep-117, ep-072]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-09
 ---
 
 # Cover Crops and Crop Rotation
@@ -44,6 +44,14 @@ This illustrates the broader principle: cover crop selection must account for wh
 - **Root architecture** — Fibrous roots (grasses) build [[soil-structure-and-aggregates|soil structure]] in the topsoil. Taproots (radishes, some legumes) break compaction at depth.
 - **Allelopathy** — Some cover crops release compounds that inhibit germination of other plants. This is useful for weed suppression but can harm your following crop if not managed.
 
+## Blends vs. Single Species: What the Research Shows
+
+Multi-species cover crop blends are popular — mimicking nature's diversity feels right. But [[bryant-mason|Bryant Mason]] points to a humbling 2020 meta-analysis of 27 studies comparing blends against their constituent monoculture species on biomass production, weed suppression, water conservation, nitrogen retention, and soil biology promotion ([[ep-072-heavy-metals-cover-crops-and-water-ph|episode 72]]). The result: **88% of the time there was no difference**. A few single species did better, a few blends did better — but diversity per se conferred no consistent advantage on those criteria.
+
+The exception is time horizon: in multi-year (3-5 year) grassland studies, multi-species plantings produce more biomass because they're less susceptible to the fungal diseases that can wipe out a monoculture.
+
+Bryant's coaching follows from the data: for a season-scale cover crop, **keep it simple** — pick something proven that achieves your specific production goal (his outdoor big three: biomass production, weed suppression, and nitrogen fixation) rather than assembling a 35-species blend. For species selection, both he and [[tad-hussey]] endorse the most local evidence available: ask your neighbors. Find the oldest farmer in your area and ask what works — that microclimate knowledge beats any generic recommendation.
+
 ## Crop Rotation Principles
 
 Rotation — alternating different crop families through the same ground — breaks pest and disease cycles, balances nutrient demands, and supports diverse soil biology.
@@ -69,6 +77,20 @@ Cover cropping indoors or in containers is increasingly promoted, but [[lee-bree
 
 If you want the biological diversity benefits of living roots between cycles, consider the trade-offs carefully. A cover crop that introduces spider mites or powdery mildew to your indoor garden has cost more than it contributed.
 
+[[bryant-mason|Bryant Mason]] adds two scale-specific concerns from the commercial side ([[ep-072-heavy-metals-cover-crops-and-water-ph|episode 72]]): **labor** — at scale, every additional plant touched or pruned multiplies work — and **fertility opacity** — living soil nutrient management is hard enough without a second species' uptake in the equation. Tad adds a third: he likes to till nutrients directly into the rhizosphere when re-amending beds, which a living cover or heavy mulch makes difficult. Both are clear this is an indoor-at-scale position — outdoors, both are proponents of no-till and cover crops. And neither objects to **trap plants, indicator plants, or banker plants** kept in separate containers in the room; the concern is cover crops sharing the cash crop's root zone.
+
+## The Other Side: Purpose-Driven Indoor Cover Cropping
+
+Not everyone agrees that indoor cover crops are a net negative. [[steve-cantwell|Steve Cantwell]] runs them successfully at commercial scale in a living-soil cannabis facility — but only under tight discipline, and the rules he's arrived at actually reinforce the "define the goal first" principle above. The disagreement between Cantwell (pro) and [[tad-hussey|Tad Hussey]] (skeptical) maps the real trade-offs:
+
+- **Start with a neutral blanket cover.** Cantwell's default is **dichondra** — a low-growing ground cover that "nothing goes out of its way for," so it shelters the soil surface, retains moisture in the top couple of inches, keeps soil organisms in place, and catches light that would otherwise hit bare soil, without becoming a pest magnet itself.
+- **Companion and trap plants are placed, not scattered.** Anything beyond the blanket cover gets a specific job and a specific location — marigolds and trap plants go in corners and high-traffic areas that are easy to monitor and manage, never broadcast across the whole room. The goal is systems that manage themselves, not more work for an Instagram-pretty canopy.
+- **Drop clover indoors.** Cantwell culled all clover: the pest and disease risk (it reliably fed pest outbreaks; Tad immediately associates clover with thrips) outweighs its nitrogen contribution when easier nitrogen sources exist. He replaced it with dichondra.
+- **Avoid climbers and tall species** that grow up into the cannabis canopy — at 500 plants you can't afford to pull beanstalks out of your flowers. Use low-lying covers only.
+- **Mint is a special case.** It repelled a serious rat infestation effectively, but it is dangerously invasive and must be chopped, dropped, and culled aggressively or it takes over the bed.
+
+Tad's counterpoints for fast commercial systems: a cover crop is one more crop to manage on top of the cash crop; he prefers to mix nutrients straight into the rhizosphere for rapid five-cycle turns; he tolerates minor soil disturbance (digging in amendments is not tilling); and indoor agriculture is inherently artificial, so practices from nature should be applied *strategically* rather than wholesale. Both growers agree on the underlying rule: every cover or companion plant needs a clear purpose and the right placement — and both are proponents of mulching the soil surface one way or another.
+
 > [!cannabis] Cannabis Application
 > Most outdoor cover crop benefits do not apply to indoor cannabis cultivation. Erosion control, moisture management, and field-scale weed suppression are irrelevant in containers and controlled environments. The disease and pest risks of indoor cover cropping are magnified in cannabis because the dense canopy and high humidity already create favorable conditions for pathogens like powdery mildew and botrytis. If you're growing outdoor cannabis, cover crops between rows or between seasons can provide real erosion control, weed suppression, and [[nitrogen-and-phosphorus|nitrogen fixation]] benefits — but choose species and timing as carefully as any field crop rotation.
 
@@ -81,10 +103,15 @@ If you want the biological diversity benefits of living roots between cycles, co
 - Crop rotation breaks pest and disease cycles — alternate plant families, root types, and nutrient demands
 - Monocropping is not universally bad; well-managed continuous cropping can work when conditions constrain options
 - Observation and adaptation beat ideology — monitor what actually happens in your system
+- Blends beat single species only 12% of the time in season-scale trials — keep it simple and goal-driven
+- Multi-species earns its keep on multi-year horizons, where diversity resists disease wipeout
+- For local species selection, ask the oldest farmer in your area what works
 
 ## Sources
 
 - [[ep-158-reading-the-soil]] — [[lee-breeze|Lee Breeze]] on goal-based cover crop selection, rotation principles, and the risks of indoor cover cropping
+- [[ep-117-cover-crops-and-bottomless-pots]] — [[steve-cantwell|Steve Cantwell]] on running purpose-driven cover and companion plants indoors at commercial scale
+- [[ep-072-heavy-metals-cover-crops-and-water-ph]] — [[bryant-mason]] on the blends-vs-single-species meta-analysis and indoor trade-offs at scale
 
 ## Related
 
@@ -94,3 +121,5 @@ If you want the biological diversity benefits of living roots between cycles, co
 - [[soil-testing-and-diagnosis]] — testing to guide rotation and amendment decisions
 - [[field-observation]] — monitoring cover crop effects in your system
 - [[composting-and-organic-inputs]] — organic matter alternatives to cover crops
+- [[bottomless-pots]] — the living-soil transplant system whose mulch/cover must be cleared at the contact point
+- [[hop-latent-viroid]] — a disease risk cover crops can compound indoors

@@ -1,15 +1,18 @@
 ---
-title: Dawn Marshall
-aliases: [Marshall, Plant Designs]
+title: Don Marshall
+aliases: [Don Marshall, Dawn Marshall, Marshall, Plant Designs]
 tags: [person]
-sources: [ep-041]
+sources: [ep-041, ep-071]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-09
 ---
 
-# Dawn Marshall
+# Don Marshall
 
 > **Quick take:** A horticulture educator with 40+ years of experience who insists that understanding *why* a plant does what it does matters more than memorizing what to do.
+
+> [!note] Name note
+> His name is **Don Marshall** (male). The [[ep-041-applied-horticulture]] transcript rendered it as "Dawn Marshall" — a speech-to-text error confirmed against [[ep-071-discovering-the-why]] ("Hi Don… Hi Ted, thank you"; "That was Don Marshall"). This page's file slug (`dawn-marshall`) is kept from the original mishearing so existing `[[dawn-marshall]]` links keep working; the `Don Marshall` alias resolves the correct name.
 
 ## Credentials
 
@@ -31,9 +34,9 @@ updated: 2026-06-04
 
 ## Teaching Philosophy
 
-Dawn's defining approach is to **marry science and practice** and always ask "why." She does not teach recipes — she teaches the biology behind each technique so that growers can adapt to novel situations. Her students learn to inspect root hairs with a magnifier, to understand that overwatering kills root hairs (causing drought stress, not "drowning"), and to think about auxin gradients rather than saying a plant "reaches for light."
+Don's defining approach is to **marry science and practice** and always ask "why." He does not teach recipes — he teaches the biology behind each technique so that growers can adapt to novel situations. His students learn to inspect root hairs with a magnifier, to understand that overwatering kills root hairs (causing drought stress, not "drowning"), and to think about auxin gradients rather than saying a plant "reaches for light." His refrain is to be a **critical thinker** and a **discerning practitioner** — a "Sherlock Holmes" who asks what is actually happening before reaching for a product.
 
-This philosophy is what drew [[tad-hussey|Tad Hussey]] back to school specifically to take her classes before she retired.
+This philosophy is what drew [[tad-hussey|Tad Hussey]] back to school specifically to take his classes before he retired. Don's own path shaped it: he left a "science only" plant-science degree program that couldn't relate the science to living plants, grew frustrated with industry practitioners who told him to stop asking "why," and finally found at Lake Washington the chance to teach both halves together for 40 years.
 
 ## Notable Contributions and Claims
 
@@ -42,11 +45,16 @@ This philosophy is what drew [[tad-hussey|Tad Hussey]] back to school specifical
 - **Auxin-mediated phototropism** — plants do not "reach for light." Light degrades auxins on the lit side, causing the shady side to elongate faster, bending the plant toward the light source.
 - **Progressive transplanting** is essential — going straight from a cutting to a large final container disrupts the air-water relationship because the small root mass cannot dry out the surrounding soil volume.
 - **Root scoring works** because roots branch wherever they are cut (roots lack node/internode structure, unlike stems).
+- **Root girdling strangles the vascular system** — as circling roots thicken at their lateral meristem they choke one another's water and nutrient flow, exactly like an un-loosened stake tie on a stem. Scoring at every repot prevents it.
 - **Fall pruning is "a crock"** — the common advice against fall pruning (that it triggers tender growth which freezes) is oversimplified. Understanding seasonal physiology matters more than calendar rules.
+- **Think like a plant for timing** — spring growth runs on food stored in the roots last fall, so fertilizing in Feb/March is wasted (it leaches); fertilize fruiting plants around Memorial Day when reserves bottom out. Prune in February to drive a rejuvenating surge; prune a hedge in July to keep it tidy for nearly a year.
+- **Know your fruiting wood** — single-crop raspberries fruit on second-year canes (then the cane dies); everbearing types fruit on first-year tips and second-year midsections. Canes are biennial, roots perennial; a green scratch test shows a live cane.
+- **Presence is not availability** — a winter lawn test reads zero nitrate because nitrate is an anion that leaches with groundwater, and a blueberry stalls for years in alkaline biochar soil despite abundant nutrients. Diagnose the condition, not the number.
 
 ## Episodes
 
 - [[ep-041-applied-horticulture]] — Conversation on plant botany fundamentals, root hairs, the air-water relationship, pruning, transplanting, and why the "why" matters
+- [[ep-071-discovering-the-why]] — Second conversation with the same guest: critical-thinking diagnosis, root girdling, seasonal "think like a plant" timing, fruiting wood, and pH-availability stories
 
 ## Related
 

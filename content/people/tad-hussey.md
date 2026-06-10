@@ -2,9 +2,9 @@
 title: Tad Hussey
 aliases: [Tad, KIS Organics]
 tags: [person]
-sources: [ep-040, ep-041, ep-156, ep-157, ep-158]
+sources: [ep-040, ep-041, ep-156, ep-157, ep-158, ep-118, ep-122]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-09
 ---
 
 # Tad Hussey
@@ -35,6 +35,8 @@ After more than two decades in the industry, Tad went back to school specificall
 ## Episodes
 
 - [[ep-040-soil-food-web]] — Solo episode on the soil food web, biology vs. dogma, and a tribute to Dr. Elaine Ingham
+- [[ep-118-soil-food-web-supplemental]] — First solo "supplemental" episode: soil food web fundamentals and the practices that support soil biology; also announced his science-based home grow
+- [[ep-122-mycorrhizal-fungi-deep-dive]] — Solo AMA on mycorrhizal fungi: terminology, the four types, reciprocal-rewards mutualism, and the (mixed) cannabis research
 - [[ep-041-applied-horticulture]] — Conversation with Dawn Marshall on plant botany, root hairs, and the "why" behind plant behavior
 - [[ep-156-silicon-in-plant-health]] — Interview with Dr. Wendy Zellner on silicon's role in plant health
 - [[ep-157-lean-farming]] — Interview with Ben Hartman on lean farming and eliminating waste

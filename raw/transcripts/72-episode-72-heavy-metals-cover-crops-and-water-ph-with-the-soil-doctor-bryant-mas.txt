@@ -1,0 +1,1096 @@
+Welcome to the Cannabis Cultivation and Science Podcast. I'm your host, Tad Hussey of Kiss Organics. This is a podcast where we discuss the cutting edge of growing from a science-based perspective and drawn top experts from around the industry to
+share their wisdom and knowledge. My guest this week is Bryant Mason. Bryant is a certified crop advisor who specializes in organic cannabis nutrition. He has spent the last three years working to combine precision laboratory techniques with data science in an effort to unravel the complexities of cannabis soil and crop nutrition. Along with his work on soilless media, he also helps outdoor cultivators around the U.S. with nutrient management and cover cropping.
+If you would like to do soil testing or help interpreting a soil test, his website is www.soildoctorconsulting.com.
+Hey, Bryant, thanks for coming on the show.
+Thanks for having me, Tad.
+Yeah, I know we've talked a lot off air and had a lot of long conversations. I love chatting with you about soil and soil science, so I'm really glad to have you on the podcast.
+Can we start off telling the listeners a little bit about your background?
+Sure. I am a certified crop advisor through the American Association of Agronomy, which essentially means that I went through a series of tests to get certified, and I work with a number of different growers on soil and crop nutrition.
+So I specialize specifically on nutrient management, and even more than that, organic nutrient management.
+So I work with a number of different crops, but primarily cannabis and primarily soilless media.
+So I've really enjoyed listening to your show, and I think we always have a lot to talk about, so I'm looking forward to it.
+Yeah, me too. And for people who haven't checked out Bryant's Instagram, it's at soil underscore doctor.
+Be sure to check that out. He's always putting up new videos, walking around in cool places, talking about organic matter or irrigation or numerous topics.
+So I want to recommend that real quick for people, but let's dive in talking about something you and I have talked a little bit about is this theory of soil testing with soilless media versus actual real topsoil and sort of what those differences are, because they're quite different media with quite different levels of expertise.
+Sure, and this is one of the most fascinating topics to me, because as I've worked more and more with cannabis production over the last several years, I've noticed that a lot of the traditional soil science developed in topsoil.
+Topsoil being real mineral soil composed of sand, silt, and clay just doesn't necessarily apply to soilless media.
+The major differences that I think about are the homogenous nature of topsoil.
+So for eons, it's been mixed, and soilless media isn't necessarily like that.
+So it has larger particle sizes that are not quite as homogenous.
+And also, the underlying difference is that there isn't any clay in a soilless media.
+So when you look at the CEC on a soil test, for example, it's the cation exchange capacity that measures the soil's ability to hold nutrients on the clay colloid.
+It has to be interpreted differently, as does the organic matter number.
+And really going down the list, you really have to look at the soil chemistry quite a bit differently in a soilless media.
+The other obvious difference that most people understand is the physical characteristics.
+There's much more poor space in the soilless media.
+It drains more quickly.
+And therefore, because there's no clay colloid and because of that high drainage ability, it doesn't necessarily hold nutrients as easily.
+And so the majority of nutrient-holding capacity tends to come through organic matter as opposed to mineral colloids.
+So those are just a handful of differences.
+I can kind of stop there.
+But more or less, I think about solubility a lot in a soilless media.
+And I think less about balancing the mineral colloid.
+I definitely want to hear your thoughts on that.
+But just I want to back up really quickly.
+So when we are looking and evaluating a soil, for example, or a soilless media, traditionally with soil, we're talking about three things, at least in my brain.
+You may correct me based on your agronomy background.
+But I think of the physical properties of the soil, which would be sand, silt, clay, or that air-to-water ratio.
+I think about the biological properties of the soil.
+That's all the microorganisms, soil food website.
+And then I think about the mineral aspects of the soil.
+What sort of nutrition does that, and fertility does that soil hold?
+And so those three things kind of form like a mental triangle for me when I'm evaluating or sort of trying to look at what the limiting factor of growth might be in a given soil.
+Can you kind of talk a little bit about how these sort of, I guess, pillars work together in forming our understanding of soil?
+Absolutely.
+And I think that that mental triangle is perfect.
+I think about that all the time as well.
+And the connection between the two is what's most fascinating.
+And so how I think about it is that the biology is critical for primarily nutrient cycling.
+So that's really how I think about the connection between chemistry and biology is that the biology is mineralizing or releasing nutrients from the soil constantly.
+And there's a number of mechanisms in which it does that and providing nutrient availability to the plant.
+And it's also connected to the physical characteristics of the soil because the habitat, as we all know, soil is an ecosystem.
+And so if you zoomed in, you would see poor space and a number of different almost, I imagine the favelas, packed in habitat where biology lives.
+And so the gas exchange, the water exchange, all of that, the pH, the redox, all of that chemistry and all of that physical characteristics will define the biological community in a soil.
+And so, you know, when I think about the three characteristics of the soil that you described, I really think about, well, what is it that we should be managing?
+And every single thing you do to a soil will change all three of those characteristics.
+And so as an agronomist, I think about, you know, how can we measure and manage the physical characteristics and the chemical characteristics primarily, which will ultimately dictate that biological profile.
+And I know that a lot of cannabis growers are also very passionate about managing the biological elements of soil.
+But I think to your point, they're all critically important and all highly interrelated, and they should all be considered with every single decision that we make, whether it's an input decision or a tillage decision or a cover cropping decision.
+Yeah. And just to touch on the biological.
+Well, first off, I want to say we seem to have different camps within, you know, some of the more extreme agronomy theories where you have people who've just focused solely on biology.
+And then you have people that focus solely on mineral balancing.
+I guess you don't really see that so much on the sand, silt, clay side.
+But it's interesting because they do are all so interrelated.
+And one thing that when you were talking, it made me think about is the fact that when we think about biology and our soils, that soil is so diverse in any given soil where there's pockets of anaerobic activity.
+pH is not constant throughout the soil.
+There's, you know, there's different pockets with different pH throughout there that's created by the biology, by that, you know, air-water exchange.
+You know, we'll have the bacteria, you know, glomalin's probably the most known one to me in terms of the bacteria forming glues and soil aggregates and fungi doing the same thing.
+So it's a really complex process to think that we fully understand it or even can really manage it on the biological side, I think is, it might be a little bit arrogant on our ends based on our current level of knowledge.
+Sure. And yeah, I actually, I am constantly devouring content.
+And I would say that where I've landed is that because of the infinite complexity of the, the soil biology that's primarily dictated long-term, all the science shows that it's, that, that community composition is determined long-term by physical and chemical characteristics, pH, you know, gas exchange.
+I, I choose to focus on optimizing and managing those, and I let the biology fall into place.
+Now, there are some really, really exciting new scientific techniques that are looking at soil biology.
+Genome sequencing is the one that comes to mind, but there's a number of other PLFA and a number of other testing techniques.
+The problem with those is that, that the science and the scientists that are really innovating in these areas don't necessarily have targets.
+They don't know what they're striving toward.
+So even though it can be measured, it can't necessarily be managed.
+Um, and I, I know a number of people would disagree with me and I, I, by all means, I think every approach, um, that is, that is biologically forward is positive.
+Um, but as you know, when I, when I look at the science and when I look at how to make big management decisions, I tend to, to believe that we should be doing things that promote biological activity and diversity, but, and, and avoid those things that don't and otherwise let nature go through that complex process to define what that, uh, biological profile looks like.
+That being said, we've come a long way with biostimulants just in the last few years, uh, I know there's been a lot of research and work done.
+It's sort of an exciting new field in a lot of ways to replace this whole, uh, chemical mindset, mindset that we had coming out of, uh, World War II.
+Um, that would be essentially a, be applying a, you know, a very specific set of microbes to create a very specific, you know, interaction in the soil with, with positive outcomes.
+outcomes.
+How does that fit into sort of your, your thoughts on all this?
+Yeah.
+So I am really thrilled and excited about the possibility of biostimulants that aren't necessarily active microbials, but can also be enzymes or various microbial exudates that produce a positive plant response.
+And I think there's a tremendous, uh, opportunity there, especially for, um, you know, late, I, I think of it as, as sort of a way to, uh, improve terpene profile and just general genetic expression aside from yield.
+So really getting to those quality characteristics of cannabis, I will say though, that biostimulants can't replace nutrition because at the end of the day, plants need nutrients to grow.
+And a lot of these biostimulants aren't providing, uh, enough quantity of actual nutrients to, for the metabolic function of plants.
+So they're an amazing addition to a nutritional program, but they don't, they can't necessarily replace it unless that soil already has, uh, sufficient and balanced nutrition to feed a heavy feeding cannabis plant.
+Yeah.
+That's a good point.
+They can't create elements out of thin air.
+They need to be, and they need to be accessible to the microorganisms as in present in order for them to have any real effect.
+And I think that's an important thing because the argument I've heard from some of the people on the biological side would be that all soils have sufficient mineral levels.
+It's all about getting the, uh, microorganisms correct.
+Um, however, you know, I don't necessarily subscribe to that.
+Do you have any thoughts in regards to that as, as a, you know, essentially a rebuttal to this, this idea of mineralization?
+Yeah, absolutely.
+So definitely not in the soilless media.
+Um, there's, that's just not, uh, the case now in certain topsoils.
+Sure.
+In theory there, there's a lot of, there's hundreds of different, uh, hundreds or even, you know, a thousand harvest theoretically.
+However, we have to keep in mind that we are mining nutrients.
+Cannabis is uptaking a tremendous amount of nutrients.
+And we're exporting that off of our farm to consumers and, uh, crop after crop that is depleted.
+And I think specifically of nitrogen and potassium, um, those nutrients drop out very, very quickly in, when, when you're yielding really heavy plants of, uh, any annual for that matter, or even tree fruit.
+Um, when you harvest, uh, peaches or apples that those nutrients need to be replaced.
+And, uh, I've never experienced a grower in a, in a degraded soil or a marginalized soil that hasn't, that's gotten away with not, um, applying nutrition, uh, season after season.
+And in a soilless media, it's, it's, um, there's just no way.
+I mean, the, the, the quantity of nutrients in the soilless media just isn't enough to sustain round after round after round after round of heavy, heavy cropping.
+Um, and let's keep in mind too, when we're applying compost or compost teas, we're increasing nutrient cycling through in, you know, if they're quality, let's say to, uh, we're increasing nutrient cycling, biological diversity, biological biomass, but we're also giving them a little bit of nitrogen.
+And that could be the limiting factor of growth.
+It may not necessarily be all these microorganisms that are really helping when you're seeing results in marginalized souls and maybe just a little bit of N too, I would think.
+Absolutely.
+And actually, Tad, I think about this all the time.
+And I think about the great papers that you've put out, uh, through KISS that, that really are, um, using experimental design to look at these questions.
+And I think this would be an amazing one.
+I don't know how you would set up the experiment, but, um, to identify if the crop response to a T or a KNF for a manager, a DOM, whatever,
+is a result of the microorganisms or the nutrition.
+Because I've made teas with alfalfa and a number of different pretty new nutritious inputs.
+And the output is a, is a fairly nutrient rich tea.
+And oftentimes growers report great crop responses.
+Well, we don't know the function there.
+We don't know the mechanism to your point.
+So I think that would be an amazing study and something to look at, um, just so we know more, because I think knowledge and information is power, not necessarily to derail a certain school of thought, but rather just so we have more information to manage our system.
+Yeah.
+So mentally, I totally agree with you on that.
+I think when we're talking about plant health, uh, and, and so, uh, you know, relative to soil health, we have to look at what the limiting factor of growth is for a plant.
+Is that the physical properties of the soil?
+Is that some particular mineral that's either, uh, in excess or deficient?
+Um, is it our watering so that these nutrients are available?
+Is it something in the environment?
+So figuring out what that limiting factor of growth is, because, you know, I say this a lot on the podcast.
+I know this is something that you're quite familiar with.
+Um, we need to be really strategic with what we're applying to our soils and to our plants.
+It's not a silver bullet.
+You know, if your soil has sufficient nitrogen, don't put down a nitrogen rich product.
+Even if it was that secret sauce that your buddy used that made his plant crop turn out great.
+It's not, it's not going to help and could potentially be detrimental.
+Um, which is what, which is kind of leads into this idea of soil testing.
+So, um, did you want to add anything to that?
+Or do you want to dive a little bit into soil testing?
+Yeah, let's dive right into it.
+I, I mean, I agree with everything you're saying.
+I think precision is, is the key to nutrient management.
+So let's, let's jump into it.
+Okay.
+So when we talk about soil testing, um, a lot of people, I think, find it daunting.
+Uh, understandably so.
+I think I would even say I'm one of those people.
+And as I looked into it more and more, I actually had less faith in a lot of the numbers I was,
+I was reading, um, in terms of variability.
+And I also had, um, I had trouble making actionable decisions based on a soil test.
+And here's where someone like you comes in as, as a really helpful, uh, you know, area
+of expertise, someone that you can rely on to help interpret these tests.
+But how do you utilize soil testing?
+Like how, how as a grower, can we become more comfortable with these tests too?
+Great.
+Well, let me first just touch on variability because I know that there's a lot of concern
+around the amount of soil that's used when running a soil test.
+I, I, um, use Logan labs exclusively for the reason that all soil tests and all soil labs
+are a little bit different.
+And so you have to stick to the same, uh, lab to, in order to make sense and to order to,
+in order to establish targets that are useful.
+So there's really kind of an apple to oranges industry, which is unfortunate.
+So Logan uses, you know, a very small sample size, but, and which sounds concerning on,
+when you first hear that.
+But what I found is that, and I've looked at thousands of, of cannabis oils is that
+the vast majority of the time, the, the variability from sample to sample does not actually change
+the ultimate management decision.
+So oftentimes growers will send me 10 different tests, maybe a test for every single bed in
+five different greenhouses.
+And, um, the, there's always variability, um, sometimes upwards of 30 parts per million
+between samples.
+But ultimately the same pattern always exists across soils.
+And in fact, when it comes to topsoils and a lot of soilless media, that's really homogenous.
+The variability is, is tiny.
+The first time I, uh, worked on hazelnuts in the Willamette Valley, a really great grower,
+uh, broke his farm into 10 different zones.
+And I was out there all day sampling, taking, um, extra careful precautions to just make sure
+my sampling was rigorous.
+I, I took multiple samples, aggregated into a single sample, 10 different zones.
+It took me literally all day and the results came back and I was shocked at how they were
+almost identical.
+The chemistry was almost identical across all of these samples.
+And I've seen that over and over and over again to the point where I believe that oftentimes
+growers are oversampling and there's just kind of a common rule of thumb to, to break
+your farm into a bunch of samples, but the reality is most of my recommendations are, are
+almost identical across all of those samples.
+So to me, the variability is less of a concern.
+The more I see this phenomenon, does that make sense?
+It does.
+I've sort of experienced the same thing.
+I would say, um, what do you do though?
+My, my thought goes to indoor cultivation with, you know, soilless media or what a lot of
+people are calling living soils, um, and, uh, crop differences across beds.
+So let's say we had 20 beds in a room and five of them are, are doing poorly and five
+of them are doing really well.
+I, you know, how do you have people manage in, in those situations in regards to testing?
+Are the cultivars the same in the thought experiment?
+I mean, rarely.
+Yeah.
+Let's say they're, they're probably not in a, in a realistic facility.
+Okay.
+Right.
+Um, so that's the first thing.
+So I, I, what I do is I help growers get their soils in a target range where the vast
+majority of cultivars will do very, very well.
+However, we all know that there are significant cultivar differences, nutritional requirements,
+and so the best way to address that is to do, to get your soil in efficiency and balance
+and to get it close enough.
+The goal is not perfection.
+The closest that the goal is to get it toward improving levels and, and then to tissue test
+each individual cultivar and change your soil targets based on, uh, this, the, the tissue
+results.
+And I've, I've worked with a number of growers on this, but to go back to your question, if I'm
+seeing differences in, if there's like, if there's significant deficiency, what that
+probably tells me is that all the soil is out of whack, but certain cultivars are able
+to handle that difference a little bit better.
+So the ones that are showing lower production or, uh, deficiency symptoms are sort of the
+canaries in the coal mine in a sense.
+Um, that's one explanation.
+The other explanation is that the soil across that greenhouse isn't homogenous.
+And so what I would do in that situation is I would have, uh, the growers sample from
+the poor area and the, and the good area.
+They could either do two samples or four samples if they just want to, um, again, control for
+that variability.
+And usually what I would see from my experience is that that soil is again, relatively similar.
+It's showing the same pattern, but certain cultivars are able to handle, you know, that high
+magnesium or, uh, the low, the lower phosphorus or whatever it may be.
+That's, that's showing up in the poor producing plants.
+Now that you say that I'm kind of going, thinking back in my head mentally to some of the tests
+I've seen and that I find that to be fairly accurate.
+The one thing I'll see variability on is usually nitrates and pH across when someone will test,
+let's say all of their beds sort of thing individually.
+Those are the two things that I find kind of fluctuate and maybe that's just due to the
+genetics in the bed, um, or maybe they're watering habits.
+I don't know.
+But, um, I think night, I agree with the nitrogen.
+The nitrogen thing is, is extremely hard to manage is both in outdoor food cultivation as
+well as in cannabis, indoor, outdoor nitrogen is, is, I spend so much time thinking about
+nitrogen management and organic production that it's, it's extremely difficult.
+So the, I think you nailed it with watering, you know, if you, if you overwater one bed
+just a couple of times, even one time, your nitrates extremely mobile.
+So you're going to, um, essentially flush out a little bit of that nitrate.
+So yeah, the most variability between beds, I agree is, is usually in the nitrogen.
+Do you want to talk a little bit about nitrogen or do you want to dive into water?
+Um, let's chat about nitrogen.
+I mean, I have a few thoughts on nitrogen.
+Um, there's the, like I said, it's extremely mobile and I think growers should keep in mind,
+uh, that it's removed from the soil at the highest quantity that nitrogen and potassium are,
+um, are removed in, in cannabis production in the highest quantity.
+So in a soil, the first thing that's going to become deficient is, is going to be nitrogen
+and potassium and specifically, uh, nitrogen, you know, the, the tissue target for nitrogen is,
+is anywhere from three and a half to 5% of the leaf tissue.
+That's a lot.
+Um, there's no other nutrient.
+Actually, I take that back.
+Calcium is also removed upwards in that three to 5% range.
+So that's the first thing to keep in mind is that, is that you really have to have a way
+to replenish nitrogen, um, round after round.
+Otherwise you'll start to see issues.
+The issue with nitrogen is that, um, I see it kind of like a gas tank.
+And so Logan tests for available nitrogen, which is defined as ammonium plus nitrate.
+And ammonium will always be low as long as the soil, uh, as long as the organic amendments
+have, have fully mineralized.
+Um, it should be about less than one or two parts per million.
+So the nitrate number is really the important one to look at.
+And I see that as sort of a gas tank.
+But the issue is if you put too much in, you start to have crop quality issues.
+You start to call in pests and disease, uh, fungal pressure.
+I've noticed a decrease in flavor and aroma.
+So it, it, it messes with the terpenes.
+And in general, I believe it, it, it can produce kind of a, a lower density flower quality and
+it, it just causes issues.
+However, the minute the plant runs out of nitrogen, so many of the metabolic functions stop.
+So the physiology, the growth, the flower development, it really is the fuel, um, in
+plant growth.
+So the final thing I want to mention is it's in soil signs, it's ephemeral.
+So it's, it's, uh, mobile, it changes very quickly and there's, there's not an easy way
+to get an accurate, accurate portrayal of how much nitrogen you have, because that nitrate
+number is so fragile.
+It's bouncing all over the place all the time.
+So to me, that's the most challenging thing to, uh, manage.
+And I believe, you know, the growers I've seen who get consistently, you know, three pounds
+per light or however you want to measure it, grams per watt, they are actually running their
+nitrogen a little bit lower, but they're feeding, they're feeding soluble amino acid nitrogen
+through the cycle.
+And that allows for that quality to remain really high, but you have to be really careful.
+You never run out of nitrogen at any point in the process.
+Obviously you can let it draw down latent flower, but, um, that's the essence that you
+see is the plant still has enough of it.
+It's just translocating it from its older leaves into the parts of the plant that are still
+growing.
+So I know that was kind of a stream of consciousness, but, um, that was great.
+Those are kind of my, my high level thoughts on nitrogen management.
+Yeah.
+So one, one question I have based off of, so I'll use the, the Malik three test to look
+at nitrates and when I I've seen some tests, you know, really high, I aim for around a
+hundred to 120 pounds per acre, kind of in that corn range for nitrogen.
+Um, but I've seen tests double and triple that sometimes.
+Um, what's sort of your target with nitrate and, and how do you manage it when it is really
+high?
+Cause you mentioned it is so ephemeral.
+Do you not worry about that as long as your visual crop response looks good?
+Yeah.
+So, um, I, my nitrogen target changes based on how long the plants are going to be in that
+soil.
+So if it's a full term crop or, um, if it's just for flower, for example, I mean, more and
+more transplanted in, it's in veg for one to three weeks and then flipped into flower.
+Yeah.
+I always think of it as just a flower, just mentally.
+I'm not, I'm for this.
+Let's just think of it in, in flowers and it's a transplanting into the soil as a flowering
+soil.
+Okay.
+So, so in that case, um, and I just want to mention that, that pot size matters, of
+course, and the form, the amount, the, the, the release rate of whatever nitrogen matters.
+But in general, um, for flower, I aim for 150 pounds per acre.
+So, um, very similar to you, but the, to just make it more complicated, I do some complicated
+math on, on the pounds per acre because we're converting something that's very agronomic top
+soil in nature and putting it into a soilless media in, um, cubic yards.
+So I still use that metric, but it's, it's adulterated.
+So in general, I'm looking for about 75 PPM.
+I think that's a good level to, you know, going into flower and then any remaining nitrogen
+you may need, um, you can always apply later.
+The goal to me is to, is to end it down near 20 or 30, um, not too low.
+So it's completely deficient, but not too high where it's, it's affecting your flower
+quality.
+Yeah.
+You mentioned, uh, nitrogen in an amino acid form.
+What sort of amendments or products are you, are you finding people are using effectively
+to get that nitrogen in, uh, in small doses?
+Yeah, I would say soluble amino acids derived from soybean meal.
+Um, that's, that's my favorite.
+That's my go-to is a, is a soluble soybean meal, um, amino acid.
+I know a lot of people use, uh, aminos from fish, which I'm sure are just as good.
+Um, I don't, I don't have an opinion or a preference one way or another.
+Um, I think the idea being that in, in the plant nitrate is converted into complete proteins
+in the leaves through, uh, a pathway called the nitrate reductase pathway.
+It's really interesting thing that Google, if you find it on Wikipedia, it just shows the
+complexity of plant physiology, but it, it requires melindinum as the enzyme cofactor that converts
+nitrate, um, into complete proteins.
+This process metabolically is extremely taxing on the plant.
+It's, I've read that it takes upwards of 18% of the plant's total photosynthetic energy
+to convert nitrates into complete protein.
+So the theory behind amino acids is that you are giving the plant the building blocks for
+protein and therefore it doesn't have to convert that nitrate and it saves a tremendous amount
+of energy.
+Let's just say 18%, um, just for oversimplification and the plant then has 18% more energy to devote
+or allocate toward other, uh, plant growth functions or root exudation.
+And I just think, you know, 18% more energy every single day.
+I would do anything for that.
+Me too.
+Uh, so what, what kind of product are you finding make this, uh, soy based amino acid thing?
+I haven't, I haven't heard of one.
+Oh, you mean brand?
+Yeah.
+Is there like a particular product or brand that you could throw out there for listeners
+to maybe check out?
+Sure.
+Sure.
+I hate naming brands because I try to be product agnostic, but I'll do it.
+Fair enough.
+Fair enough.
+Um, Agamino is a, is one, uh, there's one Ferdinitro.
+That's a great one.
+Um, and I, yeah, there's, there's, uh, another good one.
+Um, grower secret N, um, yeah, those are the three that come to mind.
+Yeah.
+I've been using a product called MycoChump, uh, from Plant Success because it has N and
+K specifically.
+Um, but I am totally open to, maybe that's something I need to look into is offering
+to our customers on Kiss Organics is a soy based one too.
+So I, yeah, absolutely.
+I appreciate that.
+Um, yeah.
+Okay.
+So we talked about nitrogen and, uh, did you want to talk about potassium or do you want
+to dive into water?
+Um, let's talk about potassium real quick.
+All right.
+I can't resist.
+So potassium is an interesting one because, um, well, and, and let me connect it to nitrogen
+really quickly.
+There's a number of products.
+There's a number of amendments, but at the end of the day, I believe that compost is
+the winner when it comes to a slow releasing source of both nitrogen and potassium.
+And, and, um, that's nothing new, you know, the best organic growers were, were, uh, using
+compost well before I was born.
+So compost is key.
+The trick with soilless media and cannabis production is all compost is so different in
+quality and so different in nutrient profile.
+And it has such a differing amount of sodium and salt that it's really easy to overdo compost.
+So it's really a balancing act.
+So my belief is that, um, once you get your base mix, once you build your soil or buy your
+kiss soil or whatever it may be, the trick there is to apply just a little bit of compost
+every single season or every single round, because compost doesn't release all of its
+nutrition in year one.
+And it continues to release it forever.
+So you're just sort of, it's almost like saving money every year.
+You're putting a little bit more money in the bank account.
+That's going to spit out dividends or interest every single year thereafter.
+And that really mitigates the nitrogen and potassium, um, mining that I referred to earlier.
+Okay.
+So otherwise the only, you know, good sources of potassium, um, you know, there's, there's
+potassium sulfate, there's potassium silicate, there's green sand, there's wood ash.
+Uh, I know a lot of like KNF guys will, will use sunflower ash.
+I don't like ash because it concentrates all salt.
+So just because it has high potassium, you bring in a bunch of other stuff.
+Um, and so, and, and those, so potassium sulfate and potassium silicate, those are both highly
+soluble.
+They're soluble at about 420 grams per gallon of water.
+So, um, compared to gypsum, that's only, let's say eight grams per gallon in its solubility.
+So that solubility is great because you can feed it and you can, you can, you know, dissolve
+it in water and drench it, let's say through flour.
+But it also means that it's, it's soluble in the soil and that it can leach out.
+It's, it remains in the soil solution.
+It doesn't necessarily cling to, uh, the organic complexes like, uh, let's say copper.
+That's on the other end of the spectrum.
+It's extremely sticky.
+So potassium, you're not only, not only is the plant uptaking it, a lot of it through
+the entire plant growth stage, but it's also very leachable in, in the soil solution.
+So, um, I found that potassium is an interesting one because you, it's, it's, and this isn't
+new to most folks, but it's incredibly important for, for flour development, flour sizing.
+Um, flour density, hardness as people like to refer to it.
+Density.
+Yeah.
+That weight, if you want to get that weight on your flour, um, you need so much of yield
+depends on that.
+Yes.
+So it's a hard one to manage.
+And on the other end of the spectrum, I don't believe you want to push too much potassium
+in, in, in veg because potassium and calcium are highly antagonistic in both their uptake
+and their translocation around the plant.
+So I've found, and from talking to really good growers, again, who are getting consistently
+high yields is that you really want to, you really want to push calcium in veg and load
+your plant with calcium because that sets you up for a really good harvest, but you
+want to flip the script in, in flour and just make sure you're getting enough potassium.
+So there's a balancing act between those two minerals.
+And I think the key is, um, it makes it easier to, to either have a lot of fresh compost in
+the mix that's constantly releasing potassium, or you really do want to feed, um, potassium
+through flour.
+That's, that's my general rule of thumb.
+Yeah.
+So that leaves us with sort of potassium sulfate or potassium silicate.
+Um, potassium silicate would be the egg sil 16 H. A lot of people know Dynagro protect,
+which is essentially a bottled watered version of that potassium silicate.
+Um, potassium silicate's allowed for use in organic production, um, as, uh, I believe as a pesticide.
+Um, is that correct?
+Suzanne would kill me for not, uh, knowing this offhand.
+Um, I don't believe it's allowed to be used as a fertility management tool, though.
+I think many people, many folks do.
+Are you talking potassium silicate?
+Yes.
+You know, I'm not sure.
+I've only recently started recommending it because so many people are using it.
+I've always used potassium sulfate.
+Um, and I've only recently switched over.
+So I, I didn't, I was not aware of that.
+Okay, well, I can, I can go look over that with it, but I'm fairly confident that that's,
+that's right.
+But, you know, people can fact check me on that one.
+Um, that being said, the potassium sulfate, uh, is something that I use as well.
+It's a mind product, um, 50% potassium.
+It's a really easy way to get in a very affordable way to get potassium into your soil, uh, when we
+need to get that little boost.
+But I totally agree with you about compost.
+Um, let's go back and we keep skipping, skipping around water, but you keep bringing up these
+great topics.
+Like you mentioned, you know, not all compost are the same.
+It all has different, uh, it all has varying levels of minerals, of heavy metals, of nutrients,
+all these things, um, of microbial activity.
+The other thing about compost or the other thing about this process that I want to highlight
+that you touched on was, um, every time we harvest a plant, this is not a closed system.
+You're pulling out nutrients and you're pulling out organic matter.
+And that's what compost replaces.
+It really helps get that organic matter fraction back up too.
+And if you're adding back in compost at some point in time, you may need to add back in
+aeration.
+So, um, or some sort of like thing to maintain that air to water ratio that we want that gas
+exchange that you highlighted.
+So I just wanted to kind of highlight that one more time, but, um, let's talk a little
+bit about compost.
+You know, you said, what's, what is good versus bad compost?
+How do we evaluate compost?
+And that could be a whole podcast.
+I know, but let's just do a quick little thing on it.
+And then maybe we can have a whole podcast on it down the road.
+Okay, great.
+Well, I'd like to chime in.
+Well, one thing, and I have a lot to say on compost, but to take a step back when you're
+people live running, living soil beds that are on round 20 or 10, even what's happening
+is that that organic matter is mineralizing and the, usually the bulk density goes up in
+that mix.
+Um, and it especially has more compost is added to your point.
+And I've never seen one of these beds that doesn't have worms in it.
+So by around 20, I think those beds have pretty much turned to worm castings, which isn't
+a bad thing.
+Worm castings are magical in so many ways, but the, but to your point, I really think it's
+important to be adding more aggregate because when the bulk density increases of your soilless
+media, it really changes a lot of the water holding capacity and drainage characteristics.
+So either you have to adjust your irrigation technique or increase aggregate.
+So I'm, I'm, I, I agree a hundred percent, Tad.
+Okay.
+When it comes to compost, um, here's how, here's how I would define a good compost well-aged.
+So, uh, usually that's indicated in two different ways.
+One is through the ammonium to nitrate ratio.
+So you want lower ammonium compost.
+That usually means that it's fairly mature.
+And the second way is through the carbon to nitrogen ratio, which I think may be the most
+important thing when looking at a compost ability to provide nitrogen to your crop.
+Yes.
+So, and to not immobilize nitrogen because when the, the carbon to nitrogen ratio goes over
+about 18 to 22 to one, right in that range.
+I know that's a relatively large range, but, um, I, I, my rule of thumb is 18 to one.
+When it's greater than that, you shouldn't roll.
+You shouldn't count on any nitrogen release from that compost in year one.
+And in fact, when it's above 20, you could actually see, um, a nitrogen draw where those
+microbes need nitrogen to break down the carbon and they, they steal that nitrogen from your
+crop.
+So I think that's the first really important thing to look at.
+The, the next thing that I look at is sodium and, and salt.
+So in the arid West, um, anywhere where they're making compost out of high salinity feedstock
+or the water that they use to keep the compost moist is, you know, high in bicarbonates.
+You can start to see, uh, salinity buildup in compost, which is, uh, going to, to import
+a lot of, of negative ions into your, um, soil.
+And by negative, I don't mean negatively charged.
+I mean, um, poor for plant growth.
+And the next thing I look at is the total nitrogen, phosphorus and potassium on a wet basis or
+as received is how the soil test on the compost test look at it.
+Just so I have a sense of if it's on the hotter end of things, or, um, if it's more of a inert
+organic matter source that may not be providing a lot of nitrogen.
+So usually hot nitrogens come from, um, chicken, uh, chicken manure, other, uh, poultry manure,
+as well as castings that have been fed, you know, a really rich diet.
+I sometimes see really high nitrogen numbers in different castings.
+Um, and I tend to avoid mushroom compost because I tend to see really high sodium and salinity
+for mushroom compost.
+Um, I love manure.
+So I love manure based compost, especially cow manure, horse manure, uh, goat, sheep, anything,
+any, uh, ungulate like that usually has a really good manure.
+That's not, it doesn't provide a lot of nutrition, but again, it's giving a lot of that, um, kind
+of slow release organic matter.
+The final thing is a fungal rich compost from, from what I've heard and read is, is, um, typically
+very, very, very beneficial.
+And so there's something called the Johnson Sioux bioreactor that, that I think your listeners
+should check out.
+It's a very simple, um, self-sufficient way to produce a really high quality, highly fungal
+and very well, uh, broken down and aged compost.
+So I'll leave it at that.
+Do you have any thoughts?
+I mean, I think right, you touched on it right at the beginning, well-aged, like nothing beats
+time and mother nature when it comes to making compost.
+And I think the majority of commercial compost that we see are just produced way too rapidly
+to optimize plant growth.
+Um, that's, that's probably my biggest takeaway.
+Fine.
+Make your own compost.
+Let it, static composting is by far the best way to make high quality compost, you know,
+thermally compost at first, kill off the pathogens, weed seeds, sure.
+But, um, that would be the one thing I'd say.
+So I totally agree with you on that.
+Great.
+Uh, the other thing I would say to all of that would be, um, I haven't had the best experience
+with cow manure based composts relative to some of the other manures.
+I much prefer horse manure over cow manure.
+Um, but, uh, you know, in general, I think manure based composts are wonderful if you, if
+properly managed.
+Um, I would, I would totally agree with you on that.
+I just, I find the fertility on cow manure compost to be pretty poor, um, in general.
+It's pretty low.
+Yeah.
+It's pretty low.
+But, um, yeah, no, I think that's great.
+And so when people say add compost, I don't think that really captures what you, um, what
+you need to know.
+Like, uh, there, there's so much more to it than that.
+Um, I'm thinking of just, you know, on a forum, for example, people say, Hey, add earthworm
+castings, add compost.
+But that doesn't take into account the quality or the nutrient levels or the biological activity
+and whatever it is they're actually adding.
+So it kind of goes my biggest issue with, with, with recipes, soil recipes are, uh, they're
+garbage in my opinion, uh, because the, the, the, if you're, if you're mixing coots mix,
+for example, the compost you'd be applying in the Willamette Valley versus the compost you'd
+be applying in Oklahoma or Nevada or Colorado is so it's the difference between eating a
+salad and eating McDonald's.
+I mean, it's just, it's just night and day in terms of what you're contributing to the
+soil.
+So you can take the same soil recipe and create a nearly ideal soil.
+And with the same recipe, you can create something that's complete garbage.
+That's a really good point.
+And even, uh, Coot himself has said multiple times, you're not making Coot mix cause you
+don't have my earthworm castings, uh, which would speak exactly to what you're saying.
+So it's a good point when people have, you know, successes or failures with recipes.
+Um, I think that's, I think that's exactly true.
+And then the other, the only other thing I would add is that I like to do some level of
+biological testing, even if that's qualitative.
+When I look at a compost, I want to see under a microscope.
+What sort of microorganism activity I'm getting, you know, do I see good diversity, um, in
+terms of the morphology of organisms I'm seeing?
+Am I getting good biomass?
+Uh, that's what I like to look at as well.
+Um, what kind of nematodes am I seeing, um, in, in the mix?
+So yeah, I, other than that though, it's a great idea.
+I agree with you on the compost thing.
+I don't think everyone has to have a microscope.
+I think it's the least useful of all the agronomic tools.
+I can't believe I'm saying that on the air, but I, I, I really do believe that when people
+ask me buy a microscope, I'm like, Oh, you know what?
+Get a, get a dino light first or some way to look for pests or get a dissolved oxygen
+meter or, you know, a pH pen or these other things first.
+And then if you want to start getting a microscope, great, but yeah.
+Yeah.
+People might, people might eat you up for that one.
+I'd, I'd recommend a pulse meter and I'd also run recommend a, an aerometer tensiometer.
+Yeah.
+Blue Mouth sells them too.
+I'm sure you could buy, but, but I think my, my two favorite tools, um, well, I have some
+more advanced tools, but if I were to recommend my two favorite for the average grower, it'd be
+a pulse meter and a tensiometer.
+I think if you're going to do a lot of soil testing too, having just a, you know, a very
+affordable, uh, soil sampler, um, I think is, is really an easy, easy buy.
+That's true.
+The only thing is I have a really expensive probe.
+I use it all the time, of course, but it doesn't necessarily always, uh, jab into soilless
+media that well.
+Yeah.
+Okay.
+Sometimes I end up using a trowel anyway.
+Yeah.
+I do like a trowel for soilless media.
+Um, I would agree with that too.
+That's a good point.
+So, okay.
+Let's talk about, uh, let's talk about water because it's something that frankly, I don't
+have as much experience and knowledge with, um, as I would like, I always tell people to
+test their water so we can see what's going on.
+Um, can you talk a little bit about a water test and what we should look in evaluating water?
+Yeah, absolutely.
+So water chemistry, uh, is more complicated than, than most people think.
+Um, especially, um, especially the relationship between pH, bicarbonate and alkalinity, which
+are all, which are three different metrics on a, on a water test that are all very related.
+So the amount that the pH of your water is simply a function of the, it's the pH by definition
+is the hydrogen ion concentration.
+So anything that contributes hydrogen ions is, um, I'm going to lower your pH, it's acidic.
+And anything that, um, consumes them is not.
+And so that's, that's the basis, that's the baseline.
+And there's a lot of, I don't know, water, snake oil out there, but it's just, it's just
+good to remember that that's the fundamental, the hydrogen ion concentration.
+So, um, when it comes to, I look at a lot of water tests and the more important thing to look
+at than pH is alkalinity and alkalinity is slightly different in definition than pH.
+What it says is it's, it's, it's saying how much acid would it take to lower the pH or how
+resistant to pH changes your water.
+So why that's important is because when you're, when your water enters your soil, the soil is
+going to buffer the pH.
+People usually, most cannabis growers understand that term.
+And so if you, if you have low alkalinity, the water is going to be buffered really quickly.
+So it doesn't matter if your pH is 8.0, if your alkalinity is super, super low, then as
+soon as it hits the soil, it's going to revert to whatever the soil pH is.
+And it doesn't matter too much.
+However, you could also have a pH of let's say 6.9, but a really high alkalinity, which means
+that when that water enters the soil, it's not going to be buffered down as easily.
+And it's in fact, going to change the soil pH over time.
+So what's important to understand is that if you have high alkalinity, that's a better
+indicator that you should adjust your pH than if you just have high pH alone.
+So that's the first thing I want to mention.
+Now, the third metric that I mentioned was bicarbonates.
+So bicarbonates lead to high alkalinity.
+So usually when water runs through the parent material of a soil, it picks up carbonate like
+calcium carbonate or magnesium carbonate, also referred to as free lime.
+And it will go into the solution and convert into bicarbonate, which leads to a higher alkalinity
+and a higher pH.
+So what you're doing when you add acid to an irrigation water is you're dissociating the
+bicarbonate and therefore lowering the alkalinity and lowering the pH.
+I know that's so complicated and it's taken me years to really have a fundamental grasp of
+it.
+But I hope that makes sense.
+It does.
+How do we, so when we're looking at this test in terms of bicarbonate levels, how do we
+adjust and how concerning is that, I guess, in evaluating a water for growing?
+Yeah.
+So I recommend that when bicarbonate, or I'm sorry, when total alkalinity goes above about 120
+parts per million, that's when you should really consider applying acid to your water.
+Now, that's a relatively arbitrary number.
+You could go up to 140 or 150, but usually when the alkalinity is over about 150, 160, you
+should definitely consider acidifying your water.
+The alternative would be to run your soil pH a bit lower.
+And if you submit a saturated taste test with your irrigation water, that's looking at the
+combination of your water with your soil, and that's the pH you should really be looking
+at.
+Because you can definitely have a high pH water with high alkalinity and apply it to a low
+pH soil, but together they combine and your pH is really right in range.
+So that's what I mean by consider acidifying over 120.
+You don't have to, but you should start thinking about how to change your management to make
+sure your soil solution pH is optimized.
+So you're saying when you go to Logan with a complete soil test, send them a sample of
+your water too so that when they run that saturated paste portion, which is where they, again, correct
+amount of this if I get wrong, they take your soil and essentially dissolve it in, they'll
+use distilled, I think, I believe, or a fairly neutral water unless you send them your irrigation
+water.
+And if they do it with your irrigation water, it's essentially what ions come out or nutrients
+come out into that liquid solution and then they measure that.
+Exactly.
+And so it's a more accurate representation of what your plant roots are actually seeing.
+So every grower who goes on my website, orders a soil audit, I send them the forms to send
+in the Logan test.
+I recommend that they send their four ounces of their irrigation water for Logan to run
+the test with their irrigation water for that exact reason.
+Now, I don't recommend that if you have super clean water like RO or even most municipal waters,
+they're not going to significantly change the soil solution enough to justify having to go
+find a four ounce bottle in.
+Ship in water.
+So when we talk about acids, it's typically the lower pH.
+Most of the tests I see are dealing with high pH, alkalinity, bicarbonate.
+There's three that I'm aware of, sulfuric, phosphoric, and citric.
+I think there's pros and cons to all three.
+I tend to just stick to phosphoric because citric just doesn't have much buffering capacity.
+It'll fluctuate pretty quickly.
+It doesn't really seem to change the soil pH over time.
+And then sulfuric, I avoid because there's a lot of reports that it damages soil microorganisms
+significantly more.
+So I don't know.
+What are your thoughts on ways of lowering pH effectively and as organically as possible?
+Yeah.
+So technically, in certified organic production, you can only use citric.
+You can't use phosphoric.
+But again, that's only if you're a veggie producer that has to be certified.
+I don't – so with citric acid, you're right.
+And any organic acid, for that matter, there's – it's – for one thing, if you acidify
+your water and come back a day later, it'll just jump right back up because my understanding
+is that biology, there's bacteria that consume the conjugate base.
+And it's chemistry that I couldn't really explain on this podcast without reviewing.
+So anyway, it doesn't – to your point, it's not as stable.
+It's also more expensive.
+And it's just not as powerful.
+You have to apply it so much more.
+Phosphoric is great because you're actually getting soluble phosphorus.
+And cannabis just loves phosphorus.
+The downside of that is that in topsoil and in research, which, again, may not apply to
+soilless media, but high soluble phosphorus will decrease mycorrhizal colonization because
+one of the primary ecological functions of mycorrhizal is to solubilize phosphorus and deliver
+phosphorus to the plant.
+New research also shows that it does deliver nitrogen and other compounds.
+But I'm getting sidetracked here.
+So phosphoric, I think, is wonderful.
+It's less expensive.
+It provides soluble phosphorus.
+And it's much more powerful.
+And it doesn't change to what you're saying, Tad.
+Sulfuric, I recommend for orchardists who have a high pH soil in a calcareous region because
+you're changing the soil solution.
+You're never going to reduce the pH of that soil because there's just so much free lime that
+you just take lifetimes of huge sulfur applications.
+But you can change the soil solution pH, which is really where I work.
+I work on the solution, both in all my consulting.
+And so you can install a sulfur burner, which essentially uses sulfuric acid.
+It shoots sulfur into the water, drops the pH.
+Which I don't necessarily, I haven't used sulfuric acid specifically.
+A lot of people have come to me with that same concern that you just expressed around,
+you know, hurting biology.
+And I understand that sulfur can be used as a fungicide and a biological suppressant.
+But I haven't seen a lot of evidence or research that sulfur decreases biological, community
+composition, biomass activity necessarily.
+So I'm totally open to learn and be schooled on that.
+But I think that's one assumption that we should all question and just make sure that
+we are following the research on that.
+Yeah, I will say that I've been working with some facilities that have been battling high
+pH in their soils and the applications of agricultural sulfur every cycle in low doses
+has successfully lowered the pH over time.
+Great.
+And while we haven't been measuring soil biology, you know, effectively, what we're seeing in terms
+of plant growth and plant's response is increased yields.
+And my, you know, my hypothesis on this is as our pH drops into a more optimal range for
+that plant, it's easier for the plant to access nutrients, thereby allowing it to, like you
+talked about with the amino acids, it allows the plant to receive those nutrients in an easier
+form or with less work so that it's able to put more energy into its overall biomass and yield.
+Absolutely.
+I think that, you know, pH is, and again, I think everyone knows this, it's so important.
+And I would choose to fix my pH.
+And it's also important to keep in mind that there was a 2020 study that happened this year.
+It was a meta-analysis that analyzed over 1,200 experiments that examined soil microbial
+diversity, and which is a very specific metric.
+It's not examining microbial community composition or community activity or biomass.
+It's diversity specifically.
+And it found that the number of species or the species diversity is most explained by a change
+in pH.
+So again, pH is the driving factor behind species diversity in soil.
+And again, may not apply to soilless media, may not apply to these systems where we're
+constantly applying keys and ferments and things.
+But it's important to remember that if we get the right pH in the long term, that's going
+to dictate diversity more than anything else.
+Sorry, I had a quick cough there.
+I turned down my mic.
+Apologies.
+No problem.
+Yeah, I thought I said something.
+No, it wasn't you.
+I was trying not to cough on air, but it looks like I didn't make it.
+Cool.
+One other thing.
+I know we're starting to run long here.
+Probably have to have you back on.
+But I wanted to at least, there were two more topics that I wanted to cover in this podcast
+really quickly would be heavy metals and then cover crops.
+But let's start with, let's start with heavy metals.
+I'm seeing a lot of, not a lot that I don't want to exaggerate the issue, but I'm seeing
+people fail for heavy metals.
+Typically arsenic.
+I've also seen lead.
+How do we manage that most effectively in soils in terms of our input, as well as what
+other outside sources of contamination do we need to be concerned of, you know, primarily
+thinking of water and other metals in our building?
+Do you have any thoughts on that?
+Yeah.
+So I don't know the answer to the second part of the question in terms of, I don't
+suspect it's coming from most people's water unless they're using some contaminated well
+water.
+And I don't know the sources in the facility.
+However, I can talk to inputs and the, so I've, I've actually been doing a lot of research
+and I've pulled the, I've, I've found and sourced heavy metal tests from a number of
+different brands of soft rock phosphate, kelp meal, poultry products, alfalfa, carangia,
+soybean, neem, blood, and on, on and on down the list.
+And I've been able to source numbers for arsenic, cadmium, mercury, lead, and nickel.
+And, um, and by the way, Tim, I'm, I'm releasing all this in a, an online course that I, uh,
+am launching called become a cannabis oil expert.
+I, I, I'll share it with you after the podcast.
+Oh, cool.
+And yeah, what I'm finding is that, um, there are certain product categories that are consistently
+high in certain heavy metals.
+So, and, oh, and one more barium.
+So for arsenic, there's a whole bunch of, of learning here and there's a number of products
+that I could mention to stay away from.
+Um, but if you're failing for arsenic, the number one thing to look at is your kelp meal.
+Okay.
+And I'll leave it at that for arsenic.
+Now, if we want to talk about other specific heavy metals, um, we can kind of go through
+the list, but, uh, I've found that consistently there's a number of kelp meals that are really
+low and a number that are really high.
+So when it comes to arsenic, now there's other sources of arsenic.
+There's certain alfalfa products.
+There's, um, a bit of arsenic that comes in through, uh, different rock dust, um, as
+well as a couple of different brands of gypsum, but otherwise, I mean, those are the, those
+are the categories that, that are going to bring in the most arsenic.
+Yeah.
+I think in general, uh, people have to realize when you're using organic soils or organic
+amendments, there will be low levels of, of arsenic, uh, naturally.
+It's just a matter of management of heavy metals.
+Um, I think trying to completely avoid them would be quite challenging using strictly organic
+amendments, but knowing, knowing what those levels are and making sure we're not doing
+anything to really increase them, um, I think is really important.
+And then we're finding genetics plays a huge role.
+Some cultivars just pull up heavy metals like crazy and other ones could seem to care less.
+Uh, you know, two, two genetics in the same room can have significantly different heavy
+metal levels just from the testing I'm seeing.
+Um, but when I talk about water, my, my thought is primarily with people who are using RO water,
+you know, it's water wants to bond with something.
+And, uh, when you, when you have it like that and it's, and it's, uh, strictly just H2O, I think
+that you're at risk, you're, you're at higher risk of it coming in contact with metals and
+then stripping those metals, um, of potential heavy metals.
+I think of like in a reservoir, having a irrigation pump, for example, could be a risk or, um, you're
+plumbing in your facility and might be able to pull strip lead out of that, depending on
+the type of plumbing that you have.
+So that's sort of what I was getting at in regards to water.
+Got it.
+That's a great point.
+My wife uses a Berkey filter, this double charcoal filter.
+She puts our water through and, you know, I always, I actually don't love that because
+I don't want a water that's super, super stripped of everything.
+I actually like minerals in my water for the same reason you're talking about.
+I don't have any basis for that other than the idea that there, you know, that water
+may be stripping my stomach or my body of minerals.
+I'd rather have minerals in it.
+So I think that's a, that's a valid point.
+And by the way, I want to, I want to clarify on that kelp meal comment.
+I'm not saying don't use kelp meal.
+I'm not saying don't use these products.
+I don't want people to misinterpret that.
+I'm saying if you're failing for something and you're using large, large quantities of kelp
+meal, just second get, you know, you should just consider going with less.
+Oftentimes less is more.
+And I'd say don't freak out about anything unless you're actually failing.
+So I don't want to be misinterpreted there.
+That's a good point.
+And when we talk about heavy metals in soils, one of the questions I get that I haven't,
+I haven't had a chance to research yet is, are there any good cover crops someone could
+run to pull heavy metals out of a soil?
+Well, let's say you fail hypothetically for arsenic and you don't want to throw out all
+your soil.
+How could you amend that quickly with a potential cover crop that might pull out, you know,
+in its biomass, the arsenic?
+Is there any particular crop you're aware of that would be really effective at this?
+Gosh, I, I'm not, I'm not aware of anything for specific metals.
+Um, I could dive into my, my folder of extensive resources that I can try to find something,
+but the, the thought I have in grasses are, are usually bioaccumulators.
+I've worked with growers on cropping out excess phosphorus, for example, with grasses, I'm
+sorry, potassium with grasses.
+Um, and you know, the sad thing is hemp, hemp and cannabis, that it's, it's the most wonderful
+bioaccumulator.
+So unfortunately to your point, a lot of cultivars are going to be really good at it.
+Um, so that's obviously not the right answer, but I, yeah, I'm not sure.
+I'm not, I'm not aware of specific species that would do a better job.
+Okay.
+That's fair.
+I kind of put you on the spot there.
+Uh, one other, just since we, we started talking a little about, a bit of cover crops, uh, I
+put up a video, uh, this past week on the use, my thoughts on the use of cover crops, uh, in
+indoor commercial facilities specific to controlled environment, agriculture, uh, specific to commercial
+operations, not saying not to use cover crops.
+If you're, uh, you know, in a tent or, uh, you have a small grow to manage, I'm talking
+about on scale.
+Um, what are some of the pros and cons to cover crops?
+And let's talk about all their benefits, um, in an outdoor environment.
+You know, if we're talking about maybe in a uncontrolled greenhouse or in a field, uh, why
+do we want to use cover crops?
+Yeah, so the, the purpose of cover crops is very context specific outdoors, but what comes
+to mind is, uh, biomass production, weed suppression, and, and, um, nitrogen, uh, fixation.
+Those are the three main, you know, there's other things.
+There's water conservation and water filtration and soil biological promotion, but usually
+outdoors, I'm thinking about how to build organic matter, how to build nitrogen stocks, and how
+to suppress weed as the three primary benefits of cover crops.
+But, you know, there's pollen, there's pollinator benefits and benefits to attracting, uh, predatory
+insects.
+Um, there's a whole number of, of benefits and I'm sure I'm missing several.
+Now, uh, if I can just jump, jump over to, um, that indoor question really quickly, you
+know, I think, I think that anyone who's putting time toward mastering the art of cover cropping
+is, that, that is time well spent.
+And I think that, um, I don't see a, a severe disadvantage to people who are really innovating
+in that way.
+Personally, I don't necessarily, uh, I tend to agree with you, Tad, that, that, that, that,
+the possibilities of increased pest populations in a cover crop indoors probably outweigh,
+um, the possible benefits that you would get from the things that I discussed.
+And, you know, I think it's really laudable that, that a number of cannabis growers and
+really most organic farmers are trying to model agroecosystems after nature.
+But we have to remember that when we're in an indoor environment, we've already sort of
+disconnected in such a way that, um, you know, we can't perfectly replicate nature.
+We're under high intensity lights.
+We don't have the same predatory insect populations, airflow, temperature fluctuations, et cetera.
+And, and, and because of that, pest populations can really get out of control.
+So I do think that personally, I would, I would try to, um, control that variable by eliminating
+multi-species cover crops inside, um, and even, even single species cover crops.
+And I will say, I have one more thing.
+What, well, yeah, go ahead.
+And then I have one more thing I want to talk about when it comes to blends versus single
+species, if you're open to that.
+Of course.
+Yeah.
+I just wanted to touch on the, and just highlight that I have no issue.
+I think that running trap plants, running indicator plants, running banker plants, um, all make
+a ton of sense.
+Um, so I'm not opposed to having other types of plants in your facility, just not maybe using
+them as a, as a cover crop necessarily, but in a separate space or container, um, in the
+room.
+Um, and like, like you said, it, I think it's great that people are innovating in this area.
+Um, for me, my big concern, like you said, is pest management.
+It's also labor management when we're on scale and we have to think the number of times that
+we literally touch or prune a plant, uh, because of the scale it, I think it adds a whole nother
+variable.
+And then the last thing is really, I think, um, the last thing is sort of a failing on
+my part in terms of trying, trying to understand fertility management.
+When we add in a diversity of cover crop species, um, I think there's enough challenges
+around fertility management.
+When we're talking about living soils, it's just one more variable that makes it even
+harder for me to really wrap my, my brain around.
+Um, and then the last thing would be, I like to till the soil.
+Um, when I go to re-amend, I want to get my nutrients directly down into the rhizosphere
+so that I know the plant has what it needs for its next flowering cycle.
+If we're talking about flowering in beds.
+Um, and when you have a cover crop, when you have a heavy mulch, um, it makes it really
+challenging to try and re-amend that soil in that manner.
+Um, and that's not to say like outdoors, I'm a big proponent of no-till, big proponent of
+cover crops, um, for all the reasons that you listed.
+I think they're wonderful.
+Um, I just, I'm not as convinced as of today, as of the recording of this podcast, that all
+of these concepts necessarily translate to controlled environment agriculture on scale
+indoors.
+Great.
+Take it away.
+Yeah.
+You know, it's, it's, well, yeah, no, I have so many thoughts and I think that's so well
+said that I, there's a quote I really love.
+Once you start asking questions, innocence is gone.
+And I feel like that in so many ways where I have a general sense of how I idealistically
+want to create agroecosystems, but the more that I learned, the more nuanced and context
+there is that doesn't always allow it, uh, perfect application.
+So I think the general mindset of, of cover crops is so wonderful and diverse cover crops,
+but, um, when it comes to scale and production, it, there's trade-offs and I'm with you that
+the, and on that note, I mean, I, I totally understand the benefits of no-till, especially
+in outdoor, um, soil, topsoil.
+Um, I think it really is half of the equation to soil health when we're talking about soil
+organic matter.
+Um, but I have the same thing in, in soilless media, um, in cannabis production.
+I really like to a really thorough homogenous amendment and, and that requires tillage.
+So there's trade-offs.
+There really are.
+Um, and, um, I think those are the tough decisions that, that growers have to make.
+And, uh, and the final point on this is there's multi-species cover crops are, uh, really popular.
+They're really great.
+And another study just came out, another meta-analysis this year that, that looked at cover crop
+blends versus single species.
+And there were 27 studies they'd looked at and they ranked, um, these blends versus their
+constituent monoculture species based on, uh, biomass production, weed suppression, water
+conservation, nitrogen retention, and, um, soil biology promotion.
+And what was so interesting, it was painful, honestly, for me to, to read the results of
+this because I was expecting the cover crop blends to outperform the single species, but
+they actually found that, uh, 88% of the time there was no difference in those, um, criteria.
+And there were a few single species blends that did better, a few multi-species blends that
+did better, uh, across these studies.
+But, um, it was just kind of humbling to me to, to realize that, that obviously we're trying
+to mimic nature and we're trying to mimic diversity, but it doesn't always give us the
+result that we're intending because of the complexity of nature.
+So, uh, it was a really fascinating study.
+Now, the, the research does show that when you're cover cropping multi-year, so in the
+three to five year time horizon, grassland studies show that, that multi-species, um,
+tend to produce much more biomass because they're less, they're less susceptible to fungal disease,
+um, which will wipe out a monoculture.
+But when we're, when we're talking about cover cropping outside, I'm, I'm going back to
+the basics and coaching growers to just keep it simple.
+Stick with something that's going to work and that's going to achieve the underlying
+production goals.
+Um, because sometimes I think we can overthink things, put together a 35 species blend and
+not necessarily, uh, make our lives any easier in the process.
+So I, I know that's a loquacious way to talk about cover crops, but, um, I hope, hopefully
+that's helpful insight.
+Yeah.
+Maybe that's something we could put up on the podcast page for listeners who want to dove
+a little deeper into that.
+I, I think that's really interesting.
+I get the, I get the question sometimes from outdoor growers of what cover crop should I
+run?
+And, you know, everyone has a different, uh, environment that they're growing in.
+I usually tell them to talk to someone like yourself, an agronomist, but then I also say,
+go talk to your neighbors, find out what the farmers near you are using and what they've
+had successes with.
+Because they, that microclimate is going to be very different than what I'm dealing with
+here in, uh, the Seattle area.
+Um, so that's, that's where I like to start when it comes to cover crops.
+But again, I, I totally agree with you.
+They work.
+We, we should be using cover crops.
+Um, and, um, we should be using no-till when we want to talk about regenerative agriculture
+for improving soil health.
+I love that.
+Find the oldest farmer in your area and ask, ask them what will do the best.
+Yeah.
+And one other thing I want to just add to this is I love that when I put out that video
+on Instagram, the majority of people, uh, that even that didn't, that even that disagreed
+with me or maybe made reaction videos, um, it was all in good spirit.
+We can disagree on these things, these points.
+We're all organic growers at the end of the day.
+We're all promoting soil health.
+We're all doing what we think is best for the plant, for our facility, for our bottom
+line.
+Uh, it doesn't have to be personal.
+Um, and these decisions that we make don't make one person smarter or, or less or more
+educated than another person.
+Um, I think these dialogues are what further our knowledge.
+And then let's take these conversations and put them into like experimental design and
+really get to the bottom.
+So we have a firm answer that supports our conclusions.
+Cause right now that research just does not exist.
+So I can't say with confidence that what I shared regarding cover crops is optimal.
+Um, I can give you my logic for why I think it is and someone could do the same in response,
+but at the end of the day, we really don't, we, we can't say, uh, conclusively one way or
+another.
+And I think that's important that that dialogue stays positive.
+And I appreciate that about the majority.
+I mean, there's always going to be trolls, but I appreciate that about the majority of people
+that I've interacted with on, on these subjects.
+Um, yeah, I think we're all just looking for more information, more knowledge and more collaborative
+learning.
+When I still see those conversations in those videos, I just think a rising tide lifts all
+ships.
+We are all in this together trying to learn more so we can produce better crops and be
+more profitable.
+And I think dialogue, uh, is the best way to do that.
+So I support that a hundred percent.
+Yeah.
+Well, I, I really appreciate what you shared today.
+I look forward to, um, further conversations, uh, maybe further podcasts.
+Uh, I know that, uh, you and I will continue to chat off air and I, um, I, I, I've even talked
+to you and Ben, I know we've talked about, uh, working on some papers in the future to submit
+to journals potentially to, to further this whole process along too.
+I know there's a lot of experiments you want to run and Ben and I have a, a lifetime list
+as well.
+So, uh, I really appreciate that.
+And, and thank you so much for coming on the show today.
+Yeah.
+Thank you so much, Chad, for having me.
+That was Bryant Mason.
+And you are listening to the cannabis cultivation and science podcast.
+Don't forget to check out the podcast page at www.kisorganics.com.
+Just click on the learn tab, then podcast.
+And please take the time to leave us a review.
+If you listen on Apple podcasts or other platform, I do read them all and appreciate your
+feedback and the more reviews help us rank higher so that others can find the show.
+Thanks for listening.

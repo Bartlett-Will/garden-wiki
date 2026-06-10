@@ -2,9 +2,9 @@
 title: Biocontrols and IPM
 aliases: [biological pest control, integrated pest management, biocontrol, beneficial organisms]
 tags: [practice, pest-management, biocontrol, ipm]
-sources: [ep-040, ep-002, ep-005]
+sources: [ep-040, ep-002, ep-005, ep-007]
 created: 2026-06-04
-updated: 2026-06-07
+updated: 2026-06-09
 ---
 
 # Biocontrols and IPM
@@ -49,6 +49,19 @@ For practical application:
 
 Mycorrhizal fungi provide indirect pest and disease resistance by improving overall plant health and nutrient status. A well-nourished plant mounts stronger [[plant-stress-responses|stress responses]].
 
+## Neem: the Botanical Arm of IPM
+
+[[neem-and-karanja|Neem]] complements the fungal biocontrols with a botanical mode of action: it disrupts insect feeding and reproduction rather than poisoning on contact, and it suppresses pathogenic fungi and nematodes while *enhancing* beneficial fungal colonies, including mycorrhizae. [[clackamas-coot|Clackamas Coot]]'s protocol (ep-007): blend neem and karanja oils 2:1, emulsify with soap nut tea, spray before dark, and commit to **four applications 72 hours apart** to break the full egg–larva–adult cycle — stopping early is the classic failure. For fungus gnat larvae, a neem meal drench (2 cups aerated in 5 gallons for 24 hours) works from the soil side. See [[neem-and-karanja]] for sourcing and the full method, and [[botanical-teas]] for the tea technique.
+
+## Bicarbonate Fungicides for Powdery Mildew
+
+For outdoor powdery mildew, the cheapest effective fungicide is in the baking aisle. Retail products are mostly **potassium bicarbonate** plus a surfactant, sold at $30 per half pound — but per Steve Diver's published comparison, plain **sodium bicarbonate (baking soda) is 80% as effective**, and a 15-pound bag costs under $10. The nursery sector has used it since the 1920s because it works.
+
+- **Rate:** 1 tablespoon per gallon of water; dissolves instantly; spray and repeat after rain
+- **Freshness matters:** bicarbonates lose potency — replace the bag each season
+- **Outdoors only:** indoors, manage humidity and airflow instead
+- **PNW reality check:** organically powdery-mildew-free squash in a wet maritime climate is close to impossible; variety selection helps more than spraying
+
 ## Why Broad-Spectrum Biofumigants Are Problematic
 
 Mustard meal and other brassica-derived biofumigants release isothiocyanates — compounds that are toxic to a broad range of soil organisms. While they are marketed as "natural" alternatives to chemical fumigants, they are fundamentally indiscriminate:
@@ -86,6 +99,7 @@ A practical biocontrol-based IPM program layers multiple targeted approaches:
 ## Sources
 
 - [[ep-040-soil-food-web]] — [[tad-hussey|Tad Hussey]] on Trichoderma, entomopathogenic fungi, mycorrhizae, and the case against biofumigants
+- [[ep-007-worm-bins-peat-moss-and-building-soil]] — [[clackamas-coot|Clackamas Coot]] on the neem-karanja protocol and bicarbonate fungicides
 
 ## Related
 
@@ -97,3 +111,5 @@ A practical biocontrol-based IPM program layers multiple targeted approaches:
 - [[root-hairs-and-nutrient-uptake]] — root biology and nutrient absorption
 - [[plant-stress-responses]] — the immune responses that healthy biology enables
 - [[composting-and-organic-inputs]] — compost tea as a biological inoculant delivery method
+- [[neem-and-karanja]] — the botanical IPM input in depth
+- [[botanical-teas]] — drench-based delivery for neem meal

@@ -2,9 +2,9 @@
 title: Root Hairs and Nutrient Uptake
 aliases: [root hairs, nutrient absorption, cation exchange, root hair death, active uptake]
 tags: [science, plant-physiology, root-biology, nutrient-uptake]
-sources: [ep-041]
+sources: [ep-041, ep-071]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-09
 ---
 
 # Root Hairs and Nutrient Uptake
@@ -103,6 +103,7 @@ This is connected to root biology more broadly. Roots do not have the node/inter
 ## Sources
 
 - [[ep-041-applied-horticulture]] — [[dawn-marshall]] on root hair biology, the air-water relationship, and diagnostic methods
+- [[ep-071-discovering-the-why]] — [[dawn-marshall|Don Marshall]] revisits root hairs, active cation/anion exchange powered by respiration, and overwatering-as-drought-stress
 
 ## Related
 

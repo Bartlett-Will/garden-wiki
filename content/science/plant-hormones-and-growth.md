@@ -2,9 +2,9 @@
 title: Plant Hormones and Growth
 aliases: [auxins, apical dominance, phototropism, plant growth hormones]
 tags: [science, plant-physiology, hormones, growth-regulation]
-sources: [ep-041]
+sources: [ep-041, ep-071]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-09
 ---
 
 # Plant Hormones and Growth
@@ -85,6 +85,7 @@ Fall pruning is often cautioned against because it can stimulate new growth that
 ## Sources
 
 - [[ep-041-applied-horticulture]] — [[dawn-marshall]] on auxin biology, apical dominance, pruning logic, and seasonal physiology
+- [[ep-071-discovering-the-why]] — [[dawn-marshall|Don Marshall]] revisits apical dominance (Christmas tree vs. candelabra) and auxin phototropism (the shady side elongates)
 
 ## Related
 

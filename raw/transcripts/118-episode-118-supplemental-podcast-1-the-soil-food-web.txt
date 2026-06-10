@@ -1,0 +1,147 @@
+Welcome to the Cannabis Cultivation and Science Podcast. I'm your host, Tad Hussey of KISS Organics. This is the podcast where we discuss the cutting edge of growing from a science-based perspective and draw on top experts from around the industry to
+share their wisdom and knowledge. First off, I want to say thank you to everyone who has tuned into the podcast. I know some of you have been listening since the very beginning and others are still just finding the podcast. I really appreciate when folks reach out directly or leave a rating and review. I do read them all. Or mention us to friends or on social media. It all really helps. And a big thank you to those of you who have been able to support us on Patreon as we fired that back up and got new and exclusive content for subscribers on here.
+Today's podcast is a little different. I've been listening to the Andrew Huberman podcast lately. He's a neuroscientist and professor at Stanford University and he does a variety of podcasts related to human health that are worth checking out. Anyway, in addition to his regular podcast interviews, he does this extra series where he answers listener questions and talks more in depth about a variety of topics. The first 15 to 20 minutes of these podcasts, which he calls Ask Me Anything, are available for free on the podcast channel.
+And then you can subscribe to his premium channel if you want to hear the rest. Well, I have found that in the course of all my interviews, I sometimes find topics that I want to talk about more in depth or share a deeper opinion on than I get to in the podcast itself.
+Sometimes the flow of the podcast changes direction or it just doesn't fit in the context of the interview. But regardless of the reason, I thought a format like this would allow me to both share more information on the podcast as well as further support and provide value to the listeners who currently support our Patreon channel.
+Also, I found that in some of my earlier interviews, the information has changed or I may not agree with everything that was shared by a guest. This will allow me to go share an alternative viewpoint or perspective on a topic. It takes me a long time now to vet guests for the show. And while I'd like to release podcasts more frequently, I'd rather focus on quality content rather than quantity.
+So in the spirit of this new idea, I'll be releasing some shorter podcasts on here that will be just me talking about a particular topic or answering listener submitted questions that I think are really interesting or deserve to be shared.
+Some of the topics I know I'd like to cover already are mycorrhizal fungi, the use of teas in cultivation like nutrient teas or compost teas, how water impacts cultivation, no-till and soilless media, science-based metrics for growing cannabis and much more.
+This is all going to be additional content and won't take away from what we are already doing with the podcast.
+I promise that all the guest interviews I do outside of KISS Organics will continue to be free to access on the podcast.
+That's really important to us and a part of our mission to share and provide science-based education.
+And I'd also like to give you an update with what's going on with KISS Organics and my life.
+I'm finally ready to start growing at my house.
+I'm putting the finishing touches on the HVAC, which Dr. Nadia Saba, a.k.a. Dr. Greenhouse, gave me feedback on.
+I recorded that conversation and we did a video walkthrough and I'll be sharing that here soon too on our YouTube channel.
+I have the electrical done finally. That's a whole other story on why it took so long.
+And we'll be hand-watering most of this first cycle.
+But the goal is to show the entire process of cannabis cultivation from a science-based perspective
+and really share and talk about what we're doing and why.
+There's too many companies out there right now that will show you how to grow using only their products.
+And frankly, I think many of the products are not necessary and a total waste of money.
+I want to show you how to grow amazing plants with minimal inputs and look forward to starting that really soon.
+Anyway, today's topic for our first podcast is the soil food web.
+This is a bit of a controversial topic. Why? I don't really know.
+I think some quote-unquote experts have taken this concept of microbial nutrient cycling or the microbial loop just way too far.
+I see this with a lot of methods or beliefs in the organic gardening world.
+Whether it's biodynamics, Korean natural farming, soil food web, mineral balancing, permaculture, or some popular living soil company's methods or ways.
+Folks get so dogmatic about it, it becomes part of their identity, and it starts to feel more like a religion than a cultivation method.
+But today, what I want to focus on is the soil food web.
+How does it work?
+How do we use our knowledge of the soil food web to improve our gardening or cultivation practices?
+What can microbes really do or not do in our soil?
+For instance, can they prevent or eliminate disease or help plants resist pest pressure?
+Does the fungal to bacteria ratio really matter or play a role in soil health?
+You've probably heard the statistics before, and they're pretty unbelievable.
+That a mere teaspoon of soil contains over a billion bacteria, several yards of fungal hyphae, thousands of protozoa, and 40 to 50 nematodes or more.
+So what is the soil food web?
+The soil food web represents the community of organisms, many of which are microscopic, that live in the soil and are a part of the ecosystem.
+Now, why is it not the soil food chain?
+The idea being that one organism gets eaten by another organism, and this continues in one direction, going from one trophic level to another and on up the chain.
+Well, the reason it's called a web is because of the complexity of these processes.
+In addition, because much of the soil food web is microscopic, it's been very difficult to research and fully understand.
+In fact, we are constantly learning new things about how plants and microorganisms interact in the soil.
+For example, Jeff Lowenfeld's new book, Teeming with Bacteria, I had him on here as a guest if you want to learn more on this topic, discusses new research from Dr. James White on rhizophagy, particular bacteria called endophytes
+that are able to move into the plant roots, shed their cellular walls, release nutrients to the plant, and then move back out of the root hair tips into the soil, reform their cellular walls, where they can obtain nutrients from the soil, and then potentially repeat the process.
+This is something we had no knowledge of until 2008, when some researchers at the University of Queensland discovered a relationship between a particular bacteria, a non-pathogenic E. coli, and a fungi, Saccharomyces cerevisiae, also known by most people as brewer's yeast.
+The soil food web is a dynamic, constantly changing ecosystem, but the concept is relatively simple.
+Plants take in sunlight in the form of photosynthesis, and convert this to a variety of different substances, which are then excreted as root exudates.
+These exudates are comprised of sugars, amino acids, organic acids, vitamins, enzymes, and more.
+These exudates not only feed symbiotic bacteria and archaea, but they work to suppress pathogens by attracting microorganisms that are antagonistic to these pathogens.
+The exudates can adjust the pH of the rhizosphere, a fancy word for the area around the roots, so the pH can be buffered into a range that is more suitable for nutrient uptake.
+That's one of the reasons why organic growers can get away with growing in greater pH ranges than, say, a hydroponic grower.
+So the plant is releasing nutrients to feed the microbes in the rhizosphere.
+These exudates are being consumed by the bacteria and archaea in the soil.
+Archaea are single-celled organisms that initially were classified as bacteria, and originally discovered in deep sea vents.
+They were able to survive in places where no life was thought to exist.
+Now we know they exist everywhere, not just in the soil and the ocean, but even in our stomachs and on our skin, and have a variety of roles very similar to bacteria.
+So from here on out, when I mention bacteria, you can safely assume that I'm talking about archaea too.
+Getting back to the soil food web though, these bacteria are essentially consuming the root exudates,
+and then some of what they excrete back into the soil is plant-available nutrients, meaning it's an ionic form like phosphate or nitrate,
+identical to what we are adding when we use chemical fertilizers.
+Now some of these bacteria are being eaten by larger microorganisms, like bacteria-feeding nematodes or flagellates or ciliates.
+A bacteria-feeding nematode can feed on up to 5,000 bacterial cells per day, which is six and a half times their own body weight.
+What they then poop out or excrete is plant-available nutrients as well.
+This process is called the microbial loop, or referred to as nutrient cycling.
+Now in addition to all of this, bacteria and fungi play major roles as primary decomposers.
+They release enzymes to break down organic matter into inorganic forms,
+so that these elements and molecules can be released and recycled.
+This is how composting works, and why organic matter is so important to soils.
+Taking it a step further, when organic matter becomes humus, it is a more stable form of organic matter,
+and it is no longer identifiable as to what the original source of organic matter was,
+whether it was leaf litter, a dead animal, or an old shoe.
+Microscopically, it's been broken down to be indistinguishable.
+But organic matter and humus is probably its own podcast.
+So the big takeaways are that, one, the soil food web is complex and dynamic and constantly changing.
+Two, it's the primary way a plant receives nutrients in an organic system, called nutrient cycling.
+And three, these microbes have roles in protecting the plant from pathogens and disease,
+creating soil structure, and much, much more.
+So the soil food web, and microbes in general, are very important in our soils and soilless media
+when we are cultivating using a method like living soils, which technically is not a soil.
+And I don't want to understate how important the soil food web is to healthy plants.
+I think it's crucial in all my gardening practices take into account how they would impact the microbes in my soil.
+And again, this was not meant to be an exhaustive or comprehensive explanation of the soil food web.
+But I wanted to give you a foundation that would help explain why I don't subscribe to everything
+that's being put out there by folks calling themselves soil food web consultants,
+and what I think the limits are to what microbes can consistently and reliably offer us in our garden.
+So let's talk about some of the basic concepts or practices we can do
+to encourage and support the soil food web in our soils.
+This is pretty straightforward.
+Maintaining optimal moisture levels is the absolute most important thing
+you can do for microbial life and activity in your soil.
+Water is so critical to not just plants and animals, but to microbes as well.
+Sure, microbes have strategies for dealing with drought, such as insisting or going dormant.
+But if we want to keep nutrients cycling, then we want to keep the microbes alive and happy.
+And if you are watering your plants correctly, this is really not an issue.
+If soil is just sitting without a plant in it,
+then I tell folks to still treat it like it has a plant and keep watering it accordingly.
+If it does dry out, say in a bed or a pot, then I suggest adding a handful or two of organic alfalfa meal
+or watering with a tablespoon per gallon of water with unsulfured blackstrap molasses.
+Something to get the microbes more active prior to planting.
+But as long as you remember that your soil or soil mix is alive and treated as such, you should be fine.
+The next thing is using high-quality compost or earthworm castings.
+Without going too deep, as it's deserving of its own podcast,
+just know that you want to use compost or castings that are high in biological diversity
+and overall microbial biomass, but also with a balanced mineral content.
+And there's ways of testing for some of that.
+But don't think that all compost is created equal and you can get in a lot of trouble for using bad compost,
+either that's not fully composted or may contain things that you don't want,
+like herbicides or pesticides that have not fully broken down in the composting process.
+Or even things like weed seeds, which can be really annoying.
+Compost can also contain harmful pathogens.
+So understanding what the inputs are and how it's made is really important.
+You really have to trust your source.
+And then one last thing I'd like to highlight is soil disturbance.
+Tilling soils can be very destructive to soil structure and soil biology.
+There are times when I think it's necessary to till,
+but let's not confuse tilling with a mechanical tiller
+to what we may have to do in a bed with digging in nutrients.
+They are not the same thing.
+I have a whole blog on this topic on our website if you want to read more.
+And some soil disturbance may be beneficial to the ecology of your soil.
+Not all disturbance is a bad thing.
+It adds benefits too, like the potential to encourage microbial diversity.
+Just know that microbes play a big role in soil structure and we want to support that process.
+Oh, and if you can, always keep a plant in your soil.
+This will encourage healthy microbial communities due to the relationship between the plant
+and its ability to continue attributing to nutrient cycling,
+as I mentioned in the beginning of this podcast.
+So why is any of this controversial?
+It seems pretty straightforward, right?
+And it is.
+Everything that I shared above has been established and is generally accepted by soil scientists universally.
+Now here's where it gets a bit more complicated.
+All right, so that was the first part of my podcast on the Soil Food Web.
+I hope you found it interesting and apologies for the vocal quality.
+I'm recovering from COVID as I record this and I'm still a bit stuffed up and out of breath.
+If you want to hear the full podcast, the rest of it is available on our Patreon channel,
+where you can sign up for as little as $5 a month.
+And we have a ton of benefits, including monthly hangouts with the KISS crew,
+extra podcast content, immediate podcast release, and many other perks.
+You can find it by searching for the podcast name or under our company name, KISS Organics.
+This is the Cannabis Cultivation and Science Podcast, and I'm your host, Tad Hussey.
+Stay tuned for exciting future podcasts on an organic cloning solution and our trials with it,
+and a new granular Bavaria product that I'm super excited about.
+Let me know your thoughts on this additional podcast content as well.
+Thanks for listening.
+We'll see you next time.

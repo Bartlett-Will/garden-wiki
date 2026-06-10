@@ -2,9 +2,9 @@
 title: Watering and the Air-Water Relationship
 aliases: [watering, air-water relationship, wet-dry cycle, irrigation, overwatering]
 tags: [practice, watering, plant-care, soil-management]
-sources: [ep-041]
+sources: [ep-041, ep-071]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-09
 ---
 
 # Watering and the Air-Water Relationship
@@ -112,6 +112,7 @@ Persistently saturated soil creates a cascade of issues:
 ## Sources
 
 - [[ep-041-applied-horticulture]] — [[dawn-marshall]] on the air-water relationship, root physiology, and diagnostic methods
+- [[ep-071-discovering-the-why]] — [[dawn-marshall|Don Marshall]] on overwatering as drought stress, the cutting-in-a-giant-pot failure mode, and opportunistic fungi decomposing already-dead roots
 
 ## Related
 

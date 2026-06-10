@@ -2,9 +2,9 @@
 title: Pruning and Training
 aliases: [pruning, plant training, topping, pinching, apical dominance management]
 tags: [practice, pruning, plant-care, plant-training]
-sources: [ep-041]
+sources: [ep-041, ep-071]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-09
 ---
 
 # Pruning and Training
@@ -67,6 +67,19 @@ The common advice that fall pruning "triggers growth that freezes" is, according
 
 This seasonal logic extends to fertilization. Spring growth uses **stored root reserves**, not fertilizer you apply in February. The best time to fertilize fruit trees and perennials is after fruit set (late May in the Pacific Northwest), when reserves are depleted and the plant can actually use the input. See [[nitrogen-and-phosphorus]] for nutrient-specific guidance.
 
+## Know Your Fruiting Wood
+
+Before you prune a fruiting plant, ask one question: **on what wood does it bear fruit?** Pruning blind removes next year's crop. [[dawn-marshall|Don Marshall]] frames this as another "think like a plant" decision rather than a calendar rule.
+
+Raspberries are the classic teaching case because cane behavior varies by type:
+
+- **Single-crop (floricane) raspberries** fruit on **second-year wood**. A cane spends its first year growing (primocane), fruits in its second year (floricane), then **dies**. Meanwhile a fresh cane has grown up alongside it to fruit next year. After a cane fruits, cut it to the ground — it is dead.
+- **Everbearing raspberries** fruit on the **tip of first-year canes** in fall, then on the **midsection of that same cane** the following year, after which the cane dies.
+
+A simple field test: scratch the bark of a cane. **Green underneath means the cane is still alive** (and will fruit again); brown and dry means it is spent and can be removed.
+
+The underlying biology: in cane fruits, **canes are biennial** (they live two years and die) but the **roots are perennial** (they persist and keep sending up new canes). Matching your cuts to that life cycle — rather than pruning everything the same way — is what separates a productive patch from one you accidentally prune out of fruit.
+
 ## Practical Pruning Technique
 
 1. **Start with the dead.** Remove dead, damaged, and diseased wood first. This is never wrong regardless of season.
@@ -98,10 +111,12 @@ Roots, by contrast, do **not** have node/internode structure. Roots can branch f
 - Don't prune in fall — leaves are still transferring nutrients to roots for winter storage
 - Successive topping compounds branching exponentially: 1 tip becomes 2, then 4, then 8
 - Stems branch from nodes; roots branch from anywhere — different biology, different techniques
+- Before pruning a fruiting plant, identify its fruiting wood — single-crop raspberries fruit on second-year canes, everbearing on first-year tips; canes are biennial, roots perennial
 
 ## Sources
 
 - [[ep-041-applied-horticulture]] — [[dawn-marshall]] on pruning science, seasonal timing, and the hormone mechanisms behind training
+- [[ep-071-discovering-the-why]] — [[dawn-marshall|Don Marshall]] on "think like a plant" seasonal timing and identifying fruiting wood (raspberry floricane vs. everbearing)
 
 ## Related
 

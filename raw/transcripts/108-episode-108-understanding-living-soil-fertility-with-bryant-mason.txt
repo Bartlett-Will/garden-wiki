@@ -1,0 +1,832 @@
+Welcome to the Cannabis Cultivation and Science Podcast. I'm your host, Tad Hussey of KISS Organics.
+This is the podcast where we discuss the cutting edge of growing from a science-based perspective
+and drawn top experts from around the industry to share their wisdom and knowledge.
+My guest this week is Bryant Mason. Bryant is a certified crop advisor who specializes in organic
+cannabis nutrition. He has spent the last four years working to combine precision laboratory techniques
+with data science in an effort to unravel the complexities of cannabis soil and crop nutrition.
+Along with his work on soilless media, he also helps outdoor cultivators around the United States with
+nutrient management and cover cropping. If you would like to do soil testing, help with
+interpreting a soil test, or are interested in an online course on these subjects, his website is
+www.soildoctorconsulting.com. Now on to the show.
+Hey, Bryant, thanks for coming on the show today.
+Thanks for having me, Tad.
+Absolutely. I know you've been on the show multiple times here and people are, listeners are probably
+familiar with who you are and what you do. So let's just go ahead and dive right in. We had talked
+before the show about one of my recent podcasts with Paul Coxon and Patrick Veazey talking about
+phosphorus. And that was a topic that kind of sparked some interest in you. Do you want to share some of
+your feedback or some of your thoughts from that podcast?
+Sure. Well, first off, I just want to say that whenever I see any research related to cannabis
+nutrient management, I'm thrilled because it's just so many decades behind that. And there are so many
+questions and so few answers scientifically, at least in the research literature, that I just love
+seeing that kind of content. So I did listen to it. I loved it.
+I think my dominant takeaway is, and I'm sure you share this, is a little bit of disappointment in
+the fact that all the nutrient research in cannabis production that I've seen is
+non-organic. And that changes things so dramatically. The target nutrient levels that those researchers
+were talking about were so much higher than anything that I ever see in organic living soil systems.
+So it was tough for me to use their target numbers to ascertain any information about what we're
+seeing in organic soils. So that was my first thing. And all the research that I've been reading
+is mostly in hydro solutions. It makes sense from a research standpoint because they're able to control
+more variables using soilless media and ionic nutrients. But it's a little tough to pull numbers
+from it. They were applying hundreds of ppm of soluble phosphorus in one of their studies. And,
+and the interesting thing I remember hearing was that they weren't seeing any negative.
+They weren't seeing a negative yield from huge whopping amounts of phosphorus,
+which I've sort of observed that as well. I don't recommend super high phosphorus levels,
+but I haven't seen really elevated soil or tissue phosphorus levels create any zinc, iron,
+or manganese deficiencies, at least not very clearly. So that did add up to what I've seen
+working with growers.
+Now, when you look on Mulder's chart, for example, which shows sort of the antagonisms
+and such associated with various nutrients, you'll see that phosphorus does have an antagonistic
+relationship, I believe, with iron and zinc, I think, and a couple other elements. But yet,
+I've heard you talk about how it's sort of a luxury nutrient in that you're not seeing those
+sorts of issues with high levels. Can you kind of expand on that?
+Yeah. Yeah. You know, Mulder's chart has always been a source of fascination for me
+because I've always wondered how it was developed, what crops they were using, because there are
+certain antagonisms that show up very quickly and very aggressively in different crops and not in
+others. So for whatever reason, cannabis doesn't seem to exhibit these types of antagonisms as quickly
+as easily as something like maybe a corn or soybean crop would. So I think that probably explains the
+difference with the Mulder's chart kind of depends on how it was created. Usually, and I've seen this
+in other crop types, I've seen zinc deficiencies that are from excess phosphorus application.
+But like I said, I just haven't necessarily seen that in cannabis. Now, there are other reactions
+too that may happen in the soil. So for with calcium, calcium phosphate is a classic insoluble
+precipitate that can happen with with really elevated levels of of phosphorus. But in organic
+systems, most of that phosphorus that we're applying is either through compost, soft rock phosphate or
+bone meal. So it's not in these highly soluble forms that are going to precipitate out in the soil
+as easily. And that's why on a standard soil test, you might see a pretty large amount of phosphate,
+but you're not going to see as much in the solution. The only time I see very elevated
+soluble phosphorus numbers is when people are using phosphoric acid to usually to pH down their water.
+Or I just want to add on that, if they're using fish hydrolysate or something that's stabilized with
+phosphoric acid, I've also seen that. And then the last time I've seen it is in soil mixes that have
+a lot of bat guano, high phosphorus bat guano, which you and I were talking about
+prior to the show starting. So yeah, you can see in organics where what's causing it. And that to me
+always really stands out when you have a really high available phosphorus number on your saturated
+paste. But on that note, I consistently have growers with quite low available P, you know,
+0.5 for example, on the saturated paste. And yet we're not seeing P deficiencies necessarily in
+the plant, at least visually. And yields seem to be quite good still. What are your thoughts on all
+that? Yes, that's a fascinating one. I've always found that phosphorus is one of the least accurate
+nutrients to manage based on soil test results. It helps to have the standard test and the paste test
+in the case of phosphate. I actually put a little bit more weight on the standard test when it comes
+to looking at phosphorus, because of phosphorus dynamics are very biologically driven. So the
+general theory that I work off of is if you can have a large enough reservoir of phosphorus in your
+soil, microorganisms are mineralizing phosphate and delivering to the plant, delivering them to the
+plant root pretty efficiently. And so it's very rare in natural ecosystems and in agro ecosystems for
+soluble phosphorus levels to accumulate to very high levels. The other issue is in a new soil,
+it's been sitting in the bag, a lot of that phosphorus is mineralized. And so you might see
+three or four parts per million on the paste test. But as soon as you water it, and as soon as those plants
+start growing, it usually drops. And without supplemental feeds, yeah, 0.3, 0.4, 0.5 is usually what you see on
+the paste test. And I've seen very little correlation to what ultimately matters, which
+is the plant tissue. And so as long as levels are sufficient on the on the tissue test, that's all
+I care about. So really, you know, I have a range of phosphorus on tissue. And as long as it's in that
+range, and ideally on the high end of that range, I have no concerns whatsoever. I will say that there
+is a correlation between sufficient tissue levels and what's seen on that standard test in pounds per acre
+of phosphate. So I really like to keep I like to slowly build phosphorus levels in soil until that
+number is sufficient. Well, my next podcast that I'm actually recording later this week is with
+Dr. Carrie Peters over at Jack's Fertilizer. She's the chemist over there talking about tissue testing
+specifically. So we'll definitely dive into that more for listeners here really soon, which I'm I'm
+excited about. But I want to I want to talk to you about the the phosphorus number on the standard
+test on the Malik three test. How is that tied? Or is it tied to the exchange capacity of the soil? And
+then I want to kind of dive into CEC, TCC and sort of what what those challenges are with, you know,
+what we're calling living soils, soilless media versus actual soil. Yeah, great. So most phosphorus
+in a peat based media is not on any exchange sites, a lot of it's tied up in compost. And so as microbes
+slowly decompose that compost, it's released. It's also tied up in rock phosphate minerals and
+different animal based meals, like I said, fish bone meal, or just standard bone meal. And usually
+agronomically, the traditional CEC definition is more focused on the soil's ability to hold cations
+and phosphate is actually a negatively charged anion. So it's, it's not usually very related to the CEC.
+Um, so the CEC cation exchange capacity is the interesting thing about CEC on a soil test,
+especially on peat based media, is it's actually a calculation, it's not a direct measurement.
+So what I mean by that is, is usually if you're if a soil test comes back, they're directly measuring
+how much calcium and nitrogen and zinc are in that soil, they're using a machine called an ICP,
+and they're directly measuring the parts per million of that nutrient. And with TEC or CEC,
+they're sort of synonymous. Um, it's actually a calculation that's adding calcium, magnesium,
+potassium, and sodium together, the cationic, uh, macronutrients and making some small adjustments for,
+um, other bases and hydrogen. But, but it's a, it's a calculation that's summing all of those cations,
+extracted in the Malik three solution. And so the Malik three has a pH of 2.5. It's dissolving
+those into solution. And the, the lab just adds them all up based on what the, the numbers of
+nutrients are. And the, the reason that this is a problem is because usually in traditional
+agronomic calculations, you apply more nutrients to a higher, uh, CEC soil. So in a peat based media,
+you're going to see higher CEC when you have more cationic nutrients. And so you will apply more
+nutrients and you keep applying more and more. And all of a sudden you've, you've over applied.
+So it's a bit of a positive feedback loop. So that's one issue. Um, so how I look at the,
+the CEC measurement is more of a, more of a, of an, almost like an EC measurement,
+but just for the cations, if that makes sense. Um, because usually CEC was developed for,
+for mineral topsoils and especially acidic topsoils without any excess mineral salts.
+And these cations are, are essentially binding to, to clay particles, the negatively charged site,
+sites on clay. And so, um, when you add all of those together, it gives you a pretty good sense of,
+of all of those sites in the soil, but in, in soilless media or in peat based media, um,
+that's not really how it works. Most of those cations exist in compost or minerals or just
+floating around and in the, in the media matrix. Yeah. So I have some questions about that. So,
+um, anecdotally, when I see, uh, a high exchange capacity, I'll see, um,
+I'll see higher levels of our cations, you know, calcium, magnesium, potassium, sodium. Um,
+but I also tend to see higher phosphate and sulfur levels. Um, is that just because on average,
+when growers are, when we're seeing those high cation levels, it's just growers are probably
+over applying P and S too. They're not actually tied in any way mathematically to that calculation.
+You nailed it. So, um, you know, when you apply to, to get high calcium or to get high magnesium,
+um, or potassium, you, they're usually applied in the form of, you know, gypsum or potassium
+sulfate, or even just compost, right. That brings in all the nutrients in a package. So nutrient levels
+tend to be correlated because in organic production, we're, we're sort of applying then, um, together,
+even if it's just gypsum, it's still calcium and sulfur together. So you'll see both of those levels
+climb simultaneously, but you're, you're right on with the, the math is not connected to EC and any
+anion is not connected. Okay. And then the way I've always thought of CC is like, uh, a giant sponge.
+So like, what's the soil, like when we're talking about actual soil here, like sand silk clay's ability
+to retain nutrients, cations. Um, and so the, the higher the CEC, the more clay in there, uh,
+the more nutrients it's going to take for that soil to be saturated and have a lot of like plant
+available fertility. So there's, there's pros and cons to high C soil, a low C soil, let's say like
+sandy soils in Florida, for example, um, you're going to be constantly applying low levels of nutrients
+because it's not, it doesn't have any ability to retain those nutrients for the plant. However,
+if your CEC in actual soil is quite high, you may have to apply a lot of nutrients just to move the
+needle a little bit and maintain fertility. Is that an okay way of describing anything you would
+change or tweak in that sort of layman's definition? I think that's a pretty good way to
+think about it. Um, a sponge is a good analogy. I've also often seen like a dinner plate, you know,
+and you can like only hold so many ions on that dinner plate and the dinner plate is representing a
+clay colloid. Um, I think, I think Brandon or someone who works for you in an email to me,
+uh, referred to them as docking sites, which I really liked. Um, there's only so many docking
+sites on a, on a clay mineral and these cations can attach. And once all the docking sites are full,
+there's nowhere for these ions to attach. And so they'll leach out of the soil over time.
+Um, and that's why agronomically you really assume that there's no excess ions in the soil
+that don't, aren't cations that aren't attached to a docking site because they've all leached out.
+And so if you extract all the cations and add them up, then you have a really good estimate of how
+much, how many docking sites there are in your soil. And so I think that was a good explanation.
+And I think, um, it's just a tough thing to apply to peat based media because those docking sites
+don't exist. It's just a matrix of peat compost, coca core, uh, aggregate minerals. And so they're
+not actually, um, exchanging in the traditional sense. That, that makes sense. So it's really just
+a measure of your fertility in a lot of ways. It's not actually, um, telling you what this,
+there's no real CEC there. Um, exactly. But one, one thing I don't quite understand then is if
+the way the lab measures it is by measuring, by adding up all these cations, essentially to give
+you that number, how do they, how do they determine an actual soil? What a CEC is because a soil may
+have a high CEC, but have very little cations in it, right. At a, at a given point in time,
+how do they determine that? So they, they do the same thing. They extract all of the cationic
+nutrients and then add them up. Um, and they adjust for atomic weight. They divide by other
+bases and exchangeable hydrogen. So they're accounting for a few other things, but the
+point is they add it all up and they estimate the CEC. But if, um, when you incorporate all of
+the cations that we mentioned, the nutrient cations and hydrogen, um, a soil with a low,
+a high CEC with low nutrient levels, um, will be acidic. That's, that's because all of those
+exchange sites will be occupied by something. And if they're not occupied by calcium, magnesium,
+potassium, or sodium, it's going to be hydrogen. And so that soil will be acidic. So in a high CEC
+soil without a lot of nutrients, you're going to see a lot of hydrogen ions. Um, but something is
+going to occupy those exchange sites. That, that makes a lot more sense to me. Most of the soils
+that we work with are pretty close to neutral. Um, so I don't see that as, as much, but, uh,
+that, that makes a lot of sense. So let's talk about that really quickly because there is that
+exchangeable hydrogen, uh, that people will see on the standard test and, and, you know,
+it only shows up when you have obviously acidic soils. Uh, what does that number really tell us?
+It doesn't, honestly, I've asked Logan to get rid of it. It's a, it's a source of confusion.
+It's a hundred percent correlated to pH. So it'll be zero with pages above seven and it'll
+tick up with pHs, um, below seven. And so it's really just a different way to look at pH and there's
+no useful value to the percent exchangeable hydrogen on the soil test. Awesome. Um,
+let's, let's move on to organic matter and how that relates to a soilless media versus actual soil and
+what, what targets should be. Great. So organic matter does involve a direct measurement, unlike CEC.
+And the measurement is, is a, is taken from a technique called loss on ignition, which, um,
+estimates organic matter based on the weight change of the soil after they heated up to a
+really high temperature, I believe 800 degrees Fahrenheit. So almost as hot as, you know, combustion
+flame. Um, and at that temperature, there's a lot of oxidation of, of organic matter. And so they
+weigh the sample before they weigh it after, and essentially they're, they're weighing how much
+carbon is lost at, at 800 degrees in top soil. That carbon is primarily organic matter. Um,
+I believe organic matter is 58% carbon. So it's an inexpensive and it's an accurate enough technique
+to be widely used in soil testing. Um, it's really the best method at scale for testing organic matter
+in soil, or at least estimating organic matter. Um, and it's, it's pretty accurate, but in actual
+media, in actual soil and mineral based soils, if you go out in your backyard or whatever,
+um, in peat based media, there's two problems here. The first is that the carbon that is oxidized
+is in a peat based media is not real organic matter. It's primarily peat moss or cocoa core
+or immature compost. Those things aren't technically organic matter. Um, in the same sense that it is
+in a real mineral topsoil, they're carbon based. So they show up as organic matter.
+They just behave differently is essentially what you're getting at. Right.
+Yeah. I mean, they are organic matter. They're being the carbon based, right?
+It sort of depends on how you define organic matter, but in, in most, I mean, most soil scientists
+would characterize organic matter. Um, at least what we're trying to get at with organic matter
+is a long chain carbon compound that has taken a long time to form and is fairly recalcitrant,
+meaning it's, it's doesn't decompose very easily or very quickly. And it provides nutrients and a very
+sort of diverse microbial habitat. And so by that definition, peat moss doesn't really fit because,
+um, it doesn't have, it's kind of a nerd. It doesn't have many nutrients. It's not,
+it's like a totally different carbon chain than like, I mean, there's the, the, this is sort of
+an antiquated word, but humus, you know, is, is this substance, this magical sort of jet fuel in the
+soil. It's totally different than that. So yes, it's organic in nature in the sense that it's made out
+of carbon, but it doesn't give us all the, the plant health and agronomic benefits that true
+long chain organic matter does in the soil. Um, it doesn't give us all the benefits when it turns
+over and when it changes form. Um, so it's just a totally different species of carbon. So when we look
+at the organic matter on a peat based media, um, it's not, it's, it's really just kind of showing us
+the weight loss. And that gets to the second issue, which is the measurements highly correlated
+to bulk density, because if your soil is super fluffy right out of the bag, it's going to have,
+it's going to show a higher organic matter. Um, but as we all know that bulk density changes over
+time, you know, that's why the, that if you grow in a pot, it looks like the soil sinks two to four
+inches in the first round, um, that bulk density is increasing. So organic matter is going to jump all
+over the place based on bulk density. And they make an assumption with topsoil, uh, uh, bulk density
+assumption. That's usually pretty accurate, but in peat based media, it's really not. So usually a new
+peat based media is going to see, you know, show high organic matter and high CEC right out of the
+bag because it's fluffy and it's full of nutrients, but those numbers are going to jump wildly. So those
+are two issues. There's two more issues. I can kind of stop there. Um, actually I'm going to,
+I'm going to just present one more, which is that this may be the biggest issue in my opinion is not
+the technical nature of how they tested and blah, blah, blah. It's more around what do you do with
+the number? Because the purpose of testing, if you're going to pay money to get a test, it's,
+it's to determine some kind of action you can take as a grower. And so if there's no management action
+that you can take with 40% organic matter, 30%, then to me, that's the biggest issue with any
+metric because the purpose of these soil tests is to, is to take some kind of valuable information
+and then go apply it via action. So it's not tied at all to the CEC, uh, directly at least
+they're totally separate. No, the measurement is not. Okay. Totally separate. And yeah,
+there's very little correlation, uh, between those two numbers. So, so the bottom line is
+ignore organic matter percentage. If you're not testing actual soil. Yes. Now, if you are testing
+actual soil, how does the application of compost come into play in affecting that organic matter and
+giving us an accurate number of what our percent really is? Because I could imagine if I applied compost,
+uh, earlier in the season, tilted in or top dressed it, I take my sample. Some of it ends up in the
+sample. The sample remember is only half a teaspoon of actual material. When we're talking about the
+Malik three, um, what's that going to do? Yes. So, and that's a great point because this, the first
+problem I talked about, which is that we're testing peat moss or immature combos to not organic matter in
+the traditional sense, that problem exists outdoors too, where loads of compost have been applied.
+So you apply compost, your organic matter jumps from 2% to 10%. You're super proud of yourself,
+right? But that's just measuring the carbon from your compost, which is good. It's, it means that
+your, your carbon inputs are high. And that is one of the many variables that leads to the formation
+of stable organic matter, but it's not true organic matter by the traditional definition. So, um,
+that too is an issue. And I've, I worked at a lot of, um, small organic vegetable growers and they use
+large amounts of compost and their organic matter is very, very high on a soil test. And it's also,
+you know, when, when compost is applied, it goes through a multi-year decomposition process. And so
+that number is going to jump all over the place. Um, and so that the organic matter number gives you a
+little bit of information, like, you know, this soil has been cultivated. It's has high organic,
+uh, inputs, but it's not necessarily something that should be managed very closely, even in a,
+uh, you know, conventional broad acre cropping system. The organic matter number should be looked
+at over, I would say a five to 10 year horizon and not a year to year number. Um, because to your
+point, there's organic matter, matter variation in soils as there is in just everything in nature.
+So, um, you are going to see a little bit of fluctuation. You shouldn't see large, like full
+percentage points, but you'll see maybe tenths or even a half of a percent fluctuation year to year.
+So you really should be looking at, at it over, you know, a five or 10 year horizon,
+even in real topsoil. So it's a very crude, uh, measurement. It's very important. We all know
+that organic matter is one of the most important things, um, for organic agriculture and for soil
+health and for plant health, but it's a, it's a really tough thing to measure accurately when
+your soil test costs 50 bucks.
+Yeah. So we're really looking for trends. Is it trending in the right direction? Is it,
+is it moving up? Is it moving down? Correct. That's, I think, I think that's the key there.
+Okay. But in a key based media, just to, just to be clear, I wouldn't, I wouldn't even worry about
+the trend. Yeah. I've seen it jump all over the place based on the sample. So I don't,
+I tend to ignore it too. Um, well, uh, you know, sticking on the topic of, uh, nutrients,
+um, we were going to talk about, uh, ratios sort of versus levels. Cause you get these ratios of what,
+what your cations are made up of, um, how much of it is calcium, how much is magnesium,
+how much is potassium, how important is that relative to just the actual values in pounds
+per acre of calcium, magnesium, potassium in terms of sufficiency?
+Yeah. So there's, there's sort of ratios, ratio conversation is fun because there's
+people throw around a lot of ratios and it depends on, uh, the kind of tests you're taking. So for
+example, I look at ratios on both a tissue test and a soil test. I look at ratios on the standard
+tests, like base cation percentages, as well as on the pace test. So the ratios that I think matter
+the most, I, I am, um, I've always really looked at calcium to potassium as a ratio. Um, and I look
+at that primarily on the tissue test. I also look at iron to manganese. Um, there's another very
+popular one that I don't necessarily put a lot of weight on, which is nitrogen to potassium.
+But I think what you're asking is probably around the standard test base cation saturation ratio
+ratios. Is that right? Yeah. And also the soluble cation ratio. Okay. Great. Great. So yeah. So on the,
+the, the, the soil tests, um, a very common sort of like Albrecht based approach is to look at
+uh, what I call BCSR and it's the percentages of cations extracted by the Malik three and
+all over the internet on all kinds of different websites. There's these percentages that generally
+fall between like 70, 68 to 80% calcium, uh, 10 to 15% magnesium and three to 7% potassium.
+I, uh, look at those, but I don't put a lot of weight on them because I prefer when managing a
+heat based media for cannabis production, I like looking at the saturated paste test. And in that
+regard, um, I do look at the percentages, um, because what those percentages are telling you is
+balance. And so my general approach to nutrient management is you have to achieve sufficient
+nutrient levels, and then you want to work toward balance between those nutrients. So you can have a
+perfectly balanced, um, you can have perfectly balanced cation nutrients, let's say on the paste test,
+but it doesn't actually matter if there's just not enough food in that soil for those plants to eat.
+It doesn't matter how balanced it is. And so the first thing I do is I have sufficiency levels,
+um, of nutrients. And then the next thing I do is I look at those percentages and I really like,
+um, to see calcium generally at about 50% magnesium at about 20 and potassium at about 20.
+And, um, um, for those who are doing the math, that leaves 10% to be allocated elsewhere. Um,
+oftentimes that goes to sodium and sometimes it goes to one of those other nutrients just based on
+fluctuations or, you know, how you like to run your, your soil. And what I've found is that
+that's, that is by far most important. It's the most correlated to the actual tissue tests
+in general, it's correlated to, to those, those standard test BCSR ratios, which are usually,
+you know, that what sort of translates is usually about 7% potassium on the standard test. Um, I do
+not like to go above 12% magnesium on the standard test. And I always want to be above 60%, ideally
+well above 70% on calcium. And usually if you can, usually those will lead to the right soil solution
+balance, but I don't try, I don't manage for that standard test percentage because it's sort of the
+tail that wags the dog. I go right to the pace test and I look at sufficiency and balance on the
+pace test. Okay. And I want to reiterate, uh, what you, what you just said there. I think that's
+really important. Um, if the soluble salt level on your soil, your EC is, is low, like let's say you
+at 200 PPM on soluble salts, that soil, uh, it doesn't matter if it's perfectly balanced,
+you're going to run out of nutrients relatively quickly, um, versus a soil with a much higher
+EC or soluble salt level. So, um, I think that's important because I've seen some soil tests from,
+from folks where, you know, everything looks balanced, but at the end of the day, uh, if that,
+if the amount of fertility is low, it doesn't, it doesn't really matter. You're going to run out
+and you're gonna have to add nutrients and those aren't going to necessarily be balanced anyway. So
+I think that's a really important point you brought up. Um, also, uh, as you're, as you're
+looking at this, um, when we talk about hitting, uh, sufficiency first, um, just switching topics
+here. One of the things we talked about was, um, sort of luxury nutrients. Um, where do you get
+concerned about, um, sort of excesses and toxicities when we talk about our major, uh, cations and ions,
+you know, versus say things that, you know, you're not too worried if you see high levels of
+sulfur, for example. Yeah, great. Okay. So, um, every nutrient by the way is, is sort of
+a separate topic. And so they're all very different and how I look at each one, how I look at each one on
+a, on the soil test is, is, they're all different. Yeah. It's so, but to answer your question, um,
+the worst cation to have in excess is sodium. It's not an essential plant nutrient and it's simply,
+it, it puts undue pressure on the electrical conductivity and the osmotic, um, pressure that
+it exerts on, on roots. So if there's, in a perfect world, you'd have zero PPM of sodium. There's
+just no purpose. Um, but that's impossible in organic soil-based systems. So sodium as low as
+possible. That's the worst thing to have in excess. Luckily it's very mobile, so you can leach it out,
+um, or flush it out of your soil. The next thing would be magnesium.
+If it's not in your water, I want to highlight that because some people have sodium in their water
+or they're using conditioners to their water that's adding sodium. So flushing high sodium soles
+with sodium water doesn't work. Um, yeah, yeah. I just want to mention that for sure. I mean,
+the one thing about high sodium water, how you can manage it a traditional method is you accept it.
+This is the water we've got elevated in sodium. We can't filter it or whatever. So you just water,
+water, water, and then you flush because what happens is the water evaporates, leaves the sodium
+behind. And so the levels start to accumulate and you, so you can theoretically flush that out even
+with your high sodium water, but it's, it's never going to get it low. It's just going to revert back
+to whatever your water level is. Um, but yeah, to your point, you can never get it. You can never
+manage to zero if it's in your water. Um, so the next one though, I want to bring up, which is a tricky
+one in organic, uh, peat-based media is magnesium and magnesium's magnesium is, is, uh, often high,
+often excessive and it's antagonistic and it's not needed in nearly the quantity that calcium and
+potassium are in the plant tissue. Um, and it gets in the way and it can, can really create sort of
+this gentle antagonism that you're not initially going to see visually, but it's slowing down your
+plants and reducing yield and crop quality. So, um, magnesium is a tough one to manage.
+My approach is I like to set a minimum sufficient level for magnesium. And then I have a, an optimization
+algorithm that changes the level of calcium and potassium. If magnesium is high to just try to
+maintain balance, um, because those are always competing for one another. And so I'm looking at
+both the pace test, the percentage on the pace test and the percentage on the, on the Malik three.
+And like I said, I, I never apply any magnesium if the percentage is above 12%, because what tends
+to happen is when you apply gypsum, it opens up, um, and, and magnesium flows into solution.
+So magnesium is one of the more complicated things to look at and manage. Um, and it's not as easy
+when you have excess magnesium. I still think you should leach your soil. You'll see those levels
+drop, especially the soluble levels. Um, but you're never actually going to be able to pull it all out.
+The key is you just try to minimize the inputs with high magnesium. Um, I never, I, sometimes very
+rarely I'll recommend a little dolomitic lime in a real topsoil, but never in a peat-based media.
+And, um, so really the only source, the only two sources of magnesium I'm ever recommending
+might be a little bit of, um, like, uh, potassium magnesium sulfate. It's an organic mineral.
+Um, I call it Langbanite as the mineral name, but there's different trade names like K-Mag or
+Solpomag. Um, and then otherwise I think Epsom salt as a foliar is a great way to just give small
+amounts of magnesium to your plant as needed, um, based on visual symptoms or tissue tests,
+and you're never applying it to the soil to push those levels up. So I like running that a
+little bit low and maintaining, uh, plenty of sufficiency and, and more of a weighted balance
+toward calcium and potassium. Yeah. I mean, I agree with everything you said. I always run
+magnesium low in our soils. Cause I know it's so easy to add the Epsom and affordable and all we'll
+actually, you know, on occasion do, um, Epsom salt drenches, just like a tablespoon per gallon of
+water. Um, when we see that magnesium level drop, but I like the foliar idea too. Um, but, uh, yeah,
+no, that's, that's really interesting. I wasn't aware of something being something you could really
+flush very effectively. And I assume if you did, you're also going to have to add a lot of fertility
+back in because you've probably, you've, you've absolutely flushed the more mobile nutrients out
+to like phosphate, nitrogen, potassium, things like that. Sodium. Yeah. And every, everything on the
+paste test is going to be mobile because it's just, it's floating. It's not real. So when you,
+when you leach heavily, because you have an excess of something, everything is going to go down.
+It's sort of like a hard refresh. So, um, for example, like, yeah, when I, when I see something
+sodium, maybe over 45 parts per million on the paste test, the soil doctor tool will recommend,
+or my, you know, my recommendations will recommend leaching your soil and that'll flush everything.
+And then you're going to reset, retest and reamend. Um, and that over the longterm is a far
+better approach to plant health than just continuing to push now sodium, some strains. And in some
+operations, sodium is okay. It's not like, it's not toxic. It's just going to create excess osmotic
+stress on the plant. So you're getting a more, you're getting more efficient metabolism. Um,
+when it's lower, the plants having to work harder in that soil to access nutrients essentially is
+what you're saying. Correct. And there is, um, in certain crop species, like a substitution effect
+that happens where it starts using sodium instead of potassium, um, which is less efficient metabolically.
+Oh, I wasn't aware of that. That's interesting. Um, well then let's, let's, uh, let's move on to a
+couple of the other touch on some of the other minerals here. You've talked about magnesium and
+sodium so far. What's, uh, what's another one that, uh, you've talked about two relatively,
+you know, antagonistic ones that we want to monitor. Um, what, what's another one you want to
+sort of discuss? Yeah. Well, and the other thing just to mention on these cations is a lot of them
+are influenced by more than the levels and the balance they're influenced by vapotranspiration and
+irrigation technique and a root size. And so I can't stress enough that it's really, really,
+really valuable to, to use tissue testing to validate because oftentimes you can have enough
+calcium, but you don't see enough in the plant and it's a different issue. You need to address
+entirely like watering, um, or maybe a relative humidity or your VPD. So tissue testing is really
+a good way to, to make sure that there aren't other issues with nutrient uptake. Um, but to talk
+about other nutrients, I mean, I, nitrogen is a fascinating one. Um, in the sense that I do think,
+um, of, of all the nutrients, I generally recommend maintaining fairly stable concentrations. That's
+the goal in organic production. Um, you know, there's a lot of things happening. The microbes
+are breaking down amendments and releasing nutrients. The plants are uptaking them. Nutrients are being
+sort of leached to the bottom of your beds, um, when you water. So there's a bunch of different
+things happening, but the goal should be to really try to maintain consistent levels, sufficient levels
+throughout the entire round of most nutrients. But nitrogen is a little different in the sense that,
+um, it's going to be taken up quickly and in high quantities by the plant. And generally speaking,
+I like to have, um, you know, high, but not excessive levels through veg. And I like nitrogen levels to draw
+down through veg, um, to sort of, to change the carbon and nitrogen balance in the plant with the theory
+that you're sort of optimizing quality or terpene expression, um, with lower nitrogen levels. It
+doesn't, doesn't mean zero nitrogen at all. Cause you still need nitrogen for plant metabolism and
+protein synthesis and flower development. Um, but a lot of that nitrogen is actually being moved from,
+from the plant's existing tissue. So there's already a lot of nitrogen that's taken up,
+um, through the plant cycle that the plant is then using in flower. Um, and so nitrogen uptake
+really goes down and, uh, you can, you can create some issues by running nitrogen too hard,
+too late in flower. And so that is that, that one is interesting to me because, um, I do think
+that should be measured and it should be managed a little bit differently, um, by not necessarily
+maintaining this, the same concentration through the entire cycle.
+Yeah, we do see that, you know, when you have high nitrogen, you'll see, uh, you'll have very like
+marfy plants that just won't yield and there'll be super dark green. Um, we, we do see it, uh, but
+rarely because most of the time we can control nitrogen through flushing. So if you do have too
+much nitrogen, it's pretty easy to lower it. Um, but one question I did have for you, uh, that we
+didn't, we didn't answer, answer was, um, for people who do want to flush, how much water do
+you recommend by volume, um, to run through an average soil? Well, so one, one thing about flushing
+is I don't think it's great to do in the middle of a round. Sometimes you have to, if you have a
+really good draining soil, um, then go for it. But I also think that if you, it can create more harm
+than good. If you, if your soil doesn't necessarily have high drainage capacity, I like to wait until
+after you harvest to leach. Um, and there's no magic way to do it. I mean, one way to do it is
+you just water your beds, your pots, and you just measure the EC of the runoff. And I generally say
+just wherever your EC is, keep watering until it's 50% of where you started. Um, that's one method.
+The other method would be to, I just say like water until like six inches or 12 inches run out
+of the bottom of the pots or the beds. It really depends on the severity of what you're dealing
+with. So if you, if you are, you know, you failed for heavy metals or if you just have,
+if you have 150 PPM of sodium on the paste test and you just want a, and like I said, a hard refresh,
+then, um, just, just really go for it until you get a foot of runoff or something. Um, so it really
+kind of depends on the severity. There's no magic number that necessarily it's really, really depends
+on, on what you're trying to do. Yeah. I guess for me, the situations where I may want to leach
+mid round is where I get a soil test back from a commercial grower. Who's, you know, mid flower
+plants aren't developing. I see on this test, they've got 300 PPM of nitrates in there. Um,
+I, I, I feel like, and then I'm going to have a conversation like, Hey, we're going to get a
+yield, but it's not going to be the yield that you want. Do we stress the plant by overwatering
+it where it's going to, you know, you're, you're, you're potentially impacting the biology of the
+soil. You're killing some, some root hairs. Um, you're, you're causing plant stress, but you're
+going to lower that nitrate level. What's better, I guess, is the scenario there. And what would your
+thought be with a hypothetical like that? You know, I think if you, it, it just totally depends
+on the composition of the media. If it's like a horizontal system or something that just, I don't
+know, something that's not, well, that's not true. If there was a horizontal system, I would still,
+what I would probably recommend mid round is to do a slower leaching event. So to do like multiple
+pulses that are sort of pushing the water like this, but still pulling air into the profile between
+each leaching event. So instead of just one, like, you know, four hour irrigation set, I might just
+say water to run off six times in a row. Um, that's one idea. I don't know what I would do.
+One day or would you? Okay. Are, are, are many people doing a horizontal system? Honestly, I don't,
+we don't work with anyone that grows like that. I know it's somewhat popular online, but I feel like
+the challenges with watering, like you mentioned, and, and fertility sort of moved me away from it.
+I know that several people who have received soil recommendations from me are using it, but I'm
+not, um, actively engaged having conversations with them on a weekly basis. But yeah, I think,
+I mean, I've heard a lot of people doing it. Um, I also just think like I've mixed media doing tests
+that is extremely porous and I've mixed the media where I incorporate five or 10% of my topsoil from
+my farm and changes the drainage dramatically. So yeah, I mean, I think you can reach, I just get
+a little bit nervous about it because, um, everyone has a different situation, but I think in pots,
+when you have a true heat based media and pots, I think drainage is fine. You just water until you
+get heavy runoff and there's no issue whatsoever. But I think it's something to be aware of. I just
+want to mention it. No, that's a good point. I think, uh, just for listeners, like if you're,
+if we're talking about pro mix, that's a very different conversation than talking about something
+that's, Oh, I don't know. Like you said, has actual topsoil in it and is some sort of horizontal
+system. That's not going to drain the same that you're going to have some perched water challenges
+and other things with water movement through the media potentially. Yeah. Okay. Well, enough on that.
+Let's move on. Um, was there anything else? I know we could probably do a whole podcast just on
+nitrogen, but was there anything else you wanted to touch on besides the fact that, uh, night nitrogen
+really needs to be managed and you can absolutely have too much. Um, wow. There's a million things
+we've talked about. Uh, amino acids are interesting, um, to me from a nitrogen standpoint. Um,
+and I just think that, that the only other thought I want to throw out there for folks
+is when you're, when you're using organic nitrogen amendments, all of them, including amino acids have
+to go through the nitrogen cycle. Um, I, I think maybe even on the last podcast here for the last
+several years, I generally thought, um, and I had been told, um, from other experienced agronomists
+and consultants that that amino acid uptake is much more metabolically efficient and it saves the
+plant the enormous amount of energy because the plant doesn't have to convert nitrate back into amino
+acids to create plant tissue, which is using the amino acids directly. And my thinking on that has
+actually evolved quite a bit. And I don't actually think that plants are uptaking amino acids in
+significant quantities at all because, um, the, well, I've done, I've reviewed a lot of, of the research
+on amino acid uptake. And I actually think most of it's getting converted into ammonium and then nitrate
+the plant takes it up and then it gets converted back into amino acids. So it is true that theoretically
+you get a huge metabolic savings if the plant uptakes amino acids. But my belief is that the
+microbes feed first in the soil. And so they're going to take that, those amino acids and convert it,
+um, into nitrate. The reason I like amino acids is because of the particle size, either they're in liquid
+form or they're in a powdered form that you can feed and they're, they're very quickly available.
+And so it really gives you more control as a grower when it comes to nitrogen management.
+Um, and I also want to mention that all organic amendments are amino based, they're all protein
+based. So they're enzymatically broken down into amino acids. Um, and so even when you apply
+alfalfa meal, that is a sort of amino based source of fertility. It's just a much larger particle size
+that takes longer to break down in the soil, uh, microbially. So that's sort of an interesting,
+um, thing to me. I think more about particle size than I do about, uh, the source of the nitrogen,
+whether the label says amino acids or whether the label says soybean meal, for example. Um,
+and so my, my thinking's evolved on that a bit. I don't know where I was going with that other than,
+oh, the nitrogen cycle. So the other thing I think growers need to think about is when you apply a
+huge amount of amendments, um, organic amendments, that microbial action that breaks those amendments
+down is consuming a lot of oxygen. So the reason that it's usually pretty intuitive and pretty,
+uh, well understood that you should let your soil cook before planting, um, is because
+all those amendments are turning into ammonium before they turn into nitrate and ammonium is
+really not a preferred plant available source of nitrogen. So that's the one thing, but in that
+process, those microbes are consuming a tremendous amount of oxygen. And that's a huge challenge for
+growers because people are trying to flip, you know, into the next round as quickly as possible.
+And sometimes you don't have three weeks to let your soil cook or let those, those amendments
+break down. And so honestly, if you can never let your soil get so depleted that you're applying
+enormous amounts of those organic amendments, that's the best solution. Um, you're just kind
+of constantly either top dressing or feeding, um, nitrogen as the plants need it. And you never let
+your, your nitrate get to two PPM and have to apply like massive amounts of any of these
+amendments. Cause once you plant into it, those young plants are not going to like the high
+ammonium, low oxygen environment.
+That's interesting. Cause the way I've always described it and correct me if I'm wrong on this,
+but, um, my understanding is as we add a lot of, uh, nutrients, you know, in this case,
+we're talking about nitrogen. Um, one, I've noticed that different, uh, nitrogen sources
+will create different microbial communities and different sort of bacterial blooms. Um,
+certain things are, seem to be more balanced from a microbial perspective, like alfalfa meal
+versus some of these other amendments. But, um, I've always described it as, um, sort of like the,
+you, you add all these nutrients, you've created this feast for all the bacteria, archaea, fungi,
+protozoa in, in the soil. It's an, the bacteria, it's sort of an exothermic reaction. They're generating
+heat as they reproduce. And that's creating this, you know, it's essentially thermally composting
+your soil and plant roots also don't like a lot of that temperature and they may not be able to
+access the nutrients as efficiently. Like you said, the microbes feed first. So even if there's
+sufficient fertility in that soil, if the bacteria is actively like reproducing, um, at high levels,
+then those nutrients aren't going to be available to the plant. And you could see, um, deficiencies
+expressed in the plant, even though we'll probably due to, like you said, excess ammonium,
+uh, root hair death from, uh, soil temperatures, uh, lack of oxygen. So a variety of factors
+potentially affecting it. So what we try to do is like you said, you, you have high fertility in the
+soil, you go to reamend and by having a larger volume of soil, like in a bed, when you go to
+reamend, you don't have to add as much nutrients as you would to that same volume of soil if it was
+grown in like a seven gallon pot. So we don't have to, it's not going to heat up. It's not going to go
+through quite those extremes. Um, and it doesn't need to sit as long too in, in my experience.
+Yeah. Yeah, definitely.
+Um, okay, cool. So, uh, just to keep things moving along here, um, what are some of the
+ones that you aren't concerned about? You know, I had mentioned sulfur as sort of a luxury nutrient.
+Um, what are some other ones that you're like, okay, there may be a little too much here,
+but I'm not too concerned. Yeah. Well, if I had a magic wand, I would reduce sulfur. Um, just
+because again, it's, it's putting on new pressure on EC, but there's no, but besides that, I have
+no issues with high sulfur. And I actually just think it's, um, if you, if you're, if you're in
+order to get high calcium and high potassium, you just sort of have to use, you're going to see high
+sulfur and that applies to compost too. Like you're just a lot of compost, you're going to see high
+sulfur. So it's a bit unavoidable in most organic systems and it doesn't create real negative effects
+in the plant. But like I said, if I could just wave a magic wand, I would reduce it because it's,
+it's, uh, it's in luxury levels and it's putting upward pressure on EC.
+I let's see other nutrients. I mean, I really like high levels of calcium. I've always liked
+running high levels of calcium. Um, I've never seen real negative effects from that. I have always
+liked, um, I don't want to, I don't want to say high levels of any micronutrient because that can,
+you can run into issues, but compared to other crops and, um, other just sort of target levels
+of nutrients. I generally like slightly high manganese. And when I see luxury levels of
+manganese, I'm not too worried about it as long as it's not surpassing iron. And as long as the
+tissue test isn't showing anything super out of whack, um, luxury levels, I mean, potassium, um,
+can be pretty high without concern, especially, um, again, as, as long as the calcium levels are high
+enough on the tissue test and weak to a flower, I think having pretty high potassium levels is not
+a problem whatsoever. Um, and I think that's about it. I don't think I want anything to be
+too excessive. And even the things I just named can be excessive. I literally just looked at the
+soil test and I recommended, um, leaching because potassium was too high. So I'm, I'm sort of putting
+my foot in my mouth, but I think those three nutrients generally, I like to see in pretty
+high levels that cannabis plants generally respond well to high concentrations.
+So some are just more concerning, I guess, um, in terms of their detrimental or negative effects
+at high levels versus others that you're like, okay, it's high, but you're still going to get a
+good crop out of it. Absolutely. Exactly. Exactly. And obviously we're talking about like,
+it depends on how high, but yeah, I mean, there's a pretty big range, I guess is my point that,
+um, the plants will do pretty well. And I think the, yeah, I mean, it's not like chloride or sodium or,
+um, copper. I saw copper at 60 parts per million. I'd be really worried.
+That makes sense. Um, well, let's, let's talk a little bit about, um,
+let's do some, let's talk about, uh, some of the stuff you have going on here because,
+you know, we've given out a lot of information here. You have other resources available
+through soil doctor consulting. Um, what are some of those things that people can utilize you for?
+Yeah, thanks. So, um, pretty much my two major offerings of things that I obsess about every day
+and think about all the time. Um, last year I put together a course called Become a Cannabis Soil
+Expert. And it, it includes, it's a course that includes over 12 hours of self-guided video content
+that details really everything about organic nutrient management in cannabis. Um, so growers
+can come, become more self-sufficient in managing their nutrition in-house. And so I put a lot of time
+into that. There's a number of different modules and dozens of videos that really just dive into the
+fundamentals of, um, techniques and soil targets and plant tissue targets and how to amend soil and
+essentially write their own program, um, taking control and having the confidence to do all this
+stuff organically, uh, in-house with data and precision, which is something that I think has been
+lacking, um, in the industry for a while. The other thing that I've been working on obsessively,
+every single day is this soil doctor tool, which is a, it's a, it's a digital, I'll call it just a
+tool, um, that's intended to sort of be a digital agronomist for nutrient management and cannabis.
+So growers enter a few pieces of information about their, their grow along with soil tests.
+And the tool spits out a precision organic nutrient recommendation to assist in making, um,
+a decision about what to apply to your soil and in what quantity. Um, and it uses a fairly complex
+mathematical model to really determine the rates.
+I want to dive into that, but I don't want to gloss over your soul course. Um, I want to talk a
+little more about that, uh, before we move on, because I've, I've taken the course. Um, I think
+it's probably the best online tool for cannabis growers that want to understand how to properly amend
+your soil, how to soil test, um, what the different amendments are and how to utilize them in your
+soil. Uh, you give a lot of information in there, um, and the ability to comment on the modules, uh,
+all the, all the short videos. Um, I was able to do it over a period of a few weeks, um, just kind
+of diving in and watching a video here and there when I had time, kind of letting it mull over and
+process and then coming back to it, asking questions and things like that. So, um, yeah,
+I, I don't want to just skip over the fact that this is a pretty comprehensive course that you've
+put together. I know it took, I, as someone who's working on putting together like a botany course
+and some other tools, I know how much work went into that, uh, to create. Yeah. Thanks. Thanks for
+your, thanks for your positive words. The positive feedback I've gotten from you and other growers has
+been really humbling. So I appreciate it. Yeah. Are you adding to that at all? Or what are some
+of the things that you've, I know you've gone back and made some changes as you're learning too,
+which I think is really cool. Um, yeah. So I added, yeah, I added a topsoil module. So there's,
+there's, there were originally five modules, um, probably 10 hours of content. And I added a sixth
+one on, on outdoor cultivation. And so, which really was my bread and butter, um, years ago.
+And so I just kind of go into the different tools, techniques, cultivation techniques,
+irrigation techniques, and ultimately nutrient management methods for outdoor topsoil. And that
+was the biggest addition in the last year. And then I also go through and I, yeah, I update things as I
+learn more. I change some of the target levels as I, as I go. Um, I try to do that on a six month
+basis and I only update the course when it's codified. I'll change things in my, um, my agronomic
+model or my consulting practice a little bit. And I'll let that run for six months before I update
+the course. So the course is sort of the encyclopedia. Um, and I try not to update it too much,
+but I'm on there constantly. As soon as someone, um, if someone asks a question or if there's any
+conversation happening, I'm, I'm on there, um, that day within 24 hours. So the updates happen
+usually on a six month basis. Now I would say I'd be curious to hear Tad for listeners on a scale of
+one to 10, what, what is the technical nature of the course? Would you say 10 being very technical,
+very advanced growers, only one being beginner growers who have their, you know, are in their
+first cycle in a 10? That's a great question. I think it's a sliding scale a little bit. So like
+the first section of the course to me was sort of information I already knew, um, and no offense,
+but it was, you know, it was, it was fairly basic in nature just to give you a overline or an outline
+of, of sort of what these different amendments are. Uh, you know, what are your options for
+nitrogen? What are your options for, for phosphorus, potassium, these sorts of things. And then as you
+get further into the course, it gets, you know, it gets sort of as technical as you want it to be,
+um, in a lot of ways. Um, the audience that listens to this podcast is, is pretty savvy and pretty
+technical. Like I, I, I, you know, I, I've interviewed geneticists and neuroscientists and,
+you know, people like yourself that are experts in their field. And so I feel like, um, I'm kind
+of dancing around the answer here. Uh, I think this course is for anyone who's really passionate
+about soil science and wants to understand the why, because it's one thing to be able to,
+um, you know, take a soil test and send it off to a consultant or plug it into a calculator and get
+a result, but it's another thing to kind of understand what's actually going on so that you
+can make actionable decisions. So, um, I throw it like a, I guess overall, maybe a seven or an eight.
+So where I think it makes sense is either you're, you're a hobbyist and you're super passionate about
+soil science and gardening, or if you're a commercial cultivator that's using organics and not working,
+you know, closely with an agronomist or a consultant, um, or a company that can do those
+things for you, then I think this is knowledge you absolutely need to have. Um, and, uh,
+I think that's my answer. I will add that it's, you know, it's not, uh, it's not a low price point,
+um, of entry. It's an expensive course because of the amount of time and energy and research that
+goes into it, not just in creating it, but learning the material to be able to teach it.
+Um, but I think that's very affordable when we talk about, um, a commercial, uh, cultivator.
+Um, for a tent grower, it may not be, uh, it may not be in the budget unless it's something
+you're really, really passionate about. Does that kind of answer it?
+Yeah, no, I appreciate that. I, I, I'm, I have that curiosity cause I don't know, you know,
+what level it's at to other people, but I also think I asked that just cause I wanted
+maybe to highlight the fact that, yeah, it's for, it's for passionate growers.
+It's not, it's like, it's not necessarily a dabbling course. I don't think, um, maybe the
+first module is like you said, no, not at all. Like, I think you're, I think you're right
+on. It is, um, it is challenging. It makes you think it's like taking a course in sort
+of soil science with an emphasis on soil testing. And I think, uh, soilless media in a lot of
+ways. So if, if you want to, if you want to understand why the local agronomist doesn't
+give you a good recommendation for your cannabis grow, because they're looking at, you know,
+a Logan soil test and trying to understand why your potting soil is performing differently.
+Well, this would explain it to you. Yeah, great. Um, yeah. And it covers, you know,
+like liquid feed recipes and foliars and various subtopics, but really the, the,
+the, the basis and the meat of the course is organic soil based, or I guess we should
+peat based, uh, cannabis cultivation. So I think people often ask, like people, people
+often ask, would it benefit me if I'm on, if I'm not an organic grower? And the answer
+is some of the principles, the principles, absolutely. But all of the targets and the
+general, uh, approach is definitely an organic approach. Um, I don't really talk about urea
+or, or, you know, polymer coated fertility. It's just, it's, it's very much an organic
+based approach. Um, so anyway, that's a, that's a good point. Yeah. Um, okay. Well,
+I'll let you move on to explaining the, the tool now. Oh yeah. Okay. So the tool is sort of
+an extension. Yeah. It's the tool is an extension of this general philosophy that, that comes
+from the course too, which is tests. Don't guess. Um, you know, my, my approach with the
+course and with this tool, um, is to recommend only what's needed to improve plant metabolism.
+So this tool, you know, you enter information about your grow, um, your soil tests, and it,
+it does this complex mathematical calculation, um, to determine amendment rates. And it's
+the opposite of the traditional kitchen sink approach in which we throw every bio stimulant
+enzyme, ferment, microbe, and nutrient at the plant and hope for the bend the best. So you
+can still, growers can still do that. You can apply your special sauce, whether that's a fungal
+compost extract or a high end silica foliar, a micronized calcium or KNF ferment, whatever,
+in addition to the amendments from the tool, but the tool is really supposed to hit the low
+hanging fruit. And it does so with data and precision because this, the industry has always
+been so full of like, you know, blood blaster RX for terpenes or bio catalyze for microbes or
+whatever fulvic biochar sprouted cow mag foliar. So, you know, I, I do, you know, I do a lot
+of things in my, when I grow cannabis and in my orchard that are beyond just the bare minimum.
+I had, I love a lot of that stuff, but I guess my point is you have to start with the fundamentals
+first. You have to make sure that nutrients are sufficient, available, balanced, um, before
+all of that other stuff. And so this tool is really intended to make very accurate recommendations
+to make sure that all of the macro and micronutrients essential for the plant are in your soil in the
+best way possible. Yeah, that's, I think that's, I want to go back and highlight what you just said,
+because that's so important. I see companies marketing product-based grow methodologies all
+the time, you know, like add this product, add that product. Um, and you can absolutely do that.
+And, and like you said, you can use all of these ferments and other things, but at the end of the
+day, if you don't have sufficiency in your major, your, your major nutrients, uh, it's, it's not going to
+matter that that's going to be your limiting factor of growth. So I always start with what's my limiting
+factor of growth. And if it's fertility, I want to figure out what cation or anion it is. Um, and then
+if, you know, you apply some sort of pumpkin extract and you get a plant response, I want to figure out
+why, rather than continuing to buy a product that's, you know, mostly liquid and probably
+overpriced. I want to know what, what is in there that's making a difference. Cause it means you have
+something that's limiting your plant's health or growth. Um, and so, uh, start with sufficiency,
+start with a good foundation, like you said, and, and something that's interesting. Cause
+when I first started, I started off using these soil calculators. The initial ones were based off
+of, um, getting, uh, nutrient density. So not necessarily optimal yields when we talk about
+cannabis, but just an overall sufficiency of our, our, our, not even sufficiency, but higher levels of,
+of nutrient fertility to make sure that that grown edible crop is going to be, um, healthier sort of
+the Steve Solomon's approach essentially. And I found it works. It works. Okay. It works fine.
+And, and you get, you get some good information from there and those calculators, you know, are not
+bad. And then there's, I've seen other calculators come out, um, for cannabis too, but for me, there's
+more information I want than just what's on a soil test when I'm evaluating a garden and trying to
+make amendment recommendations. And, you know, the, the tool that you put together, uh, has other
+variables, um, associated with that. And, and so can you kind of talk about what those are and why
+they're important? Yeah, sure. So when I think about, I'm just want to step back. And when I think
+about photosynthesis, I think about light, I think about CO2, water, temperature, and nutrients. And
+this tool is only focused on the nutrient part of it, helping growers understand and apply nutrients
+in a better, more precise way to focus on that bottleneck of photosynthesis. So if your environment's
+off, this tool isn't necessarily going to help. Um, if you're not watering correctly, this, this,
+this doesn't, it's not going to address that. And I think that you've been really good, um,
+at pointing out that this isn't a panacea for growing. It's not like an automated, you know,
+it's not going to solve all your problems, but the idea here is it's focused on nutrient
+management. So the variables, when you go into the tool, you set up an area and you choose whether
+you're indoor or outdoor, because that matters. You also choose your cycle length because the tool
+changes nutrient levels slightly, depending on if your plants are going to be in the soil for
+less than 12 weeks or longer than 16 weeks. So for example, the nitrogen amendment quantities
+are increased a bit for a long-term or full-term crop versus a soil intended for like a nine-week
+flower. Um, I'll add that the difference here is relatively small because like I said, I like to
+maintain, um, concentrations as opposed to trying to preload too heavily. Um, but there's a happy
+balance that the tool is trying to achieve there. It also, it also asks you for your soil volume,
+which is a big deal as anyone who's grown in a seven gallon pot versus a 30 gallon pot.
+Um, there's a difference there. And the tool actually out takes your soil volume and it outputs
+the quantity of amendments for your entire soil volume, as well as per just a, you know,
+a cubic yard of soil. So you can kind of choose, um, which, which way you go there. And then it also,
+when you're setting up an area, ask for, uh, your compost. And this is an interesting conversation
+that we've had to add. Compost might be the biggest variable in living soil nutrient management
+because all composts are wildly different. So the tool asks for the nutrient levels on the compost,
+um, from a compost analysis, which most growers don't have, and that's okay. And if you don't have
+it, it asks for what the compost is made out of. So at least it can make an estimate. It can model
+the nutrient numbers based on the feedstocks of that compost. Um, yeah, so yeah, go ahead.
+I just want to add to that. Cause one of the things we're going to talk about was soil recipes,
+but I don't think we have time, but the one thing I want to highlight there is that, uh,
+I see people in forums still all the time saying, Oh, I'm going to run Mike's mix or John's bloom mix
+or whatever. Um, but really all of these online soil recipes are going to be somewhat inaccurate
+just because they're all going to be sourced from different compost. So if you really want to
+formulate a soil or, you know, a, a potting soil or a media correctly, it needs to start being
+formulated around what fertility is in your compost. So just wanted to throw that out.
+Yeah. A hundred percent, uh, a compost made out of, um, fish and hardwood aged for a year versus a
+compost made out of yard waste turned six times in six weeks in middle America versus a compost made
+out of lobster waste on the East coast. The, the, the nutrient profile between those three is
+striking. The difference, the difference in the nutrient profile is striking. So yeah. Um,
+and then, and then the only other thing that you would enter in the soil doctor tool in the area
+section is, is your preferred nitrogen sources. So growers get to choose up to four nitrogen amendments
+that the recommendation will use. Um, our default is usually to use for soybean meal, alfalfa meal,
+granular poultry manure, and blood meal to optimize nitrogen release rates and microbial diversity.
+But it doesn't really matter, honestly. Like I think the most important thing is for growers to do their
+own research and choose the best sources of nitrogen for their operation and for their values. Um,
+and there's very subtle pros and cons of nitrogen sources, but the point is that people can customize,
+um, the output a bit based on their amendment preferences. Um, so yeah, I mean, the inputs to the
+model are taking as many things as possible that influence nutrient management and trying to account
+for those and trying to change the recommendations and trying to, um, model the entire nutrient system
+in a, in an organic, um, way and use data from both the standard and pace test to spit out a, um,
+calculated recommendation as a guidance tool. So I always, I like to tell people that the
+recommendations are, are guidance. It's like, okay, based on all the information I have, here's
+the best advice I can give. Um, and you get a fairly comprehensive recommendation with notes about
+the soil and precision, you know, recommendations and a bunch of tips about how to apply the amendments.
+The report is, is pretty awesome. Um, and so that's kind of what I've been working on.
+And honestly, for it's like five years in the making, cause I've been, I've just gone so deep
+into this that, uh, there's just a lot of, you know, dozens of conversations. And I think I've
+looked at like 5,000 heat based soil tests and done calibration experiments and, um, taken just
+classic economic, um, research and, and all tried to incorporate it into this, this one tool for
+growers to use. Yeah. I, I had looked into doing something like this years ago and frankly, I just
+realized I didn't have the brain power to, uh, calculate for all the variables that I really
+wanted to in a, in a, in a tool. And you've gotten more in there than anyone else I've seen. Um, it's
+pretty, it's pretty impressive, honestly, um, that you were able to pull that together. Yeah. And I
+will say like, um, you know, when I, when I sit down with a grower or Brandon who works with me,
+um, on that, we'll look at, you know, because, because we're having a conversation with the grower,
+we can, we have them send us photos and we look at videos sometimes of their grow space, or we'll look
+at, um, you know, can we look at photos of the plant, uh, up close if you're having challenges
+plus, uh, you know, entire, the entire plants we can look at for hidden and mobile nutrient issues.
+Uh, um, you know, we check on what their environment is, all of these different things
+that can affect, again, just trying to figure out what that limiting factor of growth is.
+Um, and if it is indeed fertility, but barring the ability to do a full on like
+comprehensive console, which is something that you offer too, if people want to go down that
+route, I think this is the best available online tool out there. And if I were, if I were a grower
+and just looking to get, you know, I had a soil test and I needed to get a result, um, and I wanted
+to do it affordably, I would absolutely use, use your soil doctor tool. I think it's, I think it's
+awesome. So. Yeah. Thanks a lot. I appreciate it. And it's one of those things where it's like,
+I sort of leave it up to head growers or you and Brandon or IPM experts to like really identify
+the top latent environment or, you know, like a watering issue. There's so many things I just
+can't address. I can't address all of it. So the tool is really intended to be, it is intended to be
+like just focused on one specific area where you guys could use the tool in your more holistic
+analysis. So it's not, yeah, I wouldn't call this a holistic agronomic tool. It is a nutrient
+organic nutrient management tool. So. Yeah, no, that's, that's great. Um, well, we've already
+been talking for over an hour here. Uh, I, I could, I could talk to you all day. Honestly, I love all of
+our conversations. I always learn something new. Uh, was there anything else you wanted to share
+though, before we, uh, before we sign off? You know, I don't think so. Um, yeah, we could,
+we could go on and on. I feel like we do sometimes, um, even in preparation, you called me, asked me to
+come on and we ended up talking for an hour. So it's easy to burn an hour talking about these topics.
+Um, but no, there's nothing else that's popping out in my head. I think, um, something I've been
+really excited about and thinking just more about in general is just particle size of amendments. Um,
+and there's always the topic of water and pH adjustment, but I think we actually addressed
+that in our, in the last podcast. And I'm happy to, to chat about that at a later point on a,
+on a live video or another podcast. Um, cause those are big topics.
+Yeah. I'd love to get you back on. I mean, lately what's been on my mind is, uh,
+watering as well. Um, I think that's always something that I'm always thinking about.
+Uh, you know, I mentioned, I just got a bunch of house plants and so I'm learning how to water
+differently for different plants and different media, which has been really interesting. And then
+also, uh, heavy metals, just, um, there's so much there that we have to learn. And there's so many
+variables that affect heavy metal uptake that, um, I, it's one of those topics that I just, I keep
+learning more and more about. And, and I'm, I'm interested anymore. Cause I also think about my
+health. Like I mentioned this the other day on a podcast, I was in, I was in Costco the other day
+and I was, um, looking at some, um, organically grown, um, what was it? Uh, trying to remember
+the vegetable. It might've been, um, let's just, let's just say, uh, tomatoes. Uh, so I was looking
+organic tomatoes grown in Mexico versus, uh, greenhouse grown tomatoes conventionally
+grown in California, which is actually going to be healthier for my family. Um, those ones
+in Mexico, I don't really know what the heavy metals levels are. Um, they probably weren't
+a ton of pesticides applied necessarily, or other, um, inputs that I might have issue with
+on that greenhouse or hot house grown tomato. I don't know. Um, it definitely, I'm definitely
+thinking less in terms of organics versus like conventional and more in terms of like
+healthy and sustainable, if that makes sense. Yeah, absolutely. Yeah. I mean, I, I think a lot
+about nutrient density. I always have, again, Steve Solomon was, I find a major like pioneer
+in that space for me. Um, I got started with his book probably 10 years ago or something.
+And it is just such a, it is such an important thing. And I'm curious if ever in our lifetime,
+we're going to be able to quantify that. It'd be really nice to know. The other thing I think a lot
+about is because I know how crops are grown, um, a lot of them, not all of them, but sometimes I know
+what's more likely to be sprayed and what's not. So like, you know, strawberries, for example,
+always freak me out. I tend to, Oh yeah. Yeah. Tend to, uh, but, but like sometimes, sometimes I
+think that's like a pretty pest and disease free crop. So yeah, there's so many, it's a,
+it's a very complicated world. Um, when we start importing food.
+Yeah. Well, I, again, I appreciate your time. Maybe that's another conversation that people are
+interested to. Um, cause it's something I've been thinking about a lot as well.
+Let me, let me leave one more thought for the cannabis community as prep, you know, in like
+this, this era of sort of low prices and a contraction in the market and things you mentioned
+Costco. And I think three years ago I did a big fun project with a massive organic blueberry
+farm in Pacific Northwest. And I did this big analysis and spent many days on the farm, walking
+around their blocks, huge farm. Like I got lost. I couldn't find the exit of the farm.
+Um, and they were, their fertility budget was a thousand dollars per acre. So they were
+spending a thousand dollars on organic inputs, liquid fish, hydrolysate, gypsum microbes, like
+a lot of the stuff that we use. And I was blown away because a thousand dollars per acre is
+a lot. And when I asked him about that, the, the farm manager, he just made it really clear
+that when you're growing a high value crop, you can't skimp on your fertility budget.
+And that's not to say have an unlimited fertility budget for cannabis production. I'm not saying
+that because I am a fan of precision and not throwing the kitchen sink at it. But I also
+think people should forever be thinking about fertility and inputs and really focusing on nutrient
+management when you're trying to achieve a high value crop of any kind. And so I just want to
+leave it on that note, because I think that other, um, agricultural crops have really figured that out
+and they don't ever skimp on their fertility budget in a premium market, even when prices are low.
+Yeah, that's a good point. I mean, for me, when I think about that, I think about my inputs
+being high quality in the sense of like, I'm not going to buy a shoddy biochar or cheap earthworm
+castings. If I can find a higher quality source, I'm willing to pay a little extra for it to know
+that what I'm getting is going to offer me all the benefits of what that product is. Um, cause we do
+see a wide variety of, and again, it comes back to compost. Like compost is one of those things I will
+not skimp on. Soil is one of those things I will not skimp on. Um, if I'm looking at two different
+alfalfa meals, uh, you know, or fish meal or something like that, I might go with the lower
+price one or gypsum. If I can find a cheaper version of gypsum and you know, they're relatively
+similar, then I have no problem saving money there. But yeah, I mean, good soil makes growing fun.
+I can't say that enough. Go high quality and then use precision to just, to just apply only what you
+need and save the money and not applying excessive things, but apply high quality things because in
+a, in a living soil system or when you're just reusing your soil round up to round, um, or if
+you have a top soil where it's not going anywhere and your kids are going to inherit it, the quality
+does matter. And the microbial communities over time really do respond well with that. So I agree
+with you. Awesome. Awesome. Yeah. Don't fall for the marketing hype that you see all over social
+media these days. Uh, it drives me nuts. All right, man. Well, hey, have a wonderful rest of your day.
+Thank you for your time. And, uh, let's do this again sometime soon. Thanks so much for having me
+on, Tad. That was Bryant Mason of Soil Doctor Consulting, and you are listening to the Cannabis
+Cultivation and Science Podcast. Don't forget to check out the podcast page at www.kisorganics.com.
+Just click on the learn tab, then podcast, and please take a time to leave us a review. If you
+listen on Apple podcasts or other platforms, I do read them all and appreciate the feedback
+and more reviews help us rank higher. So others can help find the show. Thanks for listening.
+Bye-bye.
+Bye-bye.

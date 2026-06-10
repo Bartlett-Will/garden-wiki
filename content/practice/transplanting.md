@@ -2,9 +2,9 @@
 title: Transplanting
 aliases: [transplanting, repotting, potting up, root scoring, progressive potting]
 tags: [practice, transplanting, root-care, plant-care]
-sources: [ep-041]
+sources: [ep-041, ep-071]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-09
 ---
 
 # Transplanting
@@ -51,6 +51,21 @@ When you pull a root-bound plant from its pot, the roots are circling the outsid
 Unlike stems, which have a node/internode structure and can only branch from nodes, **roots branch from any point where they're cut**. There's no node structure in roots. Wherever you sever a root, new lateral roots emerge from the cut end. This is the same biology behind [[pruning-and-training|pruning]] responses in stems, but without the node constraint.
 
 A scored root ball quickly sends new roots outward into the fresh soil of the new container, rather than continuing to circle within its old footprint.
+
+## Root Girdling
+
+Scoring isn't only about redirecting roots outward — it prevents **root girdling**, a slow strangulation that develops when circling roots are left intact through successive repots.
+
+Here is the mechanism [[dawn-marshall|Don Marshall]] describes:
+
+1. Roots increase in **girth** over time, thickening from a **lateral meristem** (a layer of dividing tissue around the root's circumference), the same way a stem thickens.
+2. When two roots cross and both keep thickening, they press against each other.
+3. That pressure crushes the **vascular tissue** — the xylem and phloem that carry water up and sugars down — inside the pinched roots.
+4. Water and nutrient flow through those roots is choked off, starving the growth they were supplying.
+
+The analogy is a stake tie left on a stem: as the trunk grows in girth against an un-loosened tie, the tie girdles the stem and cuts off flow. A circling root does the same thing to its neighbors from the inside of the root ball.
+
+This is why scoring matters at **every** stage of repotting, not just the final one. Cutting circling roots before they thicken and cross gives each root room to expand into new soil instead of strangling the ones beside it. A root ball that looks impressively "full" — roots wrapped densely around each other — is often already girdling itself, not a sign of health.
 
 ## Media Boundary Effects
 
@@ -99,6 +114,7 @@ If the roots look unhealthy, address the underlying cause (usually [[watering-an
 - Never jump from a small container to a large one — progressive potting keeps soil volume matched to root mass
 - Root scoring requires four vertical cuts plus one across the bottom, and you should be more aggressive than feels comfortable
 - Roots branch from any cut point (unlike stems, which only branch from nodes) — scoring forces outward colonization
+- Score at every repot to prevent root girdling — circling roots thicken and strangle each other's vascular tissue, like an un-loosened stake tie on a stem
 - Media boundaries between old root ball and new soil can block water movement — rough up surfaces, keep root balls moist, and use compatible media
 - When planting in the ground, mix native soil into the backfill to avoid creating "a pot inside the ground"
 - Every transplant is a diagnostic opportunity — inspect root color, texture, smell, and distribution before potting up
@@ -106,6 +122,7 @@ If the roots look unhealthy, address the underlying cause (usually [[watering-an
 ## Sources
 
 - [[ep-041-applied-horticulture]] — [[dawn-marshall]] on progressive potting, root scoring, and transplanting technique
+- [[ep-071-discovering-the-why]] — [[dawn-marshall|Don Marshall]] on root girdling, the lateral-meristem mechanism, media commingling, and why "full" root balls are often strangling themselves
 
 ## Related
 

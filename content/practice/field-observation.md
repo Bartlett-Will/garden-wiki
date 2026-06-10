@@ -2,9 +2,9 @@
 title: Field Observation
 aliases: [garden observation, reading your garden, plant diagnosis, scouting, the morning walk]
 tags: [practice, diagnostics, observation, plant-health]
-sources: [ep-158, ep-041]
+sources: [ep-158, ep-041, ep-071]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-09
 ---
 
 # Field Observation
@@ -26,6 +26,8 @@ A simple daily walk-through:
 5. **Note what changed since yesterday** — The single most valuable observation is change over time. A plant that looked fine yesterday and is wilting today is telling you something different than a plant that has been slowly declining for a week.
 
 This takes five minutes. Done daily, it builds an intuitive understanding of your garden's rhythms that no amount of testing can replace.
+
+[[dawn-marshall|Don Marshall]] frames the same routine as a hospital-style **"well-person check"**: walk the facility first thing, coffee in hand, with *no* task list — just "how's everybody doing?" Doing it when your energy is high and before the day's demands start is what lets you catch problems early and turn them into teaching moments for your team. He pushes the diagnosis one step further than the leaves: **knock suspect plants out of the pot** and read the root mass. Healthy roots are white and *tug back* (they snap or resist); roots that **slime off in your hand** are dead. And when you see a fungus on a declining plant, suspect that it is an **opportunist decomposing already-dead roots**, not the cause of death — which means the real fix is upstream (usually [[watering-and-the-air-water-relationship|overwatering]]), not a fungicide.
 
 ## Visual Indicators
 
@@ -124,6 +126,7 @@ To build this faster:
 
 - [[ep-158-reading-the-soil]] — [[lee-breeze|Lee Breeze]] on the plant doctor method, qualitative assessment, and calibrating observation against data
 - [[ep-041-applied-horticulture]] — Observation routines and visual diagnosis in applied growing contexts
+- [[ep-071-discovering-the-why]] — [[dawn-marshall|Don Marshall]] on the morning "well-person check," knock-out root-mass inspection, and opportunistic fungi on dead roots
 
 ## Related
 

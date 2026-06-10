@@ -2,9 +2,9 @@
 title: The Soil Food Web
 aliases: [soil food web, food web, soil ecosystem, microbial food web]
 tags: [science, soil-biology, nutrient-cycling, microbiology]
-sources: [ep-040, ep-002, ep-005]
+sources: [ep-040, ep-002, ep-005, ep-118]
 created: 2026-06-04
-updated: 2026-06-07
+updated: 2026-06-09
 ---
 
 # The Soil Food Web
@@ -21,7 +21,7 @@ The soil food web is not a simple chain (plant feeds microbe feeds predator). It
 
 1. **Plants fix carbon.** Through photosynthesis, plants convert sunlight and CO2 into sugars and other carbon compounds. Up to 40% of this carbon is pushed out through the roots as [[photosynthesis-and-root-exudates|root exudates]] — the energy currency of the entire underground economy.
 
-2. **Microbes trade services for carbon.** Bacteria and fungi cluster around root tips where exudates are richest (this zone is called the rhizosphere). They use enzymes and organic acids to dissolve minerals from soil particles, making nutrients available in exchange for the plant's carbon. Think of it as a trading post: the plant is the only mint in town, and every microbe needs its currency.
+2. **Microbes trade services for carbon.** Bacteria and fungi cluster around root tips where exudates are richest (this zone is called the rhizosphere). They use enzymes and organic acids to dissolve minerals from soil particles, making nutrients available in exchange for the plant's carbon. Think of it as a trading post: the plant is the only mint in town, and every microbe needs its currency. (Wherever this page says "bacteria," archaea are included — single-celled organisms originally classified as bacteria and first discovered at deep-sea vents, archaea live everywhere from soil to our skin and fill similar roles.)
 
 3. **Predators release nutrients.** Bacteria and fungi are, in [[tad-hussey]]'s memorable phrase, "tiny concentrated bags of fertilizer." They lock up nitrogen, phosphorus, and other nutrients in their bodies. When protozoa or bacterial-feeding nematodes eat them, they excrete the excess as ionic forms — ammonium (NH4+), nitrate (NO3-), phosphate — the same chemical forms found in synthetic fertilizers. The difference is that biology delivers these nutrients just in time, directly to the root tip, rather than in a single large dose that can leach or burn.
 
@@ -40,6 +40,8 @@ One of the most important mechanisms in the food web is the microbial loop. Here
 - A bacterium has a carbon-to-nitrogen ratio (C:N) of roughly 5:1 to 8:1, meaning its body is very nitrogen-rich relative to carbon.
 - A protozoan eats several bacteria. It needs the carbon for energy but has more nitrogen than it can use.
 - The protozoan excretes the excess nitrogen as ammonium — a form the plant can absorb immediately.
+
+The scale of this predation is remarkable: a single bacteria-feeding nematode can consume up to 5,000 bacterial cells per day — roughly six and a half times its own body weight — excreting the surplus as plant-available nutrients.
 
 This loop explains why diverse, biologically active soils often show steady nutrient availability without heavy fertilization. The nutrients are not coming from nowhere; they are being cycled from the bodies of organisms that mined them from soil minerals and organic matter. Understanding this cycle connects directly to [[nitrogen-and-phosphorus|nitrogen and phosphorus nutrition]] and to broader principles of [[composting-and-organic-inputs|organic soil management]].
 
@@ -60,6 +62,15 @@ The soil food web is a useful framework, but some common claims go beyond what t
 - **"Just copy nature."** A forest floor is optimized for survival and reproduction of wild species, not for maximizing harvest of a crop. Blindly replicating forest conditions in a garden bed or grow room can create drainage problems, anaerobic pockets, and nutrient imbalances.
 - **"Fungal-to-bacterial ratios are the key metric."** F:B ratios change with every watering, every temperature swing, every root exudate shift. A single measurement tells you very little, and the science on what ratio is "ideal" for a given crop is still thin.
 
+## Supporting the Food Web in Practice
+
+In his supplemental episode on the topic ([[ep-118-soil-food-web-supplemental]]), [[tad-hussey]] distills food-web stewardship to four habits:
+
+1. **Moisture above all.** Maintaining optimal moisture is the single most important thing you can do for microbial life. Treat fallow soil as if it still holds a plant and keep [[watering-and-the-air-water-relationship|watering]] it; revive dried-out soil with a handful or two of organic alfalfa meal, or a tablespoon per gallon of unsulfured blackstrap molasses, before planting.
+2. **Quality compost and castings.** Seek biological diversity and microbial biomass alongside balanced minerals — and trust your source, since bad compost can carry persistent herbicides, weed seeds, or pathogens (see [[composting-and-organic-inputs]]).
+3. **Manage disturbance, don't fear it.** Mechanical tilling can destroy structure and biology, but digging amendments into a bed is a different magnitude of disturbance, and some disturbance can even encourage microbial diversity.
+4. **Keep a living plant in the soil** whenever possible, so exudates keep the cycling community fed.
+
 > [!cannabis] Cannabis Application
 > Indoor cannabis growers sometimes try to replicate a forest-floor ecosystem inside a grow tent — layering raw compost, wood chips, and cover crops in a 4x4 space. This rarely works well. The confined environment lacks the drainage, airflow, and biological diversity of an outdoor system. The goal for controlled-environment agriculture (CEA) is not to copy nature but to harness biological principles within a managed, data-driven system. Use targeted inoculants (e.g., mycorrhizal fungi like *Rhizophagus irregularis* at transplant — cannabis is strictly endomycorrhizal), [[biocontrols-and-ipm|biocontrol agents]] like *Trichoderma* and *Beauveria bassiana*, and [[soil-testing-and-diagnosis|soil and sap testing]] to confirm that the biology is actually delivering what the plant needs.
 
@@ -77,6 +88,7 @@ The soil food web is a useful framework, but some common claims go beyond what t
 - [[ep-040-soil-food-web]] — [[tad-hussey]] on the soil food web, rhizophagy, and common myths in biological growing
 - [[ep-002-mycorrhizal-fungi-and-compost-tea]] — [[jeff-lowenfels]] on the Teaming trilogy and soil food web paradigm shift
 - [[ep-005-compost-tea-and-living-soil]] — [[tim-wilson]] on the microbial nutrient loop and organic acid nutrient release
+- [[ep-118-soil-food-web-supplemental]] — [[tad-hussey]]'s solo refresher on food web fundamentals and the practices that support it
 
 ## Related
 

@@ -2,9 +2,9 @@
 title: The Rhizophagy Cycle
 aliases: [rhizophagy, rhizophagy cycle, plant-microbe internalization, endorhizal nutrient cycling]
 tags: [science, soil-biology, plant-microbe-interactions, nutrient-cycling]
-sources: [ep-040]
+sources: [ep-040, ep-050, ep-104, ep-118]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-09
 ---
 
 # The Rhizophagy Cycle
@@ -18,6 +18,21 @@ For most of the history of soil science, the relationship between plants and soi
 [[Dr-james-white|Dr. James White]] and his lab at Rutgers identified the rhizophagy cycle by studying how endophytic bacteria (bacteria that live inside plant tissues) move in and out of root cells. His work showed that this is not a rare curiosity — it appears to be a widespread, fundamental mechanism of plant nutrition. The cycle has been documented across many plant species, and the bacterial genera involved include common soil organisms like *Bacillus* and *Pseudomonas*.
 
 The term "rhizophagy" literally means "root eating," but the name is slightly misleading. The plant is not eating the bacteria in the sense of digesting them completely. It is extracting nutrients while keeping many of the bacteria alive — more like milking than killing.
+
+The founding observation is strikingly recent: in 2008, researchers at the University of Queensland documented a cycling relationship between a non-pathogenic *E. coli* and brewer's yeast (*Saccharomyces cerevisiae*) — the first hint of the mechanism White's lab would later map in plants ([[ep-118-soil-food-web-supplemental]]). Science had no knowledge of this pathway before then.
+
+## How the Discovery Landed: Jeff Lowenfels' Account
+
+[[jeff-lowenfels]] — whose *Teaming with Nutrients* taught a generation of gardeners that microbes must put an ionic charge on nutrients before plants can absorb them — describes in [[ep-050-jeff-lowenfels-returns|episode 50]] first encountering rhizophagy through an article about **tundra plants ingesting organic molecules**, something the standard model says shouldn't happen. He compares the discovery's significance to mycorrhizal fungi entering mainstream horticulture decades earlier, and says plainly that if rhizophagy proves to be a major nutrition route, "I'm going to have to revise the books."
+
+His account adds a useful anatomy lesson on the two ways anything moves through a plant:
+
+- **Symplastic pathway** — entering a cell and moving cell-to-cell through the living interiors, anywhere in the plant.
+- **Apoplastic pathway** — never entering a cell, instead traveling within the network of cell walls.
+
+Rhizophagy bacteria use the symplastic route (pressed against the plasmalemma inside root cells); other endophytic bacteria and fungi live and travel in the apoplast, where some also deposit antibiotics that suppress pathogens along the way.
+
+Endophytes are not just a root story. Above ground, every plant hosts up to roughly **300–350 endophytic organisms** — a phyllosphere counterpart to mycorrhizae below ground. Commercial endophyte products are beginning to appear: [[tad-hussey]] mentions trialing an endophytic bacterium (isolated from Yellowstone's thermal vents) marketed for abiotic stress mitigation at a cannabis facility. Whether cannabis itself participates in the rhizophagy cycle is, as of episode 50, an open question.
 
 ## The Six-Step Cycle
 
@@ -52,6 +67,18 @@ The stripped bacteria produce nitric oxide (NO) inside the root cells. This serv
 The surviving bacteria — still alive but without cell walls — are pushed outward as the root cells expand. They are ejected through the tips of newly forming root hairs. Once back in the soil, the bacteria regenerate their cell walls, resume normal function, and begin scavenging nutrients from soil particles and organic matter again. The cycle restarts.
 
 The formation of root hairs is not incidental — it appears to be triggered in part by the bacteria themselves, through the nitric oxide they produce. Each root hair becomes an exit point and, later, a re-entry point for the next round.
+
+## Jeff Lowenfels' Account: L-Forms, Nitrite, and Ethylene
+
+In [[ep-104-teaming-with-bacteria|episode 104]], [[jeff-lowenfels]] narrates the cycle from his book *Teaming with Bacteria*, adding mechanistic detail and some terminology that differs from the account above:
+
+- **Attraction by smell.** Bacteria are drawn toward the meristem following a butyric-acid "buttered popcorn" smell, pushing out of their bacterial slime toward better territory.
+- **The periplasmic space.** Using a tofu-container analogy, Lowenfels places the invading bacteria in the **periplasmic space** — between the cell wall (the container) and the cytoplasm membrane (the tofu).
+- **L-forms.** He calls the wall-stripped bacteria **L-forms** (wall-less bacteria), the same outcome the superoxide spray produces in Step 3 above.
+- **Nitrite → nitrate.** In his telling, the bacteria defend against the superoxide by producing an antioxidant — **nitrite** — which is then converted (partly by the plant) into **nitrate** that the plant absorbs. He puts the nitrogen contribution at up to ~30%. This differs from the nitric-oxide (NO) account in the [[ep-040-soil-food-web|ep-040]] / [[ep-050-jeff-lowenfels-returns|ep-050]] version above; the two are describing closely related nitrogen-oxide chemistry, and the wiki captures both rather than asserting one is definitive.
+- **Ethylene drives root-hair formation.** Lowenfels emphasizes that the multiplying L-forms produce **ethylene** (a phytohormone), which makes the meristem cell grow and elongate into the tube we know as a root hair — the bacteria are then expelled out its tip. The ep-040 account attributes root-hair triggering to nitric oxide; ethylene and NO signaling may both be involved.
+
+Lowenfels frames the contrast neatly: [[dr-elaine-ingham|Dr. Ingham]]'s soil food web is a **farming** model (the plant fertilizes microbes via exudates and harvests the result), while rhizophagy is a **ranching** model — sheep brought into the barn, sheared, and returned to pasture to regrow their wool. The bacteria that exit also become [[endophytic-bacteria|endophytes]] in their own right.
 
 ## "Milking, Not Killing"
 
@@ -93,9 +120,13 @@ The science is solid but still developing. It is an active area of research, not
 ## Sources
 
 - [[ep-040-soil-food-web]] — [[tad-hussey]] on the rhizophagy cycle, [[dr-james-white]]'s research, and practical implications for growers
+- [[ep-050-jeff-lowenfels-returns]] — [[jeff-lowenfels]] on discovering rhizophagy via tundra plants, symplastic vs. apoplastic pathways, and endophyte commercialization
+- [[ep-104-teaming-with-bacteria]] — [[jeff-lowenfels]] on the full cycle from *Teaming with Bacteria*: L-forms, periplasmic space, nitrite→nitrate, and ethylene-driven root-hair formation
+- [[ep-118-soil-food-web-supplemental]] — [[tad-hussey]] on the 2008 University of Queensland origin of rhizophagy research
 
 ## Related
 
+- [[endophytic-bacteria]] — what the ejected bacteria become; rhizophagy is one entry route among several
 - [[soil-food-web]] — the broader network of soil organisms that the rhizophagy cycle operates within
 - [[photosynthesis-and-root-exudates]] — the root exudates that recruit bacteria into the cycle
 - [[root-hairs-and-nutrient-uptake]] — root hairs serve as bacterial exit and re-entry points
