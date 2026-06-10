@@ -1,17 +1,17 @@
-# Quartz v5
+# Garden Wiki
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+A knowledge base for home gardeners, built from the **Cannabis Cultivation and Science Podcast** and structured using the [LLM-wiki pattern](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f). Organized in two halves — **Science** (the why) and **Practice** (the how) — with cannabis-specific guidance woven throughout.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+🌱 **Read it here: https://bartlett-will.github.io/garden-wiki**
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+## How it works
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+- **`raw/transcripts/`** — immutable podcast transcripts (the source layer).
+- **`content/`** — the wiki itself: LLM-generated, interlinked Obsidian-flavored markdown across `science/`, `practice/`, `people/`, and `episodes/`. Maintained by an LLM; you read it.
+- **`CLAUDE.md`** — the schema: conventions and workflows for ingesting episodes and maintaining the wiki.
 
-## Sponsors
+The site is published with [Quartz v5](https://quartz.jzhao.xyz/) and deployed to GitHub Pages automatically on every push to `v5`.
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+## Built with Quartz
+
+This site runs on [Quartz](https://quartz.jzhao.xyz/), a tool for publishing [digital gardens](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
