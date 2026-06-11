@@ -17,7 +17,7 @@ He was an early mentor and friend to podcast host [[tad-hussey]], who credits Co
 
 ## Key Contributions to the Wiki
 
-- **[[the-coot-mix]]** — the equal-thirds living soil recipe (peat, aeration, castings) with kelp, neem, and crab meal, derived from the 1930s Cornell mix
+- **[[the-coot-mix]]** — the equal-thirds living soil recipe (peat, aeration, castings) with kelp and neem, derived from the 1930s Cornell mix. Crab meal was the historical third amendment, but Coot has largely dropped it — malted barley supplies the same chitin far more cheaply
 - **[[malted-barley-and-enzyme-teas]]** — bringing diastatic malted grains and their enzyme suite (chitinase, phosphatase, protease, urease, amylase) into horticulture
 - **[[vermicomposting]]** — neem meal and malted barley as worm-bin accelerants; cold-process castings that preserve secondary metabolites
 - **[[dynamic-accumulators]]** — advocacy for kelp, comfrey, and alfalfa as the core "bio-nutrient accumulator" amendments, including the history of Bocking 14 comfrey

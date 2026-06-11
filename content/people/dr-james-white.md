@@ -2,9 +2,9 @@
 title: Dr. James White
 aliases: [James White, White]
 tags: [person]
-sources: [ep-040]
+sources: [ep-040, ep-104]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-10
 ---
 
 # Dr. James White
@@ -41,13 +41,19 @@ The rhizophagy cycle has practical implications:
 - Healthy root hair development is even more important than previously understood — root hairs are where bacteria are ejected and re-enter the cycle
 - The cycle explains why biologically active soils can deliver nutrients more efficiently than their chemical analysis alone would suggest
 
+## The Cannabis Trichome Nitrogen-Fixation Theory
+
+A more recent and still-developing line of White's work, relayed in [[ep-104-teaming-with-bacteria|Episode 104]] (Jeff Lowenfels on his book *Teaming with Bacteria*), proposes that bacteria live inside cannabis **glandular trichomes** and fix nitrogen there. In this theory the trichome creates the low-oxygen environment the bacteria need by *bombarding them with cannabinoids* — meaning the cannabinoids growers prize may be a **byproduct of internal nitrogen fixation**. The science is new and unproven, but it links cannabinoid production to the plant's internal microbiome. See [[endophytic-bacteria]] for the fuller picture.
+
 ## Episodes
 
 - [[ep-040-soil-food-web]] — Tad Hussey discusses the rhizophagy cycle as one of the most important recent advances in soil biology
+- [[ep-104-teaming-with-bacteria]] — Jeff Lowenfels relays White's endophyte and cannabis-trichome nitrogen-fixation work in *Teaming with Bacteria*
 
 ## Related
 
 - [[rhizophagy-cycle]] — detailed explanation of the cycle
+- [[endophytic-bacteria]] — internal nitrogen fixation and the trichome theory
 - [[soil-food-web]] — the broader biological network that the rhizophagy cycle operates within
 - [[root-hairs-and-nutrient-uptake]] — the structures through which the cycle operates
 - [[biocontrols-and-ipm]] — why indiscriminate biofumigants can disrupt beneficial cycles
