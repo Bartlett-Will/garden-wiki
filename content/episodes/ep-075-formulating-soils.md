@@ -62,4 +62,4 @@ updated: 2026-06-09
 - [[ep-003-worm-castings-malted-barley-and-the-coot-mix]] — the Coot Mix that Black Swallow's first soils were based on
 - [[ep-158-reading-the-soil]] — Lee Breeze on the soil testing this formulation process depends on
 - [[ep-040-soil-food-web]] — the microbial systems a living soil mix is designed to house
-- [[ep-041-applied-horticulture]] — Dawn Marshall on watering, the other half of living soil success
+- [[ep-041-applied-horticulture]] — Don Marshall on watering, the other half of living soil success

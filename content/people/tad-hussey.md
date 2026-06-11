@@ -17,7 +17,7 @@ Tad Hussey is the host of the Cannabis Cultivation and Science Podcast, one of t
 
 Tad's connection to soil science runs deep. His father was one of [[dr-elaine-ingham|Dr. Elaine Ingham]]'s earliest advisors during the formative years of the [[soil-food-web|Soil Food Web]] movement. Growing up around that work gave Tad an unusually early exposure to the microbial side of plant nutrition.
 
-After more than two decades in the industry, Tad went back to school specifically to take [[dawn-marshall|Dawn Marshall]]'s applied horticulture classes at Lake Washington Institute of Technology before she retired. That decision reflects his recurring theme: always be willing to revisit fundamentals.
+After more than two decades in the industry, Tad went back to school specifically to take [[dawn-marshall|Don Marshall]]'s applied horticulture classes at Lake Washington Institute of Technology before he retired. That decision reflects his recurring theme: always be willing to revisit fundamentals.
 
 ## Key Expertise
 
@@ -37,7 +37,7 @@ After more than two decades in the industry, Tad went back to school specificall
 - [[ep-040-soil-food-web]] — Solo episode on the soil food web, biology vs. dogma, and a tribute to Dr. Elaine Ingham
 - [[ep-118-soil-food-web-supplemental]] — First solo "supplemental" episode: soil food web fundamentals and the practices that support soil biology; also announced his science-based home grow
 - [[ep-122-mycorrhizal-fungi-deep-dive]] — Solo AMA on mycorrhizal fungi: terminology, the four types, reciprocal-rewards mutualism, and the (mixed) cannabis research
-- [[ep-041-applied-horticulture]] — Conversation with Dawn Marshall on plant botany, root hairs, and the "why" behind plant behavior
+- [[ep-041-applied-horticulture]] — Conversation with Don Marshall on plant botany, root hairs, and the "why" behind plant behavior
 - [[ep-156-silicon-in-plant-health]] — Interview with Dr. Wendy Zellner on silicon's role in plant health
 - [[ep-157-lean-farming]] — Interview with Ben Hartman on lean farming and eliminating waste
 - [[ep-158-reading-the-soil]] — Interview with Lee Breeze on soil testing, agronomy, and reading the land

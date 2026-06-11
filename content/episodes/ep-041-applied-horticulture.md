@@ -9,11 +9,11 @@ updated: 2026-06-04
 
 # Episode 41: Applied Horticulture
 
-> **Foundations Series #4** | Guest: [[dawn-marshall|Dawn Marshall]]
+> **Foundations Series #4** | Guest: [[dawn-marshall|Don Marshall]]
 
 ## Summary
 
-[[tad-hussey|Tad Hussey]] sits down with [[dawn-marshall|Dawn Marshall]], a Certified Professional Horticulturist and Certified Arborist with 40+ years of teaching experience, for a conversation that keeps circling back to one question: *why?* Dawn explains the biology behind everyday gardening practices — why overwatering causes the same symptoms as underwatering (root hairs die, creating drought stress), why plants bend toward light (auxin degradation, not "reaching"), why progressive transplanting matters (air-water relationship), and why pruning timing depends on understanding seasonal physiology rather than following calendar rules.
+[[tad-hussey|Tad Hussey]] sits down with [[dawn-marshall|Don Marshall]], a Certified Professional Horticulturist and Certified Arborist with 40+ years of teaching experience, for a conversation that keeps circling back to one question: *why?* Don explains the biology behind everyday gardening practices — why overwatering causes the same symptoms as underwatering (root hairs die, creating drought stress), why plants bend toward light (auxin degradation, not "reaching"), why progressive transplanting matters (air-water relationship), and why pruning timing depends on understanding seasonal physiology rather than following calendar rules.
 
 ## Key Topics
 

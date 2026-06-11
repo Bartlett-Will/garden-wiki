@@ -11,7 +11,7 @@ updated: 2026-06-09
 
 > **Quick take:** Mycorrhizal fungi form a partnership with plant roots — the plant feeds the fungus carbon, and the fungus extends the root system's reach for water and nutrients, especially phosphorus.
 
-About 96% of all plant species form mycorrhizal associations. These relationships are ancient — ectomycorrhizal fungi are roughly 400 million years old and helped plants colonize terrestrial land; endomycorrhizal fungi evolved about 200 million years ago. Despite their ubiquity, we now know these partnerships aren't guaranteed to happen on their own and often need deliberate inoculation.
+About 96% of all plant species form mycorrhizal associations. These relationships are ancient — mycorrhizal fungi have existed for over 400 million years, and it is the arbuscular (endo)mycorrhizal partnership that is generally credited with helping the first plants colonize land; the ectomycorrhizal association of conifers and other woody trees evolved later. Despite their ubiquity, we now know these partnerships aren't guaranteed to happen on their own and often need deliberate inoculation.
 
 > **A word on words:** *Myco* means fungus and *rhizo* means root, so **mycorrhizal fungi** are the fungi themselves, while **mycorrhizae** is the actual *association* between roots and fungi. Use "mycorrhizal fungi" for the organism and "mycorrhizae" for the relationship. The fungal biomass acts as a virtual root system, increasing the root's absorbing surface area by up to **40×**, and the symbiosis occurs in nearly all ecosystems — many desert plants cannot survive without it.
 

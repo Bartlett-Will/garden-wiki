@@ -58,8 +58,8 @@ This philosophy is what drew [[tad-hussey|Tad Hussey]] back to school specifical
 
 ## Related
 
-- [[root-hairs-and-nutrient-uptake]] — the cellular structures Dawn builds her teaching around
-- [[watering-and-the-air-water-relationship]] — her reframing of overwatering as drought stress
+- [[root-hairs-and-nutrient-uptake]] — the cellular structures Don builds his teaching around
+- [[watering-and-the-air-water-relationship]] — his reframing of overwatering as drought stress
 - [[plant-hormones-and-growth]] — auxins, apical dominance, and phototropism
 - [[pruning-and-training]] — timing and technique grounded in plant physiology
 - [[transplanting]] — progressive potting-up and root scoring
