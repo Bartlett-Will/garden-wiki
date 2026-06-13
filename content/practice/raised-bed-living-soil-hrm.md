@@ -85,7 +85,7 @@ Red wigglers (*Eisenia fetida*) thrive in fabric beds. The fabric walls keep the
 - **Species matters.** Red wigglers, not earthworms. Wigglers stay in the top 6-8 inches where the organic matter is. Earthworms are burrowers that hit the fabric floor and stress out.
 - **Start with half a pound** (~250 worms). They double every 60-90 days in good conditions. By mid-summer you'll have a healthy population.
 - **Wait 1-2 weeks after mixing** before adding worms. Fresh mineral amendments (especially lime and gypsum) can be harsh. Let the soil buffer first.
-- **Feed from the top.** Bury kitchen scraps under the straw mulch — banana peels, coffee grounds, melon rinds. The worms process it into [[vermicomposting|castings]] right in the root zone, which is why the initial castings fraction is only 5%.
+- **Don't top-feed with kitchen scraps.** The worms will feed on decomposing straw mulch, dead root material, compost, and cover crop residue — a bed that's 55% compost with straw mulch is plenty of food. Kitchen scraps on an outdoor bed attract fruit flies, rodents, raccoons, and skunks. Run a **separate indoor worm bin** for kitchen scraps and top-dress the bed with those castings a few times per season instead.
 - **Mulch is non-negotiable.** Worms need the surface layer cool and moist. Fabric walls let heat in from the sides, so thick mulch (3-4 inches of straw) matters even more than in a rigid bed.
 
 ## Overwintering in Halifax
