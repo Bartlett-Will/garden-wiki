@@ -49,7 +49,7 @@ This recipe uses **blueberry compost** as the primary base — a locally availab
 
 **Why these ratios:**
 
-- **Blueberry compost at 55%** — does double duty as both the compost and the peat fraction. Its natural acidity (pH ~4.5-5.5) provides the low-pH base that peat would normally contribute, while its organic matter holds moisture through dry July spells. The producer recommends against adding peat moss alongside it.
+- **Blueberry compost at 55%** — does double duty as both the compost and the peat fraction. The producer describes it as "slightly acidic," but the actual pH will vary by batch — ask the supplier for lab results or test a sample yourself before mixing. Its organic matter holds moisture through dry July spells. The producer recommends against adding peat moss alongside it.
 - **Topsoil at 20%** — provides mineral content and [[soil-structure-and-aggregates|CEC]] that compost alone lacks, adds weight to stabilize the fabric in wind, and contributes mineral-associated microbes.
 - **Perlite at 15%** — aeration, not drainage. The fabric handles drainage; perlite keeps oxygen in the root zone during Halifax's prolonged wet periods. Pumice is superior but expensive to ship to Atlantic Canada.
 - **Worm castings at 5%** — starter dose of premium [[soil-food-web|microbial diversity]]. Kept low because live worms added to the bed will manufacture castings in-situ continuously. See [[vermicomposting]].
@@ -64,13 +64,12 @@ Mixed into the full 48 cu ft before planting. Rates are per cubic foot, multipli
 | Kelp meal | 1/4 cup | 12 cups | ~4 lbs | Potassium, micronutrients, growth hormones. See [[kelp-and-seaweed]] |
 | Crustacean meal | 1/4 cup | 12 cups | ~3 lbs | Chitin (triggers plant pest defense), slow N + Ca |
 | Gypsum | 1/4 cup | 12 cups | ~6 lbs | Calcium + sulfur without raising pH |
-| Dolomite lime | 1/3 cup | 16 cups | ~8 lbs | Buffers blueberry compost acidity, adds Ca + Mg |
-| Oyster shell flour | 1/3 cup | 16 cups | ~7 lbs | Ultra-slow Ca release, long-term pH buffer (1-2 years) |
-| Neem meal | 1/4 cup | 12 cups | ~3 lbs | Slow N, root-zone pest suppression. See [[neem-and-karanja]] |
+| Dolomite lime | 1/4 cup | 12 cups | ~6 lbs | pH buffer, adds Ca + Mg |
+| Alfalfa meal | 1/4 cup | 12 cups | ~3 lbs | Slow N, triacontanol growth stimulant |
 
-**Why three calcium sources?** Three different release speeds. Dolomite lime acts in weeks (first season buffer against blueberry compost acidity). Gypsum provides calcium + sulfur without moving pH. Oyster shell breaks down over 1-2 years, still feeding calcium long after the lime is spent. In Halifax's naturally acidic conditions (granite bedrock, acid rain, acidic compost), layered buffering prevents pH crashes.
+**On calcium and pH buffering:** dolomite lime buffers acidity and provides calcium + magnesium. Gypsum provides calcium + sulfur without moving pH. Two sources at standard rates is sufficient for the first season. If pH testing after a full growing season shows the bed drifting acidic, add oyster shell flour (ultra-slow calcium carbonate, breaks down over 1-2 years) as a long-term buffer at that point — but don't add it blind.
 
-**Lime rates are higher than standard** because blueberry compost is more acidic than peat. Target pH: 6.0-6.8 for vegetables. Test after mixing and before planting — a $15 soil pH meter pays for itself immediately.
+**Test pH after mixing and before planting.** The blueberry compost pH will vary by batch — the liming rate above is a starting point, not a prescription. Target 6.0-6.8 for vegetables. A $15 soil pH meter pays for itself immediately. If the compost turns out to be very acidic (below pH 5.0), increase lime to 1/3 cup per cu ft.
 
 ### At Planting
 
@@ -167,11 +166,11 @@ For one 4 ft x 8 ft x 18 in fabric bed, first year:
 | Topsoil (~0.35 yards) | $40-60 |
 | Coarse perlite (2 x 4 cu ft bags) | $30-40 |
 | Worm castings (2-3 bags) | $30-45 |
-| Mineral amendments (7 products) | $80-115 |
+| Mineral amendments (6 products) | $65-100 |
 | MYKE inoculant | $12-18 |
 | Straw mulch | $8-12 |
 | Red wigglers (1/2 lb) | $15-25 |
-| **Total (excl. compost delivery)** | **$215-315** |
+| **Total (excl. compost delivery)** | **$200-300** |
 
 **Year 2 onward:** top-dress with homemade worm castings, a compost tea drench, and maybe a bag of lime. Annual cost drops to $20-40. That's the whole point of the [[reusing-soil|law of return]] — the biology builds on itself.
 
@@ -195,8 +194,8 @@ For one 4 ft x 8 ft x 18 in fabric bed, first year:
 
 - Fabric beds are closed systems — all biology must come from your inputs, not the ground
 - Blueberry compost replaces both peat and standard compost in a single locally-sourced input
-- Increase lime and oyster shell rates to buffer the extra acidity from blueberry waste
-- Test pH after mixing and before planting — target 6.0-6.8 for vegetables
+- Ask the supplier for pH lab results or test a sample — liming rates depend on actual acidity
+- Test pH after mixing and before planting — target 6.0-6.8 for vegetables; add oyster shell flour only if pH drifts low after a season
 - Add red wigglers after 1-2 weeks of buffering; they manufacture castings in the root zone all season
 - Harvest worms in October — they cannot survive a Halifax winter in a fabric bed
 - Insulate walls with straw bales and top with heavy mulch to slow freeze-thaw cycling
