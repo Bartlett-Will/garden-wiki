@@ -2,7 +2,7 @@
 title: Wiki Log
 tags: [meta]
 created: 2026-06-04
-updated: 2026-06-09
+updated: 2026-06-13
 ---
 
 # Log
@@ -11,6 +11,10 @@ Chronological record of wiki operations — ingests, queries, and lint passes.
 
 <!-- Each entry uses the format: ## [YYYY-MM-DD] operation | Title -->
 <!-- Parseable with: grep "^## \[" log.md | tail -10 -->
+
+## [2026-06-13] add | Raised Bed Living Soil Guide for Halifax (HRM)
+
+Standalone regional guide for filling and maintaining a fabric raised bed with living soil in the Halifax Regional Municipality. Covers: blueberry compost-based recipe (replaces peat), mineral amendment rates with increased liming for acidic compost, red wiggler worm management in fabric beds, winter protection against freeze-thaw cycling, HRM-specific sourcing (EARTHCO, Atlantic Gardens, Halifax Seed, Lahave River Berry Farm), seasonal timeline, and estimated costs. Created: [[raised-bed-living-soil-hrm]]. Updated: [[index]] (new "Regional Guides" subsection).
 
 ## [2026-06-09] ingest | Episode 108 — Understanding Living Soil Fertility with Bryant Mason
 

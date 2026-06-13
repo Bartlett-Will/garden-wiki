@@ -2,7 +2,7 @@
 title: Garden Wiki Index
 tags: [meta]
 created: 2026-06-04
-updated: 2026-06-09
+updated: 2026-06-13
 ---
 
 # Garden Wiki
@@ -63,6 +63,9 @@ Techniques, methods, and actionable guidance for growing better plants.
 - [[biocontrols-and-ipm]] — Trichoderma, Beauveria, mycorrhizal fungi, and why targeted beats broad-spectrum
 - [[cover-crops-and-crop-rotation]] — Goal-based selection, species matching, and indoor cautions
 - [[heavy-metals-management]] — Which inputs carry arsenic and lead, cultivar uptake differences, and how to manage failures
+
+### Regional Guides
+- [[raised-bed-living-soil-hrm]] — Complete recipe, sourcing, and seasonal plan for a fabric raised bed in Halifax (HRM)
 
 ### Compost & Biology
 - [[compost-tea]] — Aerated compost tea: theory, brewing methodology, timing, recipes, and common myths
