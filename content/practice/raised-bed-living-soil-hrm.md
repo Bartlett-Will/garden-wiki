@@ -4,7 +4,7 @@ aliases: [Halifax raised bed, HRM soil recipe, Nova Scotia raised bed, fabric ra
 tags: [practice, soil-mixes, living-soil, regional, raised-beds]
 sources: []
 created: 2026-06-13
-updated: 2026-06-16
+updated: 2026-06-17
 ---
 
 # Raised Bed Living Soil for Halifax (HRM)
@@ -36,22 +36,26 @@ Sized for a **4 ft x 8 ft x 18 in** fabric raised bed.
 
 ### Base Mix
 
-This recipe uses **blueberry compost** as the primary base — a locally available compost made solely from overripe and underripe blueberries plus the stems and leaves from picking. Nothing else is added. It sits at **pH 6.5–6.7** (producer-tested), which is already in the ideal vegetable range — no liming required. It replaces both the peat moss and the standard compost in a traditional mix, providing organic matter, moisture retention, and biology in one input.
+This recipe combines **blueberry compost** with **sphagnum peat moss** for a nutrient-dense living soil. The blueberry compost — made solely from overripe and underripe blueberries plus stems and leaves from picking, nothing else added — provides biology, organic matter, and exceptionally clean inputs (no weed seeds, no herbicide carryover, no heavy metals). At **pH 6.5–6.7** (producer-tested) it needs no liming on its own, but that near-neutral pH leaves little room for alkaline mineral amendments. Adding peat (pH 3.5–4.5) pulls the mix down to roughly **pH 5.5–6.0**, creating headroom to load the soil with calcium, magnesium, and trace minerals via lime, oyster shell, and rock dust — each of which carries nutrition as it buffers pH back up to target. More mineral amendments = more nutrient-dense soil (see [[soil-remineralization]]).
+
+The blueberry compost already holds significant moisture. Adding peat (also a moisture sponge) requires **extra aeration** — perlite is bumped to 20% to keep the root zone oxygenated through Halifax's wet springs.
 
 | Component | % | Volume | Math | Role |
 |---|---|---|---|---|
-| Blueberry compost | 55% | 26.4 cu ft | 48 x 0.55 | Organic matter, moisture retention, biology (pH 6.5–6.7) |
-| Topsoil / loam | 20% | 9.6 cu ft | 48 x 0.20 | Mineral base, CEC, structure, weight |
-| Coarse perlite | 15% | 7.2 cu ft | 48 x 0.15 | Aeration — Halifax spring and fall rains demand it |
+| Blueberry compost | 40% | 19.2 cu ft | 48 x 0.40 | Biology, organic matter, moisture (pH 6.5–6.7) |
+| Sphagnum peat moss | 15% | 7.2 cu ft | 48 x 0.15 | pH headroom for mineral loading (pH 3.5–4.5) |
+| Topsoil / loam | 15% | 7.2 cu ft | 48 x 0.15 | Mineral base, CEC, structure, weight |
+| Coarse perlite | 20% | 9.6 cu ft | 48 x 0.20 | Aeration — offsets high moisture from compost + peat |
 | Worm castings | 5% | 2.4 cu ft | 48 x 0.05 | Premium biology starter (worms will produce more in-situ) |
 | Top-off reserve | 5% | 2.4 cu ft | 48 x 0.05 | Extra blueberry compost or topsoil after settling |
 | **Total** | **100%** | **48.0 cu ft** | | |
 
 **Why these ratios:**
 
-- **Blueberry compost at 55%** — does double duty as both the compost and the peat fraction. Made solely from blueberries, stems, and leaves (no manure, no yard waste), it is exceptionally clean — no weed seeds, no herbicide carryover, no heavy metal concerns. At pH 6.5–6.7 it needs no liming. Its organic matter holds moisture through dry July spells. The producer recommends against adding peat moss alongside it. Being pure fruit and leaf waste, it is carbon-rich but nitrogen-light — the mineral amendments below compensate.
-- **Topsoil at 20%** — provides mineral content and [[soil-structure-and-aggregates|CEC]] that compost alone lacks, adds weight to stabilize the fabric in wind, and contributes mineral-associated microbes.
-- **Perlite at 15%** — aeration, not drainage. The fabric handles drainage; perlite keeps oxygen in the root zone during Halifax's prolonged wet periods. Pumice is superior but expensive to ship to Atlantic Canada.
+- **Blueberry compost at 40%** — the biological engine and primary organic matter source. Made from pure fruit and leaf waste (no manure, no yard waste), it is carbon-rich but nitrogen-light — the mineral amendments below compensate. Reduced from a potential 55% to make room for peat without waterlogging the bed.
+- **Sphagnum peat at 15%** — the pH headroom strategy. [[sphagnum-peat-and-potting-soils|Clackamas Coot]] explains it: peat's acidity "leaves room to add calcium up to target levels." By pulling the starting pH down, every alkaline amendment you add carries minerals into the soil on its way back to neutral. Buy 3.8 cu ft compressed bales (frozen-cut, biologically alive), not kiln-dried bagged peat.
+- **Topsoil at 15%** — provides mineral content and [[soil-structure-and-aggregates|CEC]] that compost and peat lack, adds weight to stabilize the fabric in wind, and contributes mineral-associated microbes. Reduced from 20% to make room for increased perlite — the mineral amendments compensate for the lower topsoil fraction.
+- **Perlite at 20%** — bumped from the standard 15% because blueberry compost and peat together hold a lot of moisture. Without the extra aeration, the root zone stays saturated too long during Halifax's spring rains. Pumice is superior but expensive to ship to Atlantic Canada.
 - **Worm castings at 5%** — starter dose of premium [[soil-food-web|microbial diversity]]. Kept low because live worms added to the bed will manufacture castings in-situ continuously. See [[vermicomposting]].
 
 ### Mineral Amendments
@@ -61,16 +65,18 @@ Mixed into the full 48 cu ft before planting. Rates are per cubic foot, multipli
 | Amendment | Rate / cu ft | x 48 | Total | Purpose |
 |---|---|---|---|---|
 | Glacial rock dust | 1/2 cup | 24 cups | ~15 lbs | Slow-release trace minerals (Ca, Mg, Fe, Si) |
+| Dolomite lime | 1/4 cup | 12 cups | ~6 lbs | Buffers peat acidity, adds Ca + Mg |
+| Oyster shell flour | 1/4 cup | 12 cups | ~5 lbs | Ultra-slow Ca release, long-term pH buffer (1-2 years) |
+| Gypsum | 1/4 cup | 12 cups | ~6 lbs | Calcium + sulfur without raising pH |
 | Kelp meal | 1/4 cup | 12 cups | ~4 lbs | Potassium, micronutrients, growth hormones. See [[kelp-and-seaweed]] |
 | Crustacean meal | 1/4 cup | 12 cups | ~3 lbs | Chitin (triggers plant pest defense), slow N + Ca |
-| Gypsum | 1/4 cup | 12 cups | ~6 lbs | Calcium + sulfur without raising pH |
 | Alfalfa meal | 1/4 cup | 12 cups | ~3 lbs | Slow N, triacontanol growth stimulant |
 
-**No lime needed.** The blueberry compost already sits at pH 6.5–6.7, which is squarely in the vegetable target range (6.0–6.8). Adding dolomite lime risks pushing the bed above 7.0, which locks out iron, manganese, and zinc. Gypsum provides calcium and sulfur without moving pH — important because pure blueberry waste is likely low in calcium.
+**Three calcium sources at three speeds.** Dolomite lime acts in weeks (first-season buffer against the peat acidity, plus magnesium). Gypsum provides calcium + sulfur without moving pH. Oyster shell flour breaks down over 1-2 years, still feeding calcium long after the lime is spent. Each amendment carries nutrition into the soil as it does its pH work — that's the point of the peat headroom strategy.
 
-**Still test pH after mixing.** The topsoil, rock dust, and other amendments shift the final number. A $15 soil pH meter confirms you're in range before planting. If the finished mix reads below 6.0 (unlikely with this compost), add dolomite lime at 1/4 cup per cu ft at that point. If it reads above 7.0, the sulfur in gypsum will bring it down over time — or reduce rock dust in the next batch.
+**Test pH after mixing and before planting.** The peat pulls the starting mix down; the lime, oyster shell, and rock dust push it back up. Target: 6.0–6.8 for vegetables. A $15 soil pH meter confirms the balance is right. If the finished mix reads below 6.0, add more dolomite lime at 1/8 cup per cu ft increments. If above 7.0, reduce lime in the next batch.
 
-**Why nitrogen amendments matter more here.** Pure blueberry fruit and leaf waste is carbon-heavy and nitrogen-light compared to manure-based composts. The alfalfa meal and crustacean meal together provide the slow-release nitrogen the compost doesn't carry.
+**Why nitrogen amendments matter here.** Pure blueberry fruit and leaf waste is carbon-heavy and nitrogen-light compared to manure-based composts. The alfalfa meal and crustacean meal together provide the slow-release nitrogen the compost doesn't carry.
 
 ### At Planting
 
@@ -86,7 +92,7 @@ Red wigglers (*Eisenia fetida*) thrive in fabric beds. The fabric walls keep the
 - **Species matters.** Red wigglers, not earthworms. Wigglers stay in the top 6-8 inches where the organic matter is. Earthworms are burrowers that hit the fabric floor and stress out.
 - **Start with half a pound** (~250 worms). They double every 60-90 days in good conditions. By mid-summer you'll have a healthy population.
 - **Wait 1-2 weeks after mixing** before adding worms. Fresh mineral amendments (especially lime and gypsum) can be harsh. Let the soil buffer first.
-- **Don't top-feed with kitchen scraps.** The worms will feed on decomposing straw mulch, dead root material, compost, and cover crop residue — a bed that's 55% compost with straw mulch is plenty of food. Kitchen scraps on an outdoor bed attract fruit flies, rodents, raccoons, and skunks. Run a **separate indoor worm bin** for kitchen scraps and top-dress the bed with those castings a few times per season instead.
+- **Don't top-feed with kitchen scraps.** The worms will feed on decomposing straw mulch, dead root material, compost, and cover crop residue — a bed that's 40% compost with straw mulch is plenty of food. Kitchen scraps on an outdoor bed attract fruit flies, rodents, raccoons, and skunks. Run a **separate indoor worm bin** for kitchen scraps and top-dress the bed with those castings a few times per season instead.
 - **Mulch is non-negotiable.** Worms need the surface layer cool and moist. Fabric walls let heat in from the sides, so thick mulch (3-4 inches of straw) matters even more than in a rigid bed.
 
 ## Overwintering in Halifax
@@ -138,7 +144,7 @@ The real threat is not sustained cold but **repeated freeze-thaw cycles** — a 
 
 - **Atlantic Gardens** — 1620 Sackville Dr, Middle Sackville. Family-owned garden centre with hydroponics section. Soil amendments, MYKE inoculant, plants. (902) 865-7195.
 - **Halifax Seed Company** — 5860 Kane St, Halifax (est. 1866). Best local selection of cover crop seed (winter rye, crimson clover, white clover), organic fertilizers, and soil amendments.
-- **Home Depot, Sackville** — 752 Sackville Dr. Perlite, gypsum, MYKE inoculant. Cheapest source for bulk perlite bags.
+- **Home Depot, Sackville** — 752 Sackville Dr. Perlite, gypsum, dolomite lime, MYKE inoculant. Cheapest source for bulk perlite bags.
 - **Canadian Tire, Lower Sackville** — Sackville Dr. Basic amendments and garden tools.
 
 ### Specialty Inputs
@@ -163,20 +169,21 @@ For one 4 ft x 8 ft x 18 in fabric bed, first year:
 
 | Item | Est. Cost |
 |---|---|
-| Blueberry compost (~1 yard delivered) | Varies — get quote |
-| Topsoil (~0.35 yards) | $40-60 |
-| Coarse perlite (2 x 4 cu ft bags) | $30-40 |
+| Blueberry compost (~0.7 yards delivered) | Varies — get quote |
+| Sphagnum peat moss (2 compressed bales) | $30-40 |
+| Topsoil (~0.25 yards) | $30-50 |
+| Coarse perlite (2-3 x 4 cu ft bags) | $40-55 |
 | Worm castings (2-3 bags) | $30-45 |
-| Mineral amendments (5 products) | $55-90 |
+| Mineral amendments (7 products) | $80-115 |
 | MYKE inoculant | $12-18 |
 | Straw mulch | $8-12 |
 | Red wigglers (1/2 lb) | $15-25 |
-| **Total (excl. compost delivery)** | **$190-280** |
+| **Total (excl. compost delivery)** | **$245-360** |
 
 **Year 2 onward:** top-dress with homemade worm castings and a compost tea drench. Annual cost drops to $20-40. That's the whole point of the [[reusing-soil|law of return]] — the biology builds on itself.
 
 > [!cannabis] Cannabis Application
-> This recipe works for outdoor cannabis in HRM (Zone 6a, ~140-150 frost-free days). Autoflowering varieties (see [[autoflowering-cannabis]]) are the safest bet for the short season — 70-90 days seed to harvest fits comfortably between late May and early October. Photoperiod strains risk running into October frost before finishing flower. The blueberry compost at pH 6.5-6.7 lands right in the cannabis sweet spot (6.0-6.5) without any pH adjustment. For mycorrhizal inoculant, confirm the product contains *Rhizophagus irregularis* (endomycorrhizal) — cannabis does not associate with ectomycorrhizal species (see [[mycorrhizal-fungi]]).
+> This recipe works for outdoor cannabis in HRM (Zone 6a, ~140-150 frost-free days). Autoflowering varieties (see [[autoflowering-cannabis]]) are the safest bet for the short season — 70-90 days seed to harvest fits comfortably between late May and early October. Photoperiod strains risk running into October frost before finishing flower. The peat + blueberry compost base with mineral loading lands right in the cannabis sweet spot (pH 6.0-6.5) with nutrient density to match. For mycorrhizal inoculant, confirm the product contains *Rhizophagus irregularis* (endomycorrhizal) — cannabis does not associate with ectomycorrhizal species (see [[mycorrhizal-fungi]]).
 
 ## Halifax Seasonal Timeline
 
@@ -194,9 +201,10 @@ For one 4 ft x 8 ft x 18 in fabric bed, first year:
 ## Key Takeaways
 
 - Fabric beds are closed systems — all biology must come from your inputs, not the ground
-- Blueberry compost (pure fruit + leaf waste, pH 6.5–6.7) replaces both peat and standard compost — no lime needed
-- The compost is carbon-rich but nitrogen-light; alfalfa meal and crustacean meal compensate
-- Test pH after mixing — target 6.0-6.8; add dolomite lime only if the finished mix reads below 6.0
+- Blueberry compost (pure fruit + leaf waste, pH 6.5–6.7) provides clean biology and organic matter
+- Peat pulls the starting pH down, creating headroom to load the soil with calcium, magnesium, and trace minerals via alkaline amendments — more minerals = more nutrient-dense soil
+- Perlite bumped to 20% because compost + peat together hold a lot of moisture — critical for Halifax's wet springs
+- Test pH after mixing — target 6.0-6.8
 - Add red wigglers after 1-2 weeks of buffering; they manufacture castings in the root zone all season
 - Harvest worms in October — they cannot survive a Halifax winter in a fabric bed
 - Insulate walls with straw bales and top with heavy mulch to slow freeze-thaw cycling
@@ -217,5 +225,6 @@ This page synthesizes principles from across the wiki, adapted to Halifax Region
 - [[cover-crops-and-crop-rotation]] — the winter rye that protects soil structure through winter
 - [[soil-ph-and-nutrient-availability]] — why the liming strategy matters
 - [[composting-and-organic-inputs]] — evaluating compost quality
-- [[sphagnum-peat-and-potting-soils]] — why this recipe skips peat in favor of blueberry compost
+- [[sphagnum-peat-and-potting-soils]] — buy bales not bags, and why peat's acidity is a feature
+- [[soil-remineralization]] — the test-driven mineral loading that peat headroom enables
 - [[kelp-and-seaweed]] — the kelp meal amendment and Nova Scotia seaweed harvesting
